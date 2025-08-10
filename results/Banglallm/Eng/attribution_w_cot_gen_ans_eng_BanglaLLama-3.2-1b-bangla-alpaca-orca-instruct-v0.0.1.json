@@ -1,0 +1,1634 @@
+{
+    "fermi/test_realfp/17": {
+        "question_id": "fermi/test_realfp/17",
+        "verdict": "entailment",
+        "actual_response": "So the  answer is 4.2e+14",
+        "gen_response": "4.2e+14 gallons",
+        "lines": [
+            "1. The Atlantic ocean has an area of 41.1e+6 square miles.",
+            "2. One square mile is equal to 640 acres.",
+            "3. One acre-foot is equal to 325,851 gallons.",
+            "4. Thus, the total gallons of water in the Atlantic ocean is 41.1e+6 * 640 * 325,851 = 4.2e+14 gallons."
+        ],
+        "line_importance": [
+            4.006162076948474,
+            -0.11713288148351828,
+            -0.054924292489886284,
+            16.846342875459143
+        ],
+        "exception": "n/a"
+    },
+    "fermi/test_realfp/176": {
+        "question_id": "fermi/test_realfp/176",
+        "verdict": "entailment",
+        "actual_response": "So the  answer is 708",
+        "gen_response": "708",
+        "lines": [
+            "1. The time period between two full moons is 29.5 days.",
+            "2. There are 24 hours in a day.",
+            "3. Thus, the time period between two full moons is 29.5 * 24 = 708 hours."
+        ],
+        "line_importance": [
+            0.6830583203163223,
+            -0.1256336296154685,
+            8.91480827331543
+        ],
+        "exception": "n/a"
+    },
+    "fermi/test_realfp/193": {
+        "question_id": "fermi/test_realfp/193",
+        "verdict": "entailment",
+        "actual_response": "So the  answer is 20",
+        "gen_response": "20",
+        "lines": [
+            "1. A leaky faucet can waste up to 20 gallons of water per day.",
+            "2. Thus, the total amount of water wasted by a leaky faucet in one day is 20 gallons."
+        ],
+        "line_importance": [
+            -0.10335982921967656,
+            0.21887853620654185
+        ],
+        "exception": "n/a"
+    },
+    "fermi/test_realfp/202": {
+        "question_id": "fermi/test_realfp/202",
+        "verdict": "entailment",
+        "actual_response": "So the  answer is 100,000",
+        "gen_response": "100,000",
+        "lines": [
+            "1. Sickle cell anemia affects around 100,000 people in the United States."
+        ],
+        "line_importance": [
+            1.0159020007841064
+        ],
+        "exception": "n/a"
+    },
+    "fermi/test_realfp/233": {
+        "question_id": "fermi/test_realfp/233",
+        "verdict": "entailment",
+        "actual_response": ", it is not possible to give an exact answer to this question.",
+        "gen_response": " The cost of driving a car depends on the type of car, the fuel efficiency, the cost of fuel, and the distance driven.",
+        "lines": [
+            "1. The cost of driving a car depends on the type of car, the fuel efficiency, the cost of fuel, and the distance driven."
+        ],
+        "line_importance": [
+            39.30400735584975
+        ],
+        "exception": "n/a"
+    },
+    "fermi/test_realfp/333": {
+        "question_id": "fermi/test_realfp/333",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is 2000",
+        "gen_response": "2",
+        "lines": [
+            "1. The Lord of the Rings trilogy was produced by New Line Cinema.",
+            "2. The production involved over 2000 people including actors, crew, and technicians."
+        ],
+        "line_importance": [
+            0.1548532615766928,
+            -0.17623348351125281
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__136179_13529": {
+        "question_id": "musique/2hop__136179_13529",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is 1982.",
+        "gen_response": "Iglesia Maradoniana is named after Diego Maradona.",
+        "lines": [
+            "1. Iglesia Maradoniana is named after Diego Maradona.",
+            "2. Diego Maradona was signed by Barcelona in 1982."
+        ],
+        "line_importance": [
+            6.929950417309469,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__141365_417697": {
+        "question_id": "musique/2hop__141365_417697",
+        "verdict": "entailment",
+        "actual_response": "So the  answer is Nissan Altima.",
+        "gen_response": "Mohamed Atta drive a Nissan Altima.",
+        "lines": [
+            "1. Mohamed Atta drove a Nissan Altima.",
+            "2. Nissan is a Japanese multinational automobile manufacturer that includes the Datsun brand."
+        ],
+        "line_importance": [
+            12.916898791868832,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__157498_127908": {
+        "question_id": "musique/2hop__157498_127908",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Major League Soccer (MLS).",
+        "gen_response": "nan",
+        "lines": [
+            "1. The team that uses Dick's Sporting Goods Park is the Colorado Rapids.",
+            "2. The Colorado Rapids play in the Major League Soccer (MLS) league."
+        ],
+        "line_importance": [
+            0.059149987253746754,
+            0.04466008640122705
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__158275_35739": {
+        "question_id": "musique/2hop__158275_35739",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is October 26, 2012.",
+        "gen_response": "\"একটি ইন্টারনেট ব্রয়ার্সের সংস্করণ অফ ওয়েবসাইট 8 অফ ওয়েবসাইট 8 অফ ওয়েবসাইট 8 অফ ওয়েবসাইট 8 অফ ওয়েবসাইট 8 অফ ওয়েবসাইট 8 অফ ওয়েবসাইট 8 অফ ওয়েবসাইট 8 অফ ওয়েবসাইট 8 অফ ওয়েবসাইট 8 অ",
+        "lines": [
+            "1. Microsoft's Internet Explorer 10 was made accessible for Windows 8 on October 26, 2012."
+        ],
+        "line_importance": [
+            -0.0
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__169443_83769": {
+        "question_id": "musique/2hop__169443_83769",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is O'Bannion.",
+        "gen_response": "Ben Affleck.",
+        "lines": [
+            "1. The screenwriter for Good Will Hunting is Ben Affleck.",
+            "2. Ben Affleck played the character O'Bannion in the movie Dazed and Confused."
+        ],
+        "line_importance": [
+            0.09148889244044162,
+            -1.4382665892982907
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__170341_43945": {
+        "question_id": "musique/2hop__170341_43945",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is argued for the independence of the United States from Britain.",
+        "gen_response": "কারণ এটি একটি প্রদত্ত প্রশ্নের উত্তর দেয় এবং একটি নির্দিষ্ট প্রতিক্রিয়া প্রদান করে। এটি একটি সম্পূর্ণ প্রতিক্রিয়া প্রদান করে না, তবে এটি একটি নির্দিষ্ট প্রতিক্রিয়া প্রদান করে এবং একটি সম্পূর্ণ প্রতিক্রিয়া প্রদ",
+        "lines": [
+            "1. Common Sense, by Thomas Paine, was an important work because it argued for the independence of the United States from Britain."
+        ],
+        "line_importance": [
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__207597_73244": {
+        "question_id": "musique/2hop__207597_73244",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Drakensberg Mountains.",
+        "gen_response": "The Caledon River is a major river in South Africa.",
+        "lines": [
+            "1. The Caledon River is located in South Africa.",
+            "2. The origin of the Caledon River is in the Drakensberg Mountains."
+        ],
+        "line_importance": [
+            0.09344013175552551,
+            -0.9310939872931872
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__35209_17335": {
+        "question_id": "musique/2hop__35209_17335",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is 323BC.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The invader of the Archaemenid Empire in 334BC was Alexander the Great.",
+            "2. Alexander the Great died in 323BC."
+        ],
+        "line_importance": [
+            -0.36375111800529825,
+            -0.8245288490001211
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__370911_589237": {
+        "question_id": "musique/2hop__370911_589237",
+        "verdict": "entailment",
+        "actual_response": "So the  answer is Sheila Hancock.",
+        "gen_response": "John Thaw's spouse is Sheila Hancock.",
+        "lines": [
+            "1. The Redcap cast member is John Thaw.",
+            "2. John Thaw's spouse is Sheila Hancock."
+        ],
+        "line_importance": [
+            0.0,
+            7.86311606762803
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__42464_718451": {
+        "question_id": "musique/2hop__42464_718451",
+        "verdict": "entailment",
+        "actual_response": "So the  answer is physicist and chemist.",
+        "gen_response": "2. Henry Cavendish was a physicist and chemist.",
+        "lines": [
+            "1. Henry Cavendish was the physicist who made the first measurement of the value of the Newton Universal Gravitation Constant.",
+            "2. Henry Cavendish was a physicist and chemist."
+        ],
+        "line_importance": [
+            2.273654301498425,
+            19.19215057738926
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__50068_494136": {
+        "question_id": "musique/2hop__50068_494136",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Laura Savoie.",
+        "gen_response": "Dennis Quaid played Father in the movie I Can Only Imagine.",
+        "lines": [
+            "1. Dennis Quaid played Father in the movie I Can Only Imagine.",
+            "2. Dennis Quaid's spouse is Laura Savoie."
+        ],
+        "line_importance": [
+            12.3484976650437,
+            -3.4945556607614394
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__51261_87295": {
+        "question_id": "musique/2hop__51261_87295",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Queen Clarisse Renaldi.",
+        "gen_response": "Julie Andrews played Maryland Poppins in the 1964 film.",
+        "lines": [
+            "1. Julie Andrews played Mary Poppins in the 1964 film.",
+            "2. In the 2001 film Princess Diaries, Julie Andrews played Queen Clarisse Renaldi."
+        ],
+        "line_importance": [
+            11.294856910023546,
+            0.23416344527459448
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__51965_165532": {
+        "question_id": "musique/2hop__51965_165532",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Elizabeth Ashley.",
+        "gen_response": "প্রদত্ত তথ্যের উপর ভিত্তি করে, প্রশ্নের উত্তর হল জর্জ পেপ্পার্ড। প্রদত্ত তথ্য অনুসারে, জর্জ পেপ্পার্ড প্রথম প্রদত্ত প্রশ্নের উত্তর দিয়েছিলেন। তিনি প্রথম প্রশ্নের উত্তর দিয়েছিলেন এবং পরে প্রশ্নের উত্তর দিয়েছিলেন। তাই প্�",
+        "lines": [
+            "1. George Peppard plays Paul in Breakfast at Tiffany's.",
+            "2. George Peppard's spouse is Elizabeth Ashley."
+        ],
+        "line_importance": [
+            0.0,
+            -0.0
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__552546_70131": {
+        "question_id": "musique/2hop__552546_70131",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is free corps.",
+        "gen_response": "The Free State of Mecklenburg-Schwerin is located in Germany.",
+        "lines": [
+            "1. The Free State of Mecklenburg-Schwerin is located in Germany.",
+            "2. The free corps constituted the free corps in the country of Germany."
+        ],
+        "line_importance": [
+            5.037811746261812,
+            1.1188864437016854
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__56851_343058": {
+        "question_id": "musique/2hop__56851_343058",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Adrian Edmondson.",
+        "gen_response": "2",
+        "lines": [
+            "1. The actress who played the fairy god mother in Shrek 2 is Jennifer Saunders.",
+            "2. Jennifer Saunders is married to Adrian Edmondson."
+        ],
+        "line_importance": [
+            0.6622231159722431,
+            1.8032061621603457
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__57638_72467": {
+        "question_id": "musique/2hop__57638_72467",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Chicago Bulls.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The highest point average holder in NBA history is Michael Jordan.",
+            "2. The Chicago Bulls picked Michael Jordan in the NBA draft."
+        ],
+        "line_importance": [
+            0.8165740375794082,
+            0.08531960776330032
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__620853_22458": {
+        "question_id": "musique/2hop__620853_22458",
+        "verdict": "entailment",
+        "actual_response": "So the  answer is Fédération Haïtienne de Football.",
+        "gen_response": "The Haiti national football team belongs to the Fédération Haïtienne de Football (FHF)",
+        "lines": [
+            "1. The Haiti national football team belongs to the Fédération Haïtienne de Football (FHF).",
+            "2. The FHF stands for Fédération Haïtienne de Football."
+        ],
+        "line_importance": [
+            3.6251875633261372,
+            -3.960081393588824
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__66167_72467": {
+        "question_id": "musique/2hop__66167_72467",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Philadelphia Warriors.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The player who scored the most points in a NBA season was Wilt Chamberlain.",
+            "2. Wilt Chamberlain was drafted by the Philadelphia Warriors in the 1959 NBA Draft."
+        ],
+        "line_importance": [
+            0.0,
+            -0.27660603495100694
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__68590_27619": {
+        "question_id": "musique/2hop__68590_27619",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Frankfurt.",
+        "gen_response": "The agency that controls the monetary policy of the EU is the European Central Bank (ECB)",
+        "lines": [
+            "1. The agency that controls the monetary policy of the EU is the European Central Bank (ECB).",
+            "2. The mission of the ECB is located in Frankfurt, Germany."
+        ],
+        "line_importance": [
+            5.5226786037609426,
+            -1.0378692926660227
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__77878_189357": {
+        "question_id": "musique/2hop__77878_189357",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Stanford Law School.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The first woman appointed to the Supreme Court was Sandra Day O'Connor.",
+            "2. She was educated at Stanford Law School."
+        ],
+        "line_importance": [
+            -0.8153223247483783,
+            -0.010604494248375305
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__82270_177869": {
+        "question_id": "musique/2hop__82270_177869",
+        "verdict": "entailment",
+        "actual_response": "So the  answer is Michelle Obama.",
+        "gen_response": "Michelle Obama",
+        "lines": [
+            "1. The first nominated African American presidential candidate was Barack Obama.",
+            "2. Barack Obama's spouse is Michelle Obama."
+        ],
+        "line_importance": [
+            -0.1347545790166938,
+            1.7367785241846831
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__84937_148696": {
+        "question_id": "musique/2hop__84937_148696",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Governor-General of India.",
+        "gen_response": "Warren Hastings was impeached in England for acts committed as governor general of India.",
+        "lines": [
+            "1. Warren Hastings was impeached in England for acts committed as governor general of India.",
+            "2. Warren Hastings was the first Governor-General of India."
+        ],
+        "line_importance": [
+            4.787326625528786,
+            -1.653165022511132
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__88149_807969": {
+        "question_id": "musique/2hop__88149_807969",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Blackburn Rovers.",
+        "gen_response": "লিভার্প",
+        "lines": [
+            "1. The all time top goal scorer in premier league in one season is Alan Shearer.",
+            "1. The all time top goal scorer in the Premier League in one season is Mohamed Salah, who plays for Liverpool.",
+            "2. Alan Shearer played for Blackburn Rovers.",
+            "2. So the final answer is: Liverpool."
+        ],
+        "line_importance": [
+            -0.3407913897920229,
+            0.6972204521007456,
+            -0.5979275703430176,
+            3.366489665211723
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__96410_159054": {
+        "question_id": "musique/2hop__96410_159054",
+        "verdict": "entailment",
+        "actual_response": "So the  answer is The Bourne Identity.",
+        "gen_response": "3. The Bourne Betrayal was based on the character Jason Bourne from the book called The Bourne Betrayal.",
+        "lines": [
+            "1. The Bourne Betrayal was based on the book called The Bourne Identity.",
+            "2. The Bourne Betrayal was based on the story called The Bourne Identity.",
+            "3. The character Jason Bourne was based on the character called Jason Bourne from the book called The Bourne Identity."
+        ],
+        "line_importance": [
+            6.71207180457863,
+            6.699475047068961,
+            18.60498458147049
+        ],
+        "exception": "n/a"
+    },
+    "sports/10": {
+        "question_id": "sports/10",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত বাক্যটি বোঝায় না যে লুক ভোয়েট কোন বাক্যাংশের সাথে যুক্ত কিছু নয়। বাক্যটি শুধুমাত্র বলে যে লুক ভোয়েট একজন বাস্কেটবল খেলোয়াড় এবং তিনি একজন বাস্কেটবল খেলোয়াড় হিসাবে কাজ করেন। তিনি এক",
+        "lines": [
+            "1. Luke Voit is a baseball player.",
+            "2. Being out at first is part of baseball."
+        ],
+        "line_importance": [
+            0.7926037480465169,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/121": {
+        "question_id": "sports/121",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না.",
+        "lines": [
+            "1. Luke Voit is a baseball player.",
+            "2. Hitting a single is part of baseball."
+        ],
+        "line_importance": [
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/130": {
+        "question_id": "sports/130",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না, প্রদত্ত বাক্যটি প্রদত্ত তথ্যের সাথে সম্পর্কিত নয়। এটি একটি সম্পূর্ণ ভিন্ন বিবৃতি যা সম্পূর্ণ ভিন্ন পরিস্থিতি বর্ণনা করে।",
+        "lines": [
+            "1. Luka Modric is a soccer player.",
+            "2. Going in studs up is part of soccer.",
+            "3. The FA Cup is a soccer tournament."
+        ],
+        "line_importance": [
+            0.0,
+            -0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/138": {
+        "question_id": "sports/138",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত বাক্যটি সঠিক নয়। এটি বলে যে ট্রেন্ট গ্রিসম একজন বাস্কেটবল খেলোয়াড়, যা সঠিক নয়। এটি বলে যে তিনি একজন বাস্কেটবল খেলোয়াড়, যা সঠিক নয়। এটি বলে যে তিনি একজন বাস্কেটবল খেলোয়াড়, যা সঠিক ন�",
+        "lines": [
+            "1. Trent Grisham is a baseball player.",
+            "2. Striking out is part of baseball."
+        ],
+        "line_importance": [
+            3.0854119356522363,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/139": {
+        "question_id": "sports/139",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না, প্রদত্ত বাক্যটি বোঝায় না যে মালিক বেজালি তিনটি সেকেন্ড ভ্রমণ করেছেন। বাক্যটি শুধুমাত্র মালিক বেজালির ক্যারিয়ার এবং তার ক্যারিয়ারের সময়কাল সম্পর্কে তথ্য প্রদান করে। তিনি কোন ভ্রমণ করেছেন বা তার ক্যারিয়ারে তার কোন",
+        "lines": [
+            "1. Malik Beasley is a basketball player.",
+            "2. Committing a three second violation is part of basketball."
+        ],
+        "line_importance": [
+            0.0,
+            -0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/140": {
+        "question_id": "sports/140",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না, প্রদত্ত বাক্যটি প্রকৃতপক্ষে প্রস্তাবিত উত্তর নয়। এটি একটি সম্ভাব্য উত্তর হতে পারে, \"জামিসন ক্রুডার একটি ফ্লাইগ দিয়েছিলেন।\" যাইহোক, এটি একটি সম্ভাব্য উত্তর হতে পারে, \"জামিসন ক্রুডার একটি ফ্লাইগ দিয়েছিলেন।\" এ�",
+        "lines": [
+            "1. Jamison Crowder is an American football player.",
+            "2. Drawing a flag on the play is part of American football."
+        ],
+        "line_importance": [
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/142": {
+        "question_id": "sports/142",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত বিবৃতি অনুমানযোগ্য কারণ এটি একটি সম্পূর্ণ ভিন্ন ধারণা বলে মনে হচ্ছে। প্রদত্ত বিবৃতিটি একটি সম্পূর্ণ ভিন্ন ধারণা বলে মনে হচ্ছে কারণ এটি একটি সম্পূর্ণ ভিন্ন ধারণা বলে মনে হচ্ছে। প্রদত্ত বিবৃতিটি একটি স",
+        "lines": [
+            "1. Keenan Allen is an American football player.",
+            "2. Launching a hail mary is part of American football."
+        ],
+        "line_importance": [
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/167": {
+        "question_id": "sports/167",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না, প্রদত্ত বাক্যটি প্রকৃতপক্ষে অসম্ভাব্য। এটি একটি সম্ভাব্য প্রতিক্রিয়া বা প্রতিক্রিয়া হিসাবে ব্যবহার করা যেতে পারে, কিন্তু এটি একটি সম্ভাব্য প্রতিক্রিয়া বা প্রতিক্রিয়া হিসাবে ব্যবহার করা যেতে পারে না।",
+        "lines": [
+            "1. Deshaun Watson is an American football player.",
+            "2. Being flagged on a play is part of American football."
+        ],
+        "line_importance": [
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/187": {
+        "question_id": "sports/187",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "হ্যাঁ, প্রদত্ত বাক্যটি বোঝা যায়। এটি বলে যে Zach LaVine একজন বাস্কেটবল খেলোয়াড় এবং তিনি তার দলের সাথে লড়াই করছেন। তিনি তার দলের সাথে লড়াই করছেন এবং তার দলের সাথে লড়াই করছেন। তাই, এটি বোঝা যায় যে তিনি তার দলের সাথে",
+        "lines": [
+            "1. Zach LaVine is a basketball player.",
+            "2. Committing a three second violation is part of basketball."
+        ],
+        "line_importance": [
+            0.9329389111608077,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/190": {
+        "question_id": "sports/190",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "হ্যাঁ, এটা প্রস্তাবিত বাক্যাংশ। একটি বাক্যাংশ হল একটি বাক্যের একটি সংক্ষিপ্ত সংস্করণ যা একটি বাক্যের প্রতিটি শব্দ বা বাক্যাংশের একটি সংক্ষিপ্ত উপস্থাপনা প্রদান করে। এই ক্ষেত্রে, আমরা একটি বাক্যাংশ তৈরি করতে ব্যবহৃত �",
+        "lines": [
+            "1. Andrew Wiggins is a basketball player.",
+            "2. Airballing a shot is part of basketball."
+        ],
+        "line_importance": [
+            0.0,
+            -0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/199": {
+        "question_id": "sports/199",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. একটি সুসংগত প্রতিক্রিয়া হল \"জন জন্স একটি বাম পায়ে শট করেছেন।\" এটি সঠিক প্রতিক্রিয়া নয় কারণ এটি একটি সুসংগত প্রতিক্রিয়া নয়। এটি একটি সম্পূর্ণ বিবৃতি যা একটি সুসংগত প্রতিক্রিয়া নয়।",
+        "lines": [
+            "1. Jones is a soccer player.",
+            "2. Taking a left footed shot is part of soccer."
+        ],
+        "line_importance": [
+            0.0,
+            0.6072662209029599
+        ],
+        "exception": "n/a"
+    },
+    "sports/203": {
+        "question_id": "sports/203",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত তথ্যের ভিত্তিতে, এটি অসম্ভাব্য যে সুইজার একজন বাস্কেটবল খেলোয়াড়। সুইজার একজন বাস্কেটবল খেলোয়াড় নয় এবং একজন বাস্কেটবল খেলোয়াড় হিসাবে তার ক্যারিয়ার সম্পর্কে কোনও তথ্য দেওয়া হয়ন",
+        "lines": [
+            "1. Eugenio Suarez is a baseball player.",
+            "2. Pitching a complete game is part of baseball."
+        ],
+        "line_importance": [
+            2.400872545435031,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/212": {
+        "question_id": "sports/212",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. এটি সম্ভব নয় কারণ এটি একটি বিবৃতি যা একটি নির্দিষ্ট ক্রিয়া বা কার্যকলাপ সম্পর্কে একটি বিবৃতি দেয় যা একটি নির্দিষ্ট ক্রিয়া বা কার্যকলাপ সম্পর্কে একটি বিবৃতি দেয়। এই ক্ষেত্রে, আমাদের একটি নির্দিষ্ট ক্রিয়া ব",
+        "lines": [
+            "1. Mikko Rantanen is a hockey player.",
+            "2. Entering the attacking zone is part of hockey."
+        ],
+        "line_importance": [
+            0.0,
+            -0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/223": {
+        "question_id": "sports/223",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত তথ্যের ভিত্তিতে, এটি অসম্ভাব্য যে একজন বাস্কেটবল খেলোয়াড় একটি পুরো গেম খেলেছেন। একটি পুরো গেম খেলা একটি পুরো গেম নয়, একটি পুরো গেম খেলা একটি পুরো গেম নয়। একটি পুরো গেম খেলা একটি পু",
+        "lines": [
+            "1. Zack Greinke is a baseball player.",
+            "2. Pitching a complete game is part of baseball."
+        ],
+        "line_importance": [
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/227": {
+        "question_id": "sports/227",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত তথ্যের ভিত্তিতে বলা যায় না যে নিক্লাস ব্যাকস্ট্রম একটি পেনালি বক্সে যাওয়ার সম্ভাবনা রয়েছে। প্রদত্ত তথ্য বলে যে নিক্লাস ব্যাকস্ট্রম একটি পেনালি বক্সে যাওয়ার সম্ভাবনা রয়েছে, কিন্তু এটি একটি পেনালি বক্সে য",
+        "lines": [
+            "1. Nicklas Backstrom is a hockey player.",
+            "1. Nicklas Backstrom is a hockey player.",
+            "2. Earning a trip to the penalty box is part of hockey.",
+            "2. Earning a trip to the penalty box is part of hockey."
+        ],
+        "line_importance": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/23": {
+        "question_id": "sports/23",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত বাক্যটি ব্যাকরণগতভাবে সঠিক নয় কারণ এটি ব্যাকরণগতভাবে সঠিক নয়। বাক্যটি ব্যাকরণগতভাবে সঠিক কিনা তা নিশ্চিত করতে আমি একটি বাক্য পরীক্ষা করব। এই ক্ষেত্রে, বাক্যটি ব্যাকরণগতভাবে সঠিক নয় কারণ এটি ব্যাকর",
+        "lines": [
+            "1. Malcolm Brogdon is a basketball player.",
+            "2. Eurostepping to the basket is part of basketball.",
+            "3. The NBA Championship is the championship for basketball."
+        ],
+        "line_importance": [
+            0.0,
+            -0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/239": {
+        "question_id": "sports/239",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত তথ্যের ভিত্তিতে, এটি অসম্ভাব্য যে Josh Allen একটি স্ক্রিন পাস ক্যাপচার করেছেন। একটি স্ক্রিন পাস একটি পাস যা একটি রেফারেল বা প্রতিরক্ষার লাইনের মধ্যে পাস করা হয় এবং এটি সাধারণত একটি বুলেট বা বুলেট ব্যবহার করে ক্যাপ",
+        "lines": [
+            "1. Josh Allen is an American football player.",
+            "2. Catching a screen pass is part of American football."
+        ],
+        "line_importance": [
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/304": {
+        "question_id": "sports/304",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "\"Toni Kroos take a throw in in the Champions League Semifinal\" is a plausible sentence.",
+        "lines": [
+            "1. Toni Kroos is a soccer player.",
+            "2. Taking a throw in is part of soccer."
+        ],
+        "line_importance": [
+            -0.3105437141953449,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/378": {
+        "question_id": "sports/378",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না, প্রদত্ত বাক্যটি বোঝা যায় না। প্রদত্ত বাক্যটি বলে যে Jaylen Brown একজন বাস্কেটবল খেলোয়াড়, কিন্তু এটি বলে যে তিনি একজন বাস্কেটবল খেলোয়াড়। এটি বাস্কেটবল খেলার সাথে সম্পর্কিত নয় এবং এটি একটি বাস্কেটবল খেলো�",
+        "lines": [
+            "1. Jaylen Brown is a basketball player.",
+            "2. Being called for the goal tend is part of basketball."
+        ],
+        "line_importance": [
+            0.5900089164756616,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/390": {
+        "question_id": "sports/390",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত বিবৃতি বিশ্লেষণ করার পরে, আমরা দেখতে পাচ্ছি যে এটি একটি বিবৃতি যা বিশ্লেষণ করা যেতে পারে না। বিবৃতিটি বলে যে টম ওয়াইল্ডার একজন হকি খেলোয়াড়, যা সঠিক নয়। বিবৃতিটি বলে যে বাকহাঁড শট হল একটি হকি খ",
+        "lines": [
+            "1. Tom Wilson is a hockey player.",
+            "2. Backhanding a shot is part of hockey."
+        ],
+        "line_importance": [
+            2.76583359349774,
+            4.212128834556101
+        ],
+        "exception": "n/a"
+    },
+    "sports/402": {
+        "question_id": "sports/402",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না, প্রদত্ত বিবৃতি সম্পূর্ণরূপে সম্ভব নয়। এটি একটি সম্ভাব্য প্রতিক্রিয়া বলে মনে হচ্ছে, কিন্তু এটি সম্পূর্ণরূপে সম্ভব নয়। একটি সম্ভাব্য প্রতিক্রিয়া হল \"লামার জন্য একটি ট্রিপ করা হয়েছে।\"",
+        "lines": [
+            "1. Lamar Jackson is a American football player.",
+            "2. Scoring a touchdown is part of American football."
+        ],
+        "line_importance": [
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/427": {
+        "question_id": "sports/427",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত তথ্যের ভিত্তিতে, এটি সম্ভব যে ডেভিড ভিলা একজন সোশ্যাল স্পোর্টস খেলোয়াড়, তবে এটি সম্পূর্ণ সঠিক নয়। একজন সোশ্যাল স্পোর্টস খেলোয়াড় হলেন একজন সোশ্যাল স্পোর্টস খেলোয়াড় যিনি সোশ্যাল মিডিয়",
+        "lines": [
+            "1. David Villa is a soccer player.",
+            "2. Earning a red card in the World Cup is part of soccer."
+        ],
+        "line_importance": [
+            1.2123019440212202,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/469": {
+        "question_id": "sports/469",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত বিবৃতি অনুমানযোগ্য নয়। প্রদত্ত বিবৃতি হল \"পেটে আলভো হয়েছেন একটি হোমার\" এবং এটি একটি বাস্কেটবল খেলোয়াড় হিসাবে পেটে আলভোর ক্যারিয়ার সম্পর্কে তথ্য প্রদান করে। এটি একটি হোমার হওয়ার কো",
+        "lines": [
+            "1. Alonso is a baseball player.",
+            "2. Hitting a homerun is part of baseball."
+        ],
+        "line_importance": [
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/49": {
+        "question_id": "sports/49",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না, প্রদত্ত বিবৃতির উপর ভিত্তি করে সঠিক উত্তর হল \"না\"। প্রতিবেদনে বলা হয়েছে যে রাদেল ফালকো একজন সফল ফুটবলার যিনি একজন সফল ফুটবলার হিসাবে বিবেচিত হন। এটি একটি সফল ফুটবলার হিসাবে তার ক্যারিয়ারের সাথে সম্পর্কিত এ",
+        "lines": [
+            "1. Radamel Falcao is a soccer player.",
+            "2. Earning an indirect kick is part of soccer."
+        ],
+        "line_importance": [
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/563": {
+        "question_id": "sports/563",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত বিবৃতি বিবেচনা করার সময়, আমরা এই সিদ্ধান্তে পৌঁছাতে পারি না যে ম্যাট চ্যাপমন একজন বাস্কেটবল খেলোয়াড়। প্রতিবেদনটি শুধুমাত্র ম্যাট চ্যাপমনের ক্যারিয়ার এবং তার ক্যারিয়ারের সম্পর্কে তথ্য প্রদান করে, কিন",
+        "lines": [
+            "1. Matt Chapman is a baseball player.",
+            "2. Hitting a walkoff homer is part of baseball."
+        ],
+        "line_importance": [
+            3.98115262424906,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/573": {
+        "question_id": "sports/573",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না, বেন সিমসন স্ক্রিন কল করেননি। স্ক্রিন হল একটি বাস্কেটবল পদ্ধতি যা একটি বাস্কেটবল প্লেয়ার একটি স্ক্রিনের মাধ্যমে একটি পাস করে এবং একটি বাস্কেটবল প্লেয়ার একটি স্ক্রিনের মাধ্যমে একটি জাপ করে। স্ক্রিন হল একটি বাস্কে",
+        "lines": [
+            "1. Ben Simmons is a basketball player.",
+            "2. Calling for the screen is part of basketball."
+        ],
+        "line_importance": [
+            0.0,
+            0.5523338274894374
+        ],
+        "exception": "n/a"
+    },
+    "sports/627": {
+        "question_id": "sports/627",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত তথ্যের ভিত্তিতে বলা যায় না যে নিউজ কর্নার ব্যক্তি হলেন একজন হকি খেলোয়াড়। প্রদত্ত তথ্য বলে যে Nylander একজন হকি খেলোয়াড়, তবে এটি তার নাম বা ক্যারিয়ার সম্পর্কে কোনও তথ্য প্রদান করে না। অতএব, প্রদত্ত তথ্�",
+        "lines": [
+            "1. Nylander is a hockey player.",
+            "1. William Nylander is a hockey player.",
+            "2. Crossing the blue line is part of hockey.",
+            "2. Crossing the blue line is part of hockey."
+        ],
+        "line_importance": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/636": {
+        "question_id": "sports/636",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত বাক্যটি অসম্ভাব্য কারণ এটি একটি সম্পূর্ণ ভিন্ন বিবৃতি বলে মনে হচ্ছে। প্রদত্ত বাক্যটি হল \"Ryan Tannehill is a American Football player\" এবং এটি একটি সম্পূর্ণ ভিন্ন বিবৃতি বলে মনে হচ্ছে। এটি একটি সম্পূর্ণ ভিন্ন বিবৃতি বলে মনে হচ্ছে কারণ এটি",
+        "lines": [
+            "1. Tannehill is a American football player.",
+            "1. Ryan Tannehill is an American football player.",
+            "2. Scoring a touchdown is part of American football.",
+            "2. Scoring a touchdown is part of American football."
+        ],
+        "line_importance": [
+            0.01565615678214857,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/647": {
+        "question_id": "sports/647",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত বিবৃতি অনুমানযোগ্য নয় কারণ এটি একটি সম্পূর্ণ ভিন্ন পরিস্থিতি বর্ণনা করে যেখানে একজন ফুটবল খেলোয়াড় অবশ্যই অবশ্যই অবশ্যই অবশ্যই অবশ্যই অবশ্যই অবশ্যই অবশ্যই অবশ্যই অবশ্যই অবশ্যই অ�",
+        "lines": [
+            "1. Mike Evans is an American football player.",
+            "2. Running out of bounds is part of American football."
+        ],
+        "line_importance": [
+            0.6715781300875053,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/667": {
+        "question_id": "sports/667",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত প্রমাণের উপর ভিত্তি করে, এটি অনুমান করা যেতে পারে যে হলুদ বুজার বেটার হল একটি বাইসাইকেল বা বাইসাইকেল যা একটি বাইসাইকেল বা বাইসাইকেল দ্বারা সংযুক্ত একটি বাইসাইকেল বা বাইসাইকেল দ্বারা সংযুক্ত একটি",
+        "lines": [
+            "1. Dougie Hamilton is a hockey player.",
+            "2. Hitting the buzzer beater is part of hockey."
+        ],
+        "line_importance": [
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/670": {
+        "question_id": "sports/670",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত বিবৃতি বিশ্লেষণ করার পরে, আমরা দেখতে পাচ্ছি যে এটি বিভিন্ন ধরনের ফুল এবং ব্যক্তিগত ফুলের সাথে সম্পর্কিত। একটি ব্যক্তিগত ফুল একটি ব্যক্তিগত ফুল যা একটি ব্যক্তিগত ফুলের সাথে সম্পর্কিত একটি ব্যক্তিগত ফু�",
+        "lines": [
+            "1. Kevin Durant is a basketball player.",
+            "2. Commiting an offensive foul is part of basketball."
+        ],
+        "line_importance": [
+            0.0,
+            -0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/68": {
+        "question_id": "sports/68",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না, প্রদত্ত বিবৃতি অসম্ভাব্য। এটি একটি সম্ভাব্য বিবৃতি হতে পারে: \"কেনান আলান একটি ট্রিপ করেছেন।\" এটি একটি সম্ভাব্য বিবৃতি হতে পারে: \"কেনান আলান একটি ট্রিপ করেছেন।\" এটি একটি সম্ভাব্য বিবৃতি হতে পারে: \"কেনান আলান একটি ট",
+        "lines": [
+            "1. Keenan Allen is an American football player.",
+            "2. Throwing a touchdown is part of American football."
+        ],
+        "line_importance": [
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/697": {
+        "question_id": "sports/697",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না, সেই বিবৃতিটি প্রস্তাবিত নয়। সঠিক উত্তর হল \"জন কার্লসন একটি হকি খেলোয়াড়।\"",
+        "lines": [
+            "1. Carlson is a hockey player.",
+            "2. The attacking zone is part of hockey."
+        ],
+        "line_importance": [
+            7.2481129195896195,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/706": {
+        "question_id": "sports/706",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না, প্রদত্ত বাক্যটি বোঝা যায় না। বাক্যটি বলে যে ব্যক্তি ব্যাটম্যান হলেন ব্যাটম্যান, কিন্তু বাক্যটি ব্যাটম্যানের ক্রিয়াকলাপ বা কার্যকলাপ সম্পর্কে কোনও তথ্য প্রদান করে না। অতএব, এটি বোঝা যায় না যে ব্যক্তি ব্যাটম্যান হলে",
+        "lines": [
+            "1. Woodruff is a baseball player.",
+            "2. Walking to first base is part of baseball."
+        ],
+        "line_importance": [
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/71": {
+        "question_id": "sports/71",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "হ্যাঁ, এটা সঠিক বলে মনে হচ্ছে। একজন বাস্কেটবল খেলোয়াড় হিসাবে তার ক্যারিয়ারের সময় তার ব্যক্তিগত ক্যারিয়ার এবং ক্যারিয়ারের সাথে সম্পর্কিত একটি বাস্কেটবল খেলা হতে পারে। একটি বাস্কেটবল খেলা একটি বাস্কেটবল খেল",
+        "lines": [
+            "1. Trae Young is a basketball player.",
+            "1. Trae Young is a basketball player.",
+            "2. A blocking foul is part of basketball.",
+            "2. Committing a blocking foul is part of basketball.",
+            "3. So the answer is yes.",
+            "3. The NBA Championship is the championship of the National Basketball Association."
+        ],
+        "line_importance": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            -0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/735": {
+        "question_id": "sports/735",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. এই বিবৃতিটি সম্পূর্ণরূপে সঠিক নয় কারণ এটি একটি সম্পূর্ণ বিবৃতি নয়। এটি একটি সম্পূর্ণ বিবৃতি নয় কারণ এটি একটি সম্পূর্ণ বিবৃতি নয়। এটি একটি সম্পূর্ণ বিবৃতি নয় কারণ এটি একটি সম্পূর্ণ বিবৃতি নয",
+        "lines": [
+            "1. Javi Martinez is a soccer player.",
+            "1. Javi Martinez is a soccer player.",
+            "2. Shootouts are part of soccer.",
+            "2. Scoring in a shootout is part of soccer."
+        ],
+        "line_importance": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/74": {
+        "question_id": "sports/74",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "\"DK Metcalf hit the wheel route\" is plausible.",
+        "lines": [
+            "1. DK Metcalf is an American football player.",
+            "2. Hitting the wheel route is part of American football."
+        ],
+        "line_importance": [
+            -0.8562345496855259,
+            1.584524840954456
+        ],
+        "exception": "n/a"
+    },
+    "sports/758": {
+        "question_id": "sports/758",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "হ্যাঁ, প্রদত্ত বাক্যটি প্রাসঙ্গিক এবং প্রস্তাবিত উত্তরটি সঠিক। এটি একটি সম্ভাব্য প্রশ্ন হতে পারে: \"কে সবচেয়ে সাধারণ লাইপ করে?\" এবং উত্তরটি হল \"কে সবচেয়ে সাধারণ লাইপ করে?\" এই প্রশ্নের উত্তর দেওয়ার জন্য, আমাদের প্রদ",
+        "lines": [
+            "1. Caris LeVert is a basketball player.",
+            "2. Scoring the easy layup is part of basketball."
+        ],
+        "line_importance": [
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/774": {
+        "question_id": "sports/774",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না.",
+        "lines": [
+            "1. Hart is a basketball player.",
+            "2. Eurostepping to the basket is part of basketball."
+        ],
+        "line_importance": [
+            -0.14404783490896234,
+            -0.045319933244577185
+        ],
+        "exception": "n/a"
+    },
+    "sports/782": {
+        "question_id": "sports/782",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": " Pietrangelo is a hockey player.\n2. Backhanding a shot is part of hockey.\n3. Pietrangelo backhanded a shot.",
+        "lines": [
+            "1. Pietrangelo is a hockey player.",
+            "1. Alex Pietrangelo is a hockey player.",
+            "2. Backhanding a shot is part of hockey.",
+            "2. Backhanding a shot is part of hockey."
+        ],
+        "line_importance": [
+            7.758032371093605,
+            2.669012593047238,
+            10.405342072248459,
+            9.328313528838924
+        ],
+        "exception": "n/a"
+    },
+    "sports/878": {
+        "question_id": "sports/878",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "হ্যাঁ, এটি প্রদত্ত বিবৃতির উপর ভিত্তি করে সঠিক বলে মনে হয়। একজন সফল সফটবল খেলোয়াড় হিসাবে, মারিও গোমেজ গোল করার জন্য একটি দুর্দান্ত ক্ষমতা রয়েছে, যা তাকে একটি দুর্দান্ত সফটবল খেলোয়াড় করে তোলে। তার ক",
+        "lines": [
+            "1. Mario Gomez is a soccer player.",
+            "2. Earning a direct kick is part of soccer."
+        ],
+        "line_importance": [
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/88": {
+        "question_id": "sports/88",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "হ্যাঁ, এটি প্রদত্ত প্রসঙ্গে প্রাসঙ্গিক এবং সম্ভব। যাইহোক, এটি লক্ষ করা উচিত যে এটি একটি সম্ভাব্য প্রশ্ন এবং একটি সম্ভাব্য উত্তর হিসাবে ব্যবহার করা যেতে পারে।",
+        "lines": [
+            "1. Shai Gilgeous-Alexander is a basketball player.",
+            "2. Committing a three second violation is part of basketball."
+        ],
+        "line_importance": [
+            -0.0,
+            -0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/882": {
+        "question_id": "sports/882",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. প্রদত্ত বাক্যটি বোঝায় যে মিকি ট্রু একজন বাস্কেটবল খেলোয়াড়, তবে এটি বোঝায় না যে তিনি একজন বাস্কেটবল খেলোয়াড়। এটি একটি বাস্কেটবল খেলোয়াড় হিসাবে তার ক্রিয়াকলাপ বর্ণনা করে, কিন্তু এটি তার ক্রিয়",
+        "lines": [
+            "1. Mike Trout is a baseball player.",
+            "2. Being out at first is part of baseball."
+        ],
+        "line_importance": [
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/933": {
+        "question_id": "sports/933",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "হ্যাঁ, ব্রাড হ্যান্ড একজন বাস্কেটবল খেলোয়াড়। এটি একটি বাস্কেটবল খেলায় একটি বড় হয়ে ওঠা বা একটি বড় হয়ে ওঠা একটি বড় হয়ে ওঠা বা একটি বড় হয়ে ওঠা বা একটি বড় হয়ে ওঠা বা একটি বড় হয়ে ওঠা ব",
+        "lines": [
+            "1. Brad Hand is a baseball player.",
+            "2. Hitting a double is part of baseball."
+        ],
+        "line_importance": [
+            3.4253110626157612,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/980": {
+        "question_id": "sports/980",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না. একটি বাক্যাংশ একটি বাক্যের একটি অংশ হিসাবে কাজ করে এবং একটি বাক্যের একটি অংশ হিসাবে কাজ করে না। একটি বাক্যে একটি বাক্যাংশ একটি বাক্যের একটি অংশ হিসাবে কাজ করে এবং একটি বাক্যে একটি বাক্যাংশ একটি বাক্যের একটি অংশ",
+        "lines": [
+            "1. Jacob deGrom is a baseball player.",
+            "2. Hitting a triple is part of baseball."
+        ],
+        "line_importance": [
+            0.0,
+            -0.0
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/042463e9ca7cd4c7eb5a": {
+        "question_id": "strategy_qa/042463e9ca7cd4c7eb5a",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "\"হ্যানেস হল একটি মাস্টারপিস যা মুফাসা কোয়েস্ট করেছে।\"",
+        "lines": [
+            "1. There is a Broadway musical called The Lion King, which features hyenas.",
+            "2. Thus, hyenas do appear in a Broadway musical."
+        ],
+        "line_importance": [
+            2.051252862391402,
+            -0.04708891663944936
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/117c27244c8e00112265": {
+        "question_id": "strategy_qa/117c27244c8e00112265",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "না.",
+        "lines": [
+            "1. The northern fur seal is a mammal.",
+            "2. Driving tests are for humans.",
+            "3. Thus, a northern fur seal would not pass a driving test."
+        ],
+        "line_importance": [
+            -0.14084310865819283,
+            0.0,
+            -0.5341453850269318
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/19b40f33fa199c1673fd": {
+        "question_id": "strategy_qa/19b40f33fa199c1673fd",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "না",
+        "lines": [
+            "1. Cats are obligate carnivores, meaning they need to eat meat to survive.",
+            "2. Pancakes are not a source of meat.",
+            "3. Thus, a Bengal cat cannot survive eating only pancakes."
+        ],
+        "line_importance": [
+            0.1562894067497031,
+            -0.25599838871890596,
+            -0.05432881414890289
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/243e3e1ef3fb7190ace3": {
+        "question_id": "strategy_qa/243e3e1ef3fb7190ace3",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "না",
+        "lines": [
+            "1. Rahul Dravid is a cricketer, not an American football player.",
+            "2. Thus, he has never kicked a field goal."
+        ],
+        "line_importance": [
+            -0.09848143649022775,
+            -0.27818930904663364
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/2b73dae1804aae94e1ba": {
+        "question_id": "strategy_qa/2b73dae1804aae94e1ba",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না.",
+        "lines": [
+            "1. Burning Man is in the desert.",
+            "2. Deserts are sunny.",
+            "3. Thus, people are more likely to get sunburn at Burning Man than normal."
+        ],
+        "line_importance": [
+            0.15305560530897744,
+            0.24733054383598702,
+            0.2849322706460953
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/302570f3787646a587df": {
+        "question_id": "strategy_qa/302570f3787646a587df",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "Koalas favour Eucalyptus over meat.",
+        "lines": [
+            "1. Koalas are herbivores.",
+            "2. Koalas prefer Eucalyptus over meat."
+        ],
+        "line_importance": [
+            -0.3348315908242701,
+            2.74742728693163
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/3545982eb15f96652e1b": {
+        "question_id": "strategy_qa/3545982eb15f96652e1b",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "3",
+        "lines": [
+            "1. Rowing is a sport.",
+            "2. Marist College is a private school.",
+            "3. Private schools are more selective than public schools.",
+            "4. Thus, students at Marist College would have to petition to get a rowing team."
+        ],
+        "line_importance": [
+            0.35628550671280335,
+            0.5316316217483082,
+            0.6288691759109497,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/3eb805c6e6cce883416c": {
+        "question_id": "strategy_qa/3eb805c6e6cce883416c",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "\"হ্যাঁ\"",
+        "lines": [
+            "1. Preventive healthcare includes vaccinations, which reduces the risk of STI transmission.",
+            "2. Thus, preventive healthcare can reduce STI transmission."
+        ],
+        "line_importance": [
+            -0.1454442602640823,
+            -0.8162590472633433
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/4b6ca118a638ad3539c8": {
+        "question_id": "strategy_qa/4b6ca118a638ad3539c8",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "Dorothea Wendling was from the same place Porsche originated.",
+        "lines": [
+            "1. Dorothea Wendling was from Stuttgart, Germany.",
+            "2. Porsche was also from Stuttgart, Germany.",
+            "3. Thus, Dorothea Wendling was from the same place Porsche originated."
+        ],
+        "line_importance": [
+            1.2886404616356997,
+            0.4033824485292962,
+            7.62357234954834
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/51126206a7baab47253d": {
+        "question_id": "strategy_qa/51126206a7baab47253d",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "না.",
+        "lines": [
+            "1. Hillary Clinton's deputy chief of staff in 2009 was Huma Abedin.",
+            "2. Huma Abedin is a Muslim.",
+            "3. Baptism is a Christian practice.",
+            "4. Thus, Hillary Clinton's deputy chief of staff in 2009 was not baptised."
+        ],
+        "line_importance": [
+            0.0,
+            -0.08242918520803809,
+            0.11737975850701332,
+            0.2548338750009682
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/5787a201b7da5929cb75": {
+        "question_id": "strategy_qa/5787a201b7da5929cb75",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "San Diego County is the home of a Shamu.",
+        "lines": [
+            "1. Shamu is a killer whale that lives at SeaWorld San Diego in San Diego County.",
+            "2. Thus, San Diego County is the home of a Shamu."
+        ],
+        "line_importance": [
+            -0.0,
+            3.3372835283769136
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/59e78fdde03974a7cf77": {
+        "question_id": "strategy_qa/59e78fdde03974a7cf77",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না",
+        "lines": [
+            "1. Creative Commons Licenses are free and do not require payment.",
+            "2. Thus, a person could not be sold a Creative Commons License for Boticelli's The Birth of Venus."
+        ],
+        "line_importance": [
+            0.2704828880458446,
+            0.3081594795128787
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/5a7265daf4314e5b9283": {
+        "question_id": "strategy_qa/5a7265daf4314e5b9283",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না.",
+        "lines": [
+            "1. The Amazonas is a very dangerous place.",
+            "2. Thus, walking across Amazonas could put a person's life at risk."
+        ],
+        "line_importance": [
+            0.2931506828654918,
+            0.1724899705852396
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/5b45ccb915731a9e5f05": {
+        "question_id": "strategy_qa/5b45ccb915731a9e5f05",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "NO.",
+        "lines": [
+            "1. Toilet paper is made from trees.",
+            "2. Loggers are responsible for cutting down trees.",
+            "3. Thus, without loggers, it would be difficult to get toilet paper."
+        ],
+        "line_importance": [
+            0.22289625776731672,
+            0.09910848823927003,
+            -0.34125855565071106
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/6252e913d7d9401e582f": {
+        "question_id": "strategy_qa/6252e913d7d9401e582f",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না.",
+        "lines": [
+            "1. Kelly Clarkson has sold more albums than the season 4 American Idol winner."
+        ],
+        "line_importance": [
+            0.007559486027711504
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/62e8d2b87e80f78b152c": {
+        "question_id": "strategy_qa/62e8d2b87e80f78b152c",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": " Oceanography is a multidisciplinary field that involves the study of physical, chemical, geological, and biological aspects of the ocean.\n3. Oceanographers study many sciences.",
+        "lines": [
+            "1. Oceanography is a multidisciplinary field that involves the study of physical, chemical, geological, and biological aspects of the ocean.",
+            "2. Thus, an individual oceanographer would study many sciences."
+        ],
+        "line_importance": [
+            40.33178560081862,
+            5.692297023475738
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/9ebaee3511157e78ec7b": {
+        "question_id": "strategy_qa/9ebaee3511157e78ec7b",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": " Tony Bennett, Life and career, 1926–1943: Early life: Anthony Dominick Benedetto was born on August 3, 1926, at St. John's Episcopal Hospital in Long Island City, Queens. He is a son of grocer John Benedetto and seamstress Anna (Suraci), and was the first member of his family to be born in a hospital. In 1906, John had emigrated from Podàrgoni, a rural eastern district of the Southern Italian city of Reggio Calabria. Anna had been born in the U.S. shortly after her parents also emigrated from the Calabria region in 1899. Other relatives came over as well as part of the mass migration of Italians to America. Tony grew up with an older sister, Maryland, and an older brother, John Sr. with a father who was ailing and unable to work, the children grew up in poverty. John Sr. instilled in his son a love of art and literature, and a compassion for human suffering, but died when Tony was 10 year old. The experience of growing up in the Great Depression and a distaste for the effects of the presidency of Herbert Hoover would make the child a lifelong Democrat",
+        "lines": [
+            "1. Tony Bennett's middle name is Dominick.",
+            "2. There is a former UFC champion named Dominick Cruz.",
+            "3. Thus, Tony Bennett's middle name is shared by a former UFC champion."
+        ],
+        "line_importance": [
+            -0.0,
+            -0.0,
+            -0.0
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/a9d22dce3199e77dd271": {
+        "question_id": "strategy_qa/a9d22dce3199e77dd271",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "না.",
+        "lines": [
+            "1. Professional boxers are at risk of dental injuries due to the physical nature of the sport.",
+            "2. Thus, professional boxers may not have low dental bills."
+        ],
+        "line_importance": [
+            0.32738917334117107,
+            0.4576303992132016
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/b1e1256007b0a4a341a7": {
+        "question_id": "strategy_qa/b1e1256007b0a4a341a7",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "\"Yes\"",
+        "lines": [
+            "1. Buffalo wings are made from chicken.",
+            "2. Chicken is a food.",
+            "3. Capsaicin is a chemical.",
+            "4. Thus, if someone loves buffalo wings, they enjoy capsaicin."
+        ],
+        "line_importance": [
+            -0.34410185044400576,
+            -0.444422578120635,
+            -0.3948613107204437,
+            0.5543308442248736
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/c39d1e6ffbca58600a38": {
+        "question_id": "strategy_qa/c39d1e6ffbca58600a38",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না.",
+        "lines": [
+            "1. The United States Capitol is located in Washington, D.C.",
+            "2. The White House is located in Washington, D.C.",
+            "3. Thus, the United States Capitol is located near the White House."
+        ],
+        "line_importance": [
+            0.20759645375877345,
+            0.13788538944200468,
+            -0.0
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/c649c9f1814bd72b8ccd": {
+        "question_id": "strategy_qa/c649c9f1814bd72b8ccd",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "না.",
+        "lines": [
+            "1. Louis Armstrong was a jazz musician.",
+            "2. Jay-Z is a rapper.",
+            "3. Thus, Jay-Z did not collaborate with Louis Armstrong."
+        ],
+        "line_importance": [
+            0.09535992171118757,
+            -0.16958038865761105,
+            0.49715758860111237
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/c69397b4341b65ed080f": {
+        "question_id": "strategy_qa/c69397b4341b65ed080f",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "হ্যাঁ, সেন্ট ভিনসেন্ট এবং গ্রেনাডাইনসের ভাষা একটি ইংরেজি ব্যবহারকারী ক্রোয়েল ভাষা।",
+        "lines": [
+            "1. The language used in Saint Vincent and the Grenadines is a creole.",
+            "2. Creoles are rooted in English."
+        ],
+        "line_importance": [
+            0.7092059729656868,
+            -0.0
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/c91eafafed5a8f80bb5a": {
+        "question_id": "strategy_qa/c91eafafed5a8f80bb5a",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "না.",
+        "lines": [
+            "1. Miami is a city in Florida.",
+            "2. Florida is on the East Coast.",
+            "3. Thus, Miami is not a city on the American West Coast."
+        ],
+        "line_importance": [
+            0.12318444242725489,
+            0.09919266182318442,
+            -0.15852010622620583
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/e144fef6c590823af46a": {
+        "question_id": "strategy_qa/e144fef6c590823af46a",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "Brooklyn is known for its bread products.",
+        "lines": [
+            "1. Brooklyn is in New York.",
+            "2. New York is known for its bread products.",
+            "3. Thus, Brooklyn is known for its bread products."
+        ],
+        "line_importance": [
+            -1.309513175621071,
+            1.494699119016596,
+            3.4625100195407867
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/e18f8956e3fd4e8c50b2": {
+        "question_id": "strategy_qa/e18f8956e3fd4e8c50b2",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "না.",
+        "lines": [
+            "1. Gunpowder is a type of explosive.",
+            "2. Explosions create shock waves that can travel faster than the speed of sound.",
+            "3. Thus, an explosion at a gunpowder storage facility would result in a supersonic shock wave."
+        ],
+        "line_importance": [
+            0.13693655256900544,
+            0.10432562676633896,
+            -0.04166879877448082
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/e1be1275b3c816b0b7bf": {
+        "question_id": "strategy_qa/e1be1275b3c816b0b7bf",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "না.",
+        "lines": [
+            "1. Family Guy takes place in the fictional town of Quahog, Rhode Island.",
+            "2. Rhode Island is on the East Coast of the United States.",
+            "3. Thus, Family Guy does not take place on the American West Coast."
+        ],
+        "line_importance": [
+            0.07061684188076107,
+            0.36348507304007693,
+            -0.06778869777917862
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/e537c420c9cb2e24409c": {
+        "question_id": "strategy_qa/e537c420c9cb2e24409c",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "Louisa May Alcott, the author of Little Women, was 33 at the time the 13th Amendment was ratified.",
+        "lines": [
+            "1. The 13th Amendment was ratified in 1865.",
+            "2. Louisa May Alcott, the author of Little Women, was born in 1832.",
+            "3. Thus, she would have been 33 years old when the 13th Amendment was ratified.",
+            "4. It is likely that she would have remembered the ratification of the 13th Amendment."
+        ],
+        "line_importance": [
+            0.2919946934165466,
+            8.916122458891483,
+            6.601876318454742,
+            -0.4726008508759948
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/e5ffcc7b22a58df8952d": {
+        "question_id": "strategy_qa/e5ffcc7b22a58df8952d",
+        "verdict": "contradiction",
+        "actual_response": ", the answer is yes.",
+        "gen_response": "হ্যাঁ, কেন্দ্রীয় প্রসেসিং ইউনিট সাধারণত একটি ডিজিটাল কম্পিউটার ফান বা সিপিইউ ফান দ্বারা সুরক্ষিত হয়। এই ফানগুলি সাধারণত সময়ের সাথে সাথে তাদের শক্তি বৃদ্ধি পায় এবং তাদের সময়ের সাথে সাথে তাদের শক্তি হ্রাস পায়। এক�",
+        "lines": [
+            "1. The central processing unit usually has a dedicated fan."
+        ],
+        "line_importance": [
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/ee89128e112aca3b7efd": {
+        "question_id": "strategy_qa/ee89128e112aca3b7efd",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "না",
+        "lines": [
+            "1. Blue lips can be a sign of a medical condition, such as cyanosis.",
+            "2. Thus, blue lips are not normal."
+        ],
+        "line_importance": [
+            0.6649560720148001,
+            0.0011183429789410123
+        ],
+        "exception": "n/a"
+    }
+}

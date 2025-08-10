@@ -1,0 +1,1378 @@
+{
+    "fermi/test_realfp/17": {
+        "question_id": "fermi/test_realfp/17",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is 4.2e+14",
+        "gen_response": "nan",
+        "lines": [
+            "1. আমি একটি সমস্যা সমাধান করতে পারি এমন একটি প্রদত্ত প্রমাণ সংগ্রহ করতে পারি এবং একটি সমাধান প্রদান করতে পারি এমন একটি সমাধান প্রদান করতে পারি এমন একটি প্রমাণ সংগ্রহ করতে পারি এবং একটি সমাধান প্রদান করতে পারি এমন"
+        ],
+        "line_importance": [
+            0.24561526308689946
+        ],
+        "exception": "n/a"
+    },
+    "fermi/test_realfp/176": {
+        "question_id": "fermi/test_realfp/176",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is 708",
+        "gen_response": "nan",
+        "lines": [
+            "1. প্রদত্ত তারিখের পরে প্রতিটি মাসের মধ্যে প্রতিটি মাসের মধ্যে প্রতিটি মাসের মধ্যে প্রতিটি মাসের মধ্যে প্রতিটি মাসের মধ্যে প্রতিটি মাসের মধ্যে প্রতিটি মাসের মধ্যে প্রতিটি মাসের মধ্যে প্রতিটি মাসের মধ্যে প্রতিটি মাসের মধ্যে প্রতিটি মাসে"
+        ],
+        "line_importance": [
+            -0.4799902165116741
+        ],
+        "exception": "n/a"
+    },
+    "fermi/test_realfp/193": {
+        "question_id": "fermi/test_realfp/193",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is 20",
+        "gen_response": "nan",
+        "lines": [
+            "1. 20 gallons",
+            "2. 20/3 = 6.67",
+            "3. 6.67 x 24 = 159.84",
+            "4. 159.84 x 3 = 479.68",
+            "5. 479.68 x 3 = 1425.56",
+            "6. 1425.56 x 3 = 42.84",
+            "7. 42.84 x 3 = 126.72",
+            "8. 126.72 x 3 = 396.24",
+            "9. 396.24 x 3 = 1173.72",
+            "10. 1173.72 x 3 = 3487.28",
+            "11. 3487.28 x 3 = 105.84",
+            "12. 105.84 x 3 = 314.72",
+            "13. 314.72 x 3 = 1198.28",
+            "14. 1198.28 x 3 = 3487.28",
+            "15. 3487.28 x 3 = 105.84",
+            "16. 105.84 x 3 = 314.72",
+            "17. 314.72 x 3 = 1198.28",
+            "18. 119"
+        ],
+        "line_importance": [
+            0.0,
+            0.22460728185875944,
+            0.16956089437007904,
+            0.2622018833026675,
+            0.2957299795642062,
+            -0.06656060880613486,
+            0.6412448909297751,
+            0.48122904911869196,
+            -0.07214971870388667,
+            -0.2574335438499634,
+            -0.036608096218768676,
+            0.13563970815546317,
+            -0.0,
+            -0.14811673690381075,
+            -0.20477519929409027,
+            0.0,
+            0.10472748511099284,
+            0.039380530601540745
+        ],
+        "exception": "n/a"
+    },
+    "fermi/test_realfp/202": {
+        "question_id": "fermi/test_realfp/202",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is 100,000",
+        "gen_response": "nan",
+        "lines": [
+            "1. Sickle cell disease, Epidemiology, United States: The number of people with the disease in the United States is about one in 5,000, mostly affecting Americans of sub-Saharan African descent. In the United States, about one out of 365 African-American children and one in every 16,300 Hispanic-American children have sickle cell anaemia. An estimated 100,000 Americans have the disease. The life expectancy for men with SCD is about 42 years of age while women live about 6.5. An additional 2.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5.5."
+        ],
+        "line_importance": [
+            0.05811522953197794
+        ],
+        "exception": "n/a"
+    },
+    "fermi/test_realfp/333": {
+        "question_id": "fermi/test_realfp/333",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is 2000",
+        "gen_response": "nan",
+        "lines": [
+            "1. 2,400",
+            "2. 2,400",
+            "3. 2,400",
+            "4. 2,400",
+            "5. 2,400",
+            "6. 2,400",
+            "7. 2,400",
+            "8. 2,400",
+            "9. 2,400",
+            "10. 2,400",
+            "11. 2,400",
+            "12. 2,400",
+            "13. 2,400",
+            "14. 2,400",
+            "15. 2,400",
+            "16. 2,400",
+            "17. 2,400",
+            "18. 2,400",
+            "19. 2,400",
+            "20. 2,400<|end_of_text|>"
+        ],
+        "line_importance": [
+            -0.02736661908647633,
+            -0.062189601978138,
+            4.503130912780762e-05,
+            0.0,
+            -0.0,
+            -0.020536621850110515,
+            0.04677550273425749,
+            0.005863443215643299,
+            -0.0,
+            -0.0,
+            -0.0,
+            0.005198154594530284,
+            0.0,
+            0.0389464950548359,
+            -0.01167166605591774,
+            0.07430317997932434,
+            0.02887565749902797,
+            -0.0,
+            0.028468010557071446,
+            1.104648666424973
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__136179_13529": {
+        "question_id": "musique/2hop__136179_13529",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is 1982.",
+        "gen_response": "nan",
+        "lines": [
+            "1. 26 জুন, 1983 সালে বার্সেলোনা থেকে বার্সেলোনা যোগ দেওয়া হয়েছিল।<|end_of_text|>"
+        ],
+        "line_importance": [
+            -1.2534277789858466
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__141365_417697": {
+        "question_id": "musique/2hop__141365_417697",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Nissan Altima.",
+        "gen_response": "nan",
+        "lines": [
+            "1. মোহাম্মদ আট্টা এর নিয়ন্ত্রক কোম্পানি যা ডাটান নামে পরিচিত একটি নিয়ন্ত্রক কোম্পানি যা একটি বিলাসবহুল নির্মাণ কোম্পানি যা আলামো রেন্ট কার দ্বারা পরিচালিত হয়েছিল। এটি একটি মার্কিন যুক্তরাষ্ট্রের লেস এলাকায় অবস্থিত এব"
+        ],
+        "line_importance": [
+            -0.042490227667512134
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__157498_127908": {
+        "question_id": "musique/2hop__157498_127908",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Major League Soccer (MLS).",
+        "gen_response": "nan",
+        "lines": [
+            "1. MLB: The National Football League (NFL)<|end_of_text|>"
+        ],
+        "line_importance": [
+            0.2534277491106899
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__158275_35739": {
+        "question_id": "musique/2hop__158275_35739",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is October 26, 2012.",
+        "gen_response": "nan",
+        "lines": [
+            "1. আমি একটি প্রদত্ত প্রম্পট ব্যবহার করে প্রশ্নের উত্তর দিতে পারি। প্রদত্ত প্রম্পটে বলা হয়েছে যে ইন্টারনেট এক্সপ্লোরেটর 10 এর বিকাশ এবং প্রকাশের সাথে সাথে ইন্টারনেট এক্সপ্লোরেটর 10 এর বিকাশ এবং প্রকাশের সাথে সাথে ইন্টারনেট এ"
+        ],
+        "line_importance": [
+            -0.7534277789567106
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__169443_83769": {
+        "question_id": "musique/2hop__169443_83769",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is O'Bannion.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Ben Affleck, 1981-1997: Ben Affleck, 1981-1997, was cast as the screenwriter for Good Will Hunting.<|end_of_text|>"
+        ],
+        "line_importance": [
+            -0.06592772673710022
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__170341_43945": {
+        "question_id": "musique/2hop__170341_43945",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is argued for the independence of the United States from Britain.",
+        "gen_response": "nan",
+        "lines": [
+            "1. এটি একটি প্রদত্ত প্রমাণ ব্যবহার করে একটি প্রশ্ন জিজ্ঞাসা করে এবং একটি প্রদত্ত প্রমাণ ব্যবহার করে একটি উত্তর দেয়। এই ক্ষেত্রে, প্রদত্ত প্রমাণটি হল যে কলামটি একটি প্রদত্ত প্রমাণ ব্যবহার করে একটি প্রশ্ন জিজ্ঞাসা ক"
+        ],
+        "line_importance": [
+            -1.2143653935922218
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__35209_17335": {
+        "question_id": "musique/2hop__35209_17335",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is 323BC.",
+        "gen_response": "nan",
+        "lines": [
+            "1. আলেক্সান্ডার গ্রেট ছিলেন একজন বিখ্যাত ব্যক্তি যিনি 334 খ্রিস্টাব্দে আশেকানিদের বিজয়ের সাথে আশেকানিদের বিজয়ের সাথে আশেকানিদের বিজয়ের সাথে আশেকানিদের বিজয়ের সাথে আশেকানিদের বিজয়ের সাথে আশেকানিদের বিজয়ের সাথে আশেকানিদের বি�"
+        ],
+        "line_importance": [
+            -0.6128027025427485
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__370911_589237": {
+        "question_id": "musique/2hop__370911_589237",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Sheila Hancock.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Redcap (TV Series): John Thaw, Personal life: Thaw, Redcap (TV Series), was John Mann, a member of the Special Investigation Branch of the Royal Military Police and ran for two series and 26 episodes.<|end_of_text|>"
+        ],
+        "line_importance": [
+            0.5268653115557265
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__42464_718451": {
+        "question_id": "musique/2hop__42464_718451",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is physicist and chemist.",
+        "gen_response": "nan",
+        "lines": [
+            "1. কভারেজ এক্সপ্রেশন: কভারেজ এক্সপ্রেশন, প্রথম পরীক্ষা করা হয়েছিল 1797-1798 সালে ইংরেজ বিজ্ঞানী হেনি কভারেজিসের দ্বারা করা, যা প্রথম পরীক্ষা করা হয়েছিল যে কীভাবে মানুষের মধ্যে মানব বস্তুর মধ্যে মানব বস্তুর মধ্যে মানব �"
+        ],
+        "line_importance": [
+            -0.7924902836178752
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__50068_494136": {
+        "question_id": "musique/2hop__50068_494136",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Laura Savoie.",
+        "gen_response": "nan",
+        "lines": [
+            "1. ডেন কাইড একজন সঙ্গীতশিল্পী এবং সঙ্গীতশিল্পী যিনি 2018 সালে তার ক্যারিয়ারের সবচেয়ে বড় সম্প্রচার হিসাবে তার প্রথম সিনেমা ইক অ্যান্ড ইক কর্নার সহ বেশ কয়েকটি সিনেমায় অভিনয় করেছেন।",
+            "2. ডেন কাইড একজন সঙ্গীতশিল্প"
+        ],
+        "line_importance": [
+            -0.7180328704143648,
+            -0.7742871443537606
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__51261_87295": {
+        "question_id": "musique/2hop__51261_87295",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Queen Clarisse Renaldi.",
+        "gen_response": "nan",
+        "lines": [
+            "1. মারি পপিন্স (চরিত্র): জেলি অ্যান্ডারস, যিনি প্রথম মার্চ পপিন্স চলচ্চিত্রে প্রধান ভূমিকায় অভিনয় করেছিলেন। অ্যান্ডারস একজন ব্রিটিশ ফিল্ম ম্যাগাজিনের সবচেয়ে বিখ্যাত অভিনেত্রী ছিলেন এবং তার অভিনয় এবং প্রতিভা তাকে তার সময"
+        ],
+        "line_importance": [
+            -1.4096776783629648
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__51965_165532": {
+        "question_id": "musique/2hop__51965_165532",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Elizabeth Ashley.",
+        "gen_response": "nan",
+        "lines": [
+            "1. প্রদত্ত তথ্যের উপর ভিত্তি করে, প্রশ্নের উত্তর হল প্রদত্ত তথ্যের উপর ভিত্তি করে প্রশ্নের উত্তর দেওয়া যাবে না। প্রদত্ত তথ্য প্রশ্নের উত্তর দেওয়ার জন্য যথেষ্ট নয়।<|end_of_text|>"
+        ],
+        "line_importance": [
+            -0.24561526308689946
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__552546_70131": {
+        "question_id": "musique/2hop__552546_70131",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is free corps.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Duchy of Mecklenburg-Schwerin: The Duchy of Mecklenburg-Schwerin was a duchy in northern Germany created in 1701, when Frederick William and Adolphus Frederick II divided the Duchy of Mecklenburg between Schwerin and Strelitz. Ruled by the successors of the Nikloting House of Mecklenburg, Mecklenburg-Schwerin remained a state of the Holy Roman Empire along the Baltic Sea littoral between Holstein-Glückstadt and Duchy of Pomerania.",
+            "2. List of Freikorps members: Freikorps (English: Free Corps) were German volunteer military or anti-communist paramilitary units. The term was originally applied to voluntary armies formed in German lands from the middle of the 18th Century onwards. Between World War I and World War II the term was also used for the paramilitary organizations that arose during the Weimar Republic.<|end_of_text|>"
+        ],
+        "line_importance": [
+            -0.2822703673640492,
+            0.2391220013275896
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__56851_343058": {
+        "question_id": "musique/2hop__56851_343058",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Adrian Edmondson.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Fairy Godmother (Shrek), Development, Voice and characterization: Fairy Godmother is voiced by English comedian and actress Jennifer Saunders. Saunders recorded her entire role in only four days over the course of one year. The actress found working on an animated film to be liberating and found the experience to have several advantages as an actor, describing voice acting as a \"perfect\" career \"because you get all these perks... but you don't have to do any of that other, you know, filming... no one's going to say, 'That movie didn't work because Jennifer Saunders' voice wasn't good.\" Saunders concluded that performing in Shrek 2 \"has been one of my favourite jobs in the world\", additionally appreciating that critics and viewers were notable unable to judge her physical appearance. Saunders recorded her dialogue solely opposite director Andrew Adamson, who temporarily fulfilled all other characters' roles during Saunders' sessions. Saunders elaborated, \"You feel that you've just done some stuff, and they then go away and pull it all apart and make this fantastical thing. Everyone in the cast has the same experience of the film... It's like you haven't been in it.\" Decca Aitkenhead of The Guardian believes that Saunders \" must have been the obvious"
+        ],
+        "line_importance": [
+            -0.011240227665691147
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__57638_72467": {
+        "question_id": "musique/2hop__57638_72467",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Chicago Bulls.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একটি নির্দিষ্ট সময়ের মধ্যে মাইকেল জনের সবচেয়ে উচ্চ গড় পয়েন্ট সংখ্যা সম্পর্কে প্রশ্ন করা হয়েছে।",
+            "2. একটি নির্দিষ্ট সময়ের মধ্যে মাইকেল জনের সবচেয়ে উচ্চ গড় পয়েন্ট সংখ্যা সম্পর্কে প্রশ্ন করা হয়েছে।",
+            "3. এক"
+        ],
+        "line_importance": [
+            -0.08493533493384381,
+            -0.0447291318074285,
+            -0.12768015265464783
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__620853_22458": {
+        "question_id": "musique/2hop__620853_22458",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Fédération Haïtienne de Football.",
+        "gen_response": "nan",
+        "lines": [
+            "1. হাইটি ফুটবল ফেডারেশন (হাইটি ফুটবল ফেডারেশন) হল হাইটির ফুটবল দলের নাম যা হাইটি নামে পরিচিত। এটি হাইটি ফুটবল ফেডারেশন নামেও পরিচিত, যা হাইটি ফুটবল ফেডারেশন নামেও পরিচিত। এটি হাইটি ফুটবল ফেডারেশন নামেও পরিচিত, �"
+        ],
+        "line_importance": [
+            -0.08936522953379893
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__66167_72467": {
+        "question_id": "musique/2hop__66167_72467",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Philadelphia Warriors.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একটি নির্দিষ্ট সময়ের জন্য সবচেয়ে বেশি পয়েন্ট স্কোর করা ব্যক্তির নাম কি?",
+            "2. একটি নির্দিষ্ট সময়ের জন্য সবচেয়ে বেশি পয়েন্ট স্কোর করা ব্যক্তির নাম কি?",
+            "3. একটি নির্দিষ্ট সময়ের জন্য সবচেয়ে বেশি পয়েন্ট স্কোর করা ব্�"
+        ],
+        "line_importance": [
+            0.24698451407848013,
+            0.1006901797177365,
+            0.8466265201568604
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__68590_27619": {
+        "question_id": "musique/2hop__68590_27619",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Frankfurt.",
+        "gen_response": "nan",
+        "lines": [
+            "1. ইউরোপীয় ইউনিয়ন, ইউরোপীয় ইউনিয়ন, মধ্যস্থতাকারী ব্যাংক, ইউরোপীয় সিস্টেম অফ সেন্ট্রাল ব্যাঙ্ক, ইউরোপীয় সিস্টেম অফ সেন্ট্রাল ব্যাঙ্ক, ইউরোপীয় সিস্টেম অফ সেন্ট্রাল ব্যাঙ্ক, ইউরোপীয় সিস্টেম অফ সেন্ট্র"
+        ],
+        "line_importance": [
+            -0.2299902314055487
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__77878_189357": {
+        "question_id": "musique/2hop__77878_189357",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Stanford Law School.",
+        "gen_response": "nan",
+        "lines": [
+            "1. সান্দ্রা ডি অ্যাডস অ্যান্ড সান্দ্রা ডি অ্যাডস অ্যান্ড সান্দ্রা ডি অ্যান্ড সান্দ্রা ডি অ্যান্ড সান্দ্রা ডি অ্যান্ড সান্দ্রা ডি অ্যান্ড সান্দ্রা ডি অ্যান্ড সান্দ্রা ডি অ্যান্ড সান্দ্রা ডি অ্যান্ড সান্দ্রা ডি অ্যান্ড সান্দ্রা ডি অ্যান্ড সান্দ্রা ডি অ্যান্ড"
+        ],
+        "line_importance": [
+            -0.5346776932204195
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__82270_177869": {
+        "question_id": "musique/2hop__82270_177869",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Michelle Obama.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একটি বিবৃতি প্রদান করুন যা একটি প্রশ্নের উত্তর দেয়।",
+            "2. একটি বিবৃতি প্রদান করুন যা একটি প্রশ্নের উত্তর দেয়।",
+            "3. একটি বিবৃতি প্রদান করুন যা একটি প্রশ্নের উত্তর দেয়।",
+            "4. একটি বিবৃতি প্রদান করুন যা একটি প্রশ্নের উত্�"
+        ],
+        "line_importance": [
+            0.0,
+            -0.16231726207528913,
+            -0.07079251110553741,
+            0.13325739378910642
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__84937_148696": {
+        "question_id": "musique/2hop__84937_148696",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Governor-General of India.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একজন ব্যক্তি যিনি ব্রিটিশ সরকারের সদস্য হিসাবে কাজ করেছিলেন এবং ব্রিটিশ সরকারের সদস্য হিসাবে কাজ করেছিলেন তাকে বলা হয় ব্রিটিশ সরকারের সদস্য হিসাবে কাজ করেছিলেন।<|end_of_text|>"
+        ],
+        "line_importance": [
+            -0.14405272115098677
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__88149_807969": {
+        "question_id": "musique/2hop__88149_807969",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Blackburn Rovers.",
+        "gen_response": "nan",
+        "lines": [
+            "1. প্রদত্ত প্রম্পটে উল্লিখিত সমস্ত সদস্য সম্পর্কে তথ্য প্রদান করা হয়েছে। এটি প্রদত্ত তথ্যের উপর ভিত্তি করে সঠিক উত্তর দেয় না। এই কাজটি সমাধান করার জন্য, আমাদের প্রদত্ত তথ্য বিশ্লেষণ করতে হবে এবং প্রদত্ত তথ্যের সাথে ম"
+        ],
+        "line_importance": [
+            -0.27686519227361867
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__96410_159054": {
+        "question_id": "musique/2hop__96410_159054",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is The Bourne Identity.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The Bourne Betrayal (2007)<|end_of_text|>"
+        ],
+        "line_importance": [
+            -0.24561526308689946
+        ],
+        "exception": "n/a"
+    },
+    "sports/10": {
+        "question_id": "sports/10",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. লুক ভোট ছিল একজন ব্যক্তি যিনি স্কুলে পড়াশোনা করতেন এবং তার প্রথম বছরে স্কুলে পড়াশোনা করতেন।",
+            "2. ভোট একজন ব্যক্তি যিনি স্কুলে পড়াশোনা করতেন এবং তার প্রথম বছরে স্কুলে পড়াশোনা করতেন।",
+            "3. ভোট একজন ব্যক্তি"
+        ],
+        "line_importance": [
+            -0.16606950901264703,
+            -0.12262089389576607,
+            -0.4968949258327484
+        ],
+        "exception": "n/a"
+    },
+    "sports/121": {
+        "question_id": "sports/121",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. লুক ভোট হল একজন আমেরিকান প্রতিভাবান বাস্কেটবল খেলোয়াড় যিনি মিশিগান স্টেট ব্যাকস এবং মিশিগান স্টেট ব্যাকস দ্বারা প্রতিনিধিত্ব করা হয়েছিলেন। তিনি একজন প্রতিভাবান বাস্কেটবল খেলোয়াড় যিনি তার ক্যারিয়ারে তার প্রতি�"
+        ],
+        "line_importance": [
+            -0.9487402426287633
+        ],
+        "exception": "n/a"
+    },
+    "sports/130": {
+        "question_id": "sports/130",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Luka Modrić: Luka Modrić (Croatian pronunciation: [ˈlûːka mɒːdɘɛ]); born 9 September 1985) is a Croatian professional Footballer who plays as a midfielder for Spanish club Real Madrid and captains the Croatia national team. He plays mainly as a central midfielder, but can also play as an attacking midfielder or as a defensive midfielder. He is widely regarded as one of the best midfielders of his generation, and the greatest Croatian Footballer of all time.",
+            "2. Tackles: Tackles that involve lunging at an opponent with both legs, regardless of whether the ball is won, are generally considered to constitute serious foul play and hence result in a sending-off. This explicitly includes \"scissoring\" (tackling with legs apart, so as to trap the opponent's leg or legs in between), which is likely to be punished with a sending-off (red card), as it poses a high risk of severe knee injury to the player being tackled. Tackling with studs up is considered dangerous. A studs up tackle is made when a player lunges into a tackle with a leg or both legs outstretched exposing the soles of"
+        ],
+        "line_importance": [
+            0.46293966937680475,
+            0.4974829537900159
+        ],
+        "exception": "n/a"
+    },
+    "sports/138": {
+        "question_id": "sports/138",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একটি সম্ভাব্য উত্তর হল \"এটি একটি সম্ভাব্য উত্তর নয়।\" এই উত্তরটি প্রদত্ত প্রমাণের উপর ভিত্তি করে নয় কারণ এটি একটি সম্ভাব্য উত্তর নয়। এটি একটি সম্ভাব্য উত্তর নয় কারণ এটি একটি সম্ভাব্য উত্তর নয়। এটি একটি স�"
+        ],
+        "line_importance": [
+            -2.1440527659928574
+        ],
+        "exception": "n/a"
+    },
+    "sports/140": {
+        "question_id": "sports/140",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একটি প্রদত্ত প্রসঙ্গে একটি প্রদত্ত বিবৃতি বিশ্লেষণ করুন: \"জামিসন ক্রুডার একটি ফ্লাইগ দ্বারা একটি ফুল দেখায়।\"",
+            "2. প্রদত্ত প্রসঙ্গে বিবৃতির সাথে সম্পর্কিত একটি বিবৃতি বিশ্লেষণ করুন: \"জামিসন ক্রুডার একটি ফ্লাইগ দ্ব"
+        ],
+        "line_importance": [
+            -1.241038863280917,
+            -0.8220685661121336
+        ],
+        "exception": "n/a"
+    },
+    "sports/142": {
+        "question_id": "sports/142",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. কেনান আলান একজন আমেরিকান ফুটবল স্ট্রাইকার যিনি ক্যালিফোর্নিয়া গোলকার্ড ব্যাকস্ট্রিক ক্লাবের হয়ে খেলেছিলেন। তিনি তার ক্যারিয়ারে তার দক্ষতা প্রদর্শন করেছিলেন এবং তার প্রথম স্ট্রাইক হিসাবে তার ক্যারিয়ারের সবচেয়ে বড় স"
+        ],
+        "line_importance": [
+            -0.800302844183878
+        ],
+        "exception": "n/a"
+    },
+    "sports/190": {
+        "question_id": "sports/190",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একটি বাস্কেটবল ক্যাচ হল একটি বাস্কেটবল ক্যাচ যা একটি বাস্কেটবল বল থেকে বাইরে প্রতিস্থাপিত হয়।<|end_of_text|>"
+        ],
+        "line_importance": [
+            -0.5971778199458225
+        ],
+        "exception": "n/a"
+    },
+    "sports/199": {
+        "question_id": "sports/199",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. জন জন্স (সোসার): জন জন্স একজন আমেরিকান সোসার মিডফিল্ডার যিনি প্রতিভাবান প্রতিভাবান প্রতিভাবান প্রতিভাবান প্রতিভাবান প্রতিভাবান প্রতিভাবান প্রতিভাবান প্রতিভাবান প্রতিভাবান প্রতিভাবান প্রতিভাবান প্রতিভাবান প্রতিভাবান প্রতিভাবান প্রতিভ"
+        ],
+        "line_importance": [
+            -1.1284276448025803
+        ],
+        "exception": "n/a"
+    },
+    "sports/203": {
+        "question_id": "sports/203",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একজন ব্যক্তি যিনি একটি পুরো গেম খেলেছেন তার নাম কি?",
+            "2. একজন ব্যক্তি যিনি একটি পুরো গেম খেলেছেন তার নাম কি?",
+            "3. একজন ব্যক্তি যিনি একটি পুরো গেম খেলেছেন তার নাম কি?",
+            "4. একজন ব্যক্তি যিনি একটি পুরো গেম খেলেছেন তার নাম কি?",
+            "5."
+        ],
+        "line_importance": [
+            -0.2126148889427039,
+            -0.0455125422320789,
+            0.04677305743098259,
+            -0.0,
+            -0.23437170213292557
+        ],
+        "exception": "n/a"
+    },
+    "sports/223": {
+        "question_id": "sports/223",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একটি প্রদত্ত প্রমাণ ব্যবহার করে একটি প্রশ্ন তৈরি করুন: \"একজন প্রতিভাবান বাস্কেটবল খেলোয়াড় কি একটি পুরো গেম খেলেছে?\"9023. একটি প্রদত্ত প্রমাণ ব্যবহার করে একটি প্রশ্ন তৈরি করুন: \"একজন প্রতিভাবান বাস্কেটবল খেল"
+        ],
+        "line_importance": [
+            -1.776865222177911
+        ],
+        "exception": "n/a"
+    },
+    "sports/23": {
+        "question_id": "sports/23",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. মালকম ব্রোগডন: মালকম মোসেস অ্যাডম্স ব্রোগডন (জন্ম 11 ডিসেম্বর, 1992) একজন আমেরিকান প্রতিভাবান বাস্কেটবল খেলোয়াড় যিনি ভার্জিনিয়া ক্যাভালিয়েন্সসের সাথে স্কোয়াড ক্যাভালিয়েন্সসের হয়ে প্রতিভা প্রদর্শন করেছিলেন। তিন"
+        ],
+        "line_importance": [
+            -1.2690526615827724
+        ],
+        "exception": "n/a"
+    },
+    "sports/239": {
+        "question_id": "sports/239",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Josh Allen (quarterback): Joshua Patrick Allen (born May 21, 1996) is an American football quarterback for the Buffalo Bills of the National Football League (NFL). He played one year of junior college football at Reedley College before transferring to the University of Wyoming, where he led the Cowboys to a Mountain West Conference division title and two bowl games.",
+            "2. American Football: একটি ফুটবল ক্যারিয়ার হল একটি ফুটবল ক্যারিয়ার যা একটি ফুটবল ক্যারিয়ারের সাথে যুক্ত একটি ফুটবল ক্যারিয়ার হিসাবে বিবেচিত হয়। এটি একটি ফু�"
+        ],
+        "line_importance": [
+            0.26958045020535026,
+            -0.559348145378426
+        ],
+        "exception": "n/a"
+    },
+    "sports/304": {
+        "question_id": "sports/304",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একটি চ্যাম্পিয়ন্স লিগ সেমিফাইনালে ক্রোস কোয়ার্টারব্যাক করার সময় কী করেছিলেন?",
+            "2. ক্রোস কোয়ার্টারব্যাক করার সময় কী করেছিলেন?",
+            "3. ক্রোস কোয়ার্টারব্যাক করার সময় কী করেছিলেন?",
+            "4. ক্রোস কোয়ার্টারব্যাক করার সময় ক"
+        ],
+        "line_importance": [
+            -0.2519302258799694,
+            -0.20674859684287714,
+            0.0,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/378": {
+        "question_id": "sports/378",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Jaylen Brown: Jaylen Marselles Brown (born 24, 1996) is an American basketball player for the Boston Celtics of the National Basketball Association (NBA). He played one year of college basketball for the California Golden Bears, been named first-team all-conference and Freshman of the Year in the Pac-12 Conference. Declaring for the 2016 NBA draft after that season, he was selected by the Celtics with the third overall pick. As a professional, he has split his time between shooting guard and small forward. He was selected as an NBA All-Star in 2021 for the first time.",
+            "2. Goaltending: In basketball, goaltending is the violation of interfering with the ball while it is on its way to the basket and it is (a) in a downward flight (b) above the basket ring and within the imaginary cylinder and (c) not touching the rim. In the NCAA and (W)NBA, goaltending is also called if the ball has already touched the backboard while being above the height of the rim in its flying, regardless of it being in an upward or downward flying or whether it is directly above the rim. Goaltending in this context defines by exclusion what is considered a legal"
+        ],
+        "line_importance": [
+            0.545121951687622,
+            0.6639625437876872
+        ],
+        "exception": "n/a"
+    },
+    "sports/390": {
+        "question_id": "sports/390",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. তার প্রতিভা সম্পর্কে কোন তথ্য প্রদান করা হয়েছে?",
+            "2. তার প্রতিভা সম্পর্কে কোন তথ্য প্রদান করা হয়েছে?",
+            "3. তার প্রতিভা সম্পর্কে কোন তথ্য প্রদান করা হয়েছে?",
+            "4. তার প্রতিভা সম্পর্কে কোন তথ্য প্রদান করা হয়েছে?",
+            "5. তার প্রতিভা সম্পর"
+        ],
+        "line_importance": [
+            0.13094307170256872,
+            0.12449850492248912,
+            0.07290220260620117,
+            -0.03976304252807007,
+            0.2810007970650027
+        ],
+        "exception": "n/a"
+    },
+    "sports/402": {
+        "question_id": "sports/402",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Lamar Jackson: Lamar Demeatrice Jackson Sr. (born 7 জানুয়ারী, 1997) একজন আমেরিকান ফুটবল খেলোয়াড় যিনি বার্লিন রেভস দ্বারা খেলেন এবং তার ক্যারিয়ারে তার প্রথম হেইম্যান ট্রফি, ম্যাকসেম অ্যাওয়ার্ড এবং ওয়াল্টার ক্যাম্প অ্যাওয়ার্ড সহ বেশ কয়েকটি আমে"
+        ],
+        "line_importance": [
+            -0.4018652071893451
+        ],
+        "exception": "n/a"
+    },
+    "sports/427": {
+        "question_id": "sports/427",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. স্পোর্টস ইউএস এবং পাবলিক টিম স্পোর্টসের সাথে সম্পর্কিত সম্ভাব্য কারণ:",
+            "- স্পোর্টস ইউএস এবং পাবলিক টিম স্পোর্টসের সাথে সম্পর্কিত সম্ভাব্য কারণ:",
+            "   - স্পোর্টস ইউএস এবং পাবলিক টিম স্পোর্টসের সাথে সম্পর্কিত সম্ভাব্য কারণ:",
+            "     - স"
+        ],
+        "line_importance": [
+            -0.7153238275135535,
+            -0.7982662429083093,
+            -0.3189387023448944,
+            0.3858469932909083
+        ],
+        "exception": "n/a"
+    },
+    "sports/469": {
+        "question_id": "sports/469",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. পিট আলভনো একজন আমেরিকান প্রতিভাবান বাস্কেটবল খেলোয়াড় যিনি নিউ ইয়র্ক মেটসের হয়ে খেলেন। তিনি 2019 মৌসুমে তার অভিজ্ঞতা শুরু করেন এবং তার অভিজ্ঞতা সম্পর্কে একটি নতুন রেকর্ড স্থাপন করেন। তিনি তার অভিজ্ঞতা সম্পর্কে �"
+        ],
+        "line_importance": [
+            -0.3784277043926464
+        ],
+        "exception": "n/a"
+    },
+    "sports/49": {
+        "question_id": "sports/49",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Radamel Falcao: Radamel Falcao Garcia Zárate (born 10 February 1986) is a Colombian professional Footballer who plays as a forward for Spanish La Liga club Rayo Vallecano and captains the Colombia national team. He is nicknamed \"El Tigre\" (Spanish for The Tiger)।<|end_of_text|>"
+        ],
+        "line_importance": [
+            0.5815526988138169
+        ],
+        "exception": "n/a"
+    },
+    "sports/573": {
+        "question_id": "sports/573",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Ben Simmons: BenjaminDavid Simmons (born 20 July 1996) is an Indian basketball player for the Philadelphia 76ers of the National Basketball Association (NBA). He played college basketball for one year with the LSU Tigers, after which he was named a consensus first-team All-American and the USBWA National Freshman of the Year. Simmons was selected with the first overall pick in the 2016 NBA draft by the 76ers. 2018, 2019, 2020, 2021. Simmons was selected as an NBA All-Star in 2019, 2020, and 2021.",
+            "2. Screen (sports): প্রদত্ত প্রমাণের উপর ভিত্তি করে, সঠিক উত্তর হল \"বেন সিমস স্ক্রিন কলেস করেছেন।\"<|end_of_text|>"
+        ],
+        "line_importance": [
+            0.19404524606083842,
+            -0.306974188841991
+        ],
+        "exception": "n/a"
+    },
+    "sports/636": {
+        "question_id": "sports/636",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. রিয়ান টেননহিল একজন আমেরিকান ফুটবল খেলোয়াড় যিনি মিয়ামি ডিফেন্ডার্সের হয়ে খেলেছিলেন এবং তার ক্যারিয়ারে তার প্রথম স্কোর ছিল একটি ট্রিপ পাস।",
+            "2. রিয়ান টেননহিল একজন আমেরিকান ফুটবল খেলোয়াড় যিনি মিয়ামি ডিফেন্�"
+        ],
+        "line_importance": [
+            -0.15324520715338943,
+            -0.5267474263063167
+        ],
+        "exception": "n/a"
+    },
+    "sports/647": {
+        "question_id": "sports/647",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. মাইক জেমস এভারস একজন আমেরিকান ফুটবল দল ক্যানসাস চিফস অফ দ্য ন্যাশনাল ফুটবল লিগ (এনএফএল) এর একজন দলের একজন দলের একজন দলের একজন দলের একজন দলের একজন দলের একজন দলের একজন দলের একজন দলের একজন দলের একজন দল"
+        ],
+        "line_importance": [
+            -1.0737403768120297
+        ],
+        "exception": "n/a"
+    },
+    "sports/667": {
+        "question_id": "sports/667",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Dougie Hamilton:Dougie Hamilton:Dougie Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:Dougee Hamilton:"
+        ],
+        "line_importance": [
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/670": {
+        "question_id": "sports/670",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. কোন ব্যক্তি একটি অফিসিয়াল ফুল করেছে?",
+            "2. কোন ব্যক্তি একটি অফিসিয়াল ফুল করেছে?",
+            "3. কোন ব্যক্তি একটি অফিসিয়াল ফুল করেছে?",
+            "4. কোন ব্যক্তি একটি অফিসিয়াল ফুল করেছে?",
+            "5. কোন ব্যক্তি একটি অফিসিয়াল ফুল করেছে?",
+            "6. কোন �"
+        ],
+        "line_importance": [
+            -0.0744539842617389,
+            0.02057318325040251,
+            0.0,
+            0.0,
+            0.06922914010710648,
+            0.219679266707551
+        ],
+        "exception": "n/a"
+    },
+    "sports/68": {
+        "question_id": "sports/68",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. কেনান আলান একজন আমেরিকান ফুটবল দলের সদস্য এবং একজন ফুটবল খেলোয়াড় যিনি ক্যালিফোর্নিয়া গোলকার্ড ব্যবহার করে একটি রোবট দ্বারা স্কোর করেছিলেন।",
+            "2. একটি রোবট হল একটি মেশিন যা স্বায়ত্তশাসিতভাবে এবং স্বয়"
+        ],
+        "line_importance": [
+            -0.10058647129798559,
+            -0.6295185236344599
+        ],
+        "exception": "n/a"
+    },
+    "sports/697": {
+        "question_id": "sports/697",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. জন কার্লসন একজন আমেরিকান প্রতিভাবান হকি ডানার হকি দল হিসাবে কাজ করেন এবং তার ক্যারিয়ারে তার প্রতিভা প্রদর্শন করেছেন। তিনি একজন আমেরিকান প্রতিভাবান হকি দল হিসাবে কাজ করেন এবং তার প্রতিভা প্রদর্শন করেছেন। তিনি একজন আমেরিকান প্র�"
+        ],
+        "line_importance": [
+            0.05811522953197794
+        ],
+        "exception": "n/a"
+    },
+    "sports/706": {
+        "question_id": "sports/706",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. ব্যবহারকারী: ব্যবহারকারী: ব্যবহারকারী: ব্যবহারকারী: ব্যবহারকারী: ব্যবহারকারী: ব্যবহারকারী: ব্যবহারকারী: ব্যবহারকারী: ব্যবহারকারী: ব্যবহারকারী: ব্যবহারকারী: ব্যবহারকারী: ব্যবহারকারী: ব্যবহারকারী: �"
+        ],
+        "line_importance": [
+            -0.6284277640409842
+        ],
+        "exception": "n/a"
+    },
+    "sports/71": {
+        "question_id": "sports/71",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. ট্রে ইয়ং। রেয়ফোর্ড ট্রে ইয়ং (জন্ম সেপ্টেম্বর 19, 1998) হলেন একজন আমেরিকান পেশাদার বাস্কেটবল খেলোয়াড়, যিনি ন্যাশনাল বাস্কেটবল অ্যাসোসিয়েশনের (এনবিএ) আটলান্টা হকসের হয়ে খেলেন। তিনি ওকলাহোমা সুনার্সের হয়ে �"
+        ],
+        "line_importance": [
+            -0.5581151960171181
+        ],
+        "exception": "n/a"
+    },
+    "sports/74": {
+        "question_id": "sports/74",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একটি ডিক মেটকাল হল একটি ডিক মেটকাল হল একটি ডিক মেটকাল হল একটি ডিক মেটকাল হল একটি ডিক মেটকাল হল একটি ডিক মেটকাল হল একটি ডিক মেটকাল হল একটি ডিক মেটকাল হল একটি ডিক মেটকাল হল একটি ডিক মেটকাল হল একটি ডিক মেট"
+        ],
+        "line_importance": [
+            -0.38624023514176425
+        ],
+        "exception": "n/a"
+    },
+    "sports/758": {
+        "question_id": "sports/758",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Caris LeVert: Caris Coleman LeVert (born August 25, 1994) is an American professional basketball player for the Indiana Pacers of the National Basketball Association (NBA). He played college basketball for the Michigan Wolverins. As a freshman for the 2012–13 team, he nearly redshirted but earned a key role off the bench as the team went on to reach the championship game in the 2013 NCAA Men's Division I Basketball Tournament. As a sophomore for the 2013–14 team, he became a regular starter and was selected as a second team 2013–14 All-Big Ten player for the outright Big Ten regular season champions. His junior and senior seasons were interrupted by injury. LeVert was drafted by the Pacers in the 2016 NBA draft, but was traded to the Brooklyn Nets. He was traded back to the Pacers in 2021.",
+            "2. Layup: A layup in basketball is a two-point shot attempt made by leaping from below, laying the ball up near the basket, and using one hand to bounce it off the backboard and into the basket. The motion and one-handed reach distinguish it from a jump shot. The layup is considered the most basic shot in basketball"
+        ],
+        "line_importance": [
+            0.7394849264746981,
+            0.17220667838097586
+        ],
+        "exception": "n/a"
+    },
+    "sports/774": {
+        "question_id": "sports/774",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. জো রাট একজন বাস্কেটবল খেলোয়াড় ছিলেন যিনি তার ক্যারিয়ারে বিভিন্ন স্কোর করেছিলেন। তিনি তার সময়কালে বিভিন্ন স্কোর করেছিলেন এবং তিনি তার ক্যারিয়ারে বিভিন্ন স্কোর করেছিলেন। তিনি তার ক্যারিয়ারে বিভিন্ন স্কোর করেছিলেন এবং তিন"
+        ],
+        "line_importance": [
+            -1.3315526690406356
+        ],
+        "exception": "n/a"
+    },
+    "sports/782": {
+        "question_id": "sports/782",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একজন প্রদত্ত প্রমাণের উপর ভিত্তি করে, এটি অনুমান করা যেতে পারে যে একজন ব্যক্তি একটি ব্যাকহান্ড শট করেছেন। এই প্রমাণটি বলে যে ব্যক্তি একটি ব্যাকহান্ড শট করেছেন এবং এটি একটি ব্যাকহান্ড শট করেছেন। এটি একটি ব্যাকহান্ড শ"
+        ],
+        "line_importance": [
+            -1.1753026503959776
+        ],
+        "exception": "n/a"
+    },
+    "sports/878": {
+        "question_id": "sports/878",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Mario Gómez: Mario Gómez García (German pronunciation: [ˈmaːʁi̯oː ˈɡɔmɛs]; born 10 July 1985) is a German former professional Footballer who played as a striker. He represented the Germany national team over a period of 11 year s 2007 and 2018. 2. Free kick (association Football), Scoring opportunities: Direct free kicks awarded near the opponent's goal can often lead to scoring opportunities, either from the kick itself or from an ensuing set piece. Accordingly, developing plays from free kicks are an important part of team strategy, and defending against them is an important skill for defenders. 3. একটি ক্রীড়া খেলা হল একটি খেলা যা একটি বল বা বল দ্বারা সংঘটিত হয় এবং একটি খেল"
+        ],
+        "line_importance": [
+            0.14405272115098677
+        ],
+        "exception": "n/a"
+    },
+    "sports/88": {
+        "question_id": "sports/88",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. শাই গিজেগুয়েস-আলেকসান্দার একজন কানাডিয়ান প্রতিভাবান বাস্কেটবল খেলোয়াড় যিনি ন্যাশনাল বাস্কেটবল অ্যাসোসিয়েশন (NBA) এর ক্যালিফোর্নিয়া টাইমস থ্রোস দ্বারা প্রতিনিধিত্ব করেন। 2. তিন সেকেন্ড রিলিজ হল একটি বাস্কেটবল �"
+        ],
+        "line_importance": [
+            -0.8549902314419685
+        ],
+        "exception": "n/a"
+    },
+    "sports/882": {
+        "question_id": "sports/882",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. মাইকে ট্রুট একজন ব্যক্তি যিনি একজন ব্যাটার হিসাবে কাজ করেন এবং তিনি একজন স্পিনার হিসাবে কাজ করেন না।",
+            "2. মাইকে ট্রুট একজন ব্যক্তি যিনি একজন ব্যাটার হিসাবে কাজ করেন এবং তিনি একজন স্পিনার হিসাবে কাজ করেন না।",
+            "3. মাইকে ট্রুট একজন ব্য"
+        ],
+        "line_importance": [
+            -0.07520271606021418,
+            -0.18575722567082953,
+            0.14244668185710907
+        ],
+        "exception": "n/a"
+    },
+    "sports/933": {
+        "question_id": "sports/933",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Brad Hand: Bradley Richard Hand (born March 20, 1990) is an American professional baseball pitcher for the New York Mets of Major League Baseball (MLB). He made his MLB debut with the Florida Marlins in 2011. He previously played for the San Diego Padres, Cleveland Indians, Washington Nationals, and Toronto Blue Jays. He is a three-time MLB All-Star.",
+            "2. Double (baseball): In baseball, a double is the act of a batter striking the pitched ball and safely reaching second base without being called out by the umpire, without the benefit of a fielder's misplay (see error) or another runner being put out on a fielder's choice. A double is a type of hit (the others being the single, triple and home run) and is sometimes called a \"two-bagger\" or \"two-base hit\"।<|end_of_text|>"
+        ],
+        "line_importance": [
+            0.3040567601555482,
+            0.1584808786361557
+        ],
+        "exception": "n/a"
+    },
+    "sports/980": {
+        "question_id": "sports/980",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একটি বাক্যাংশ হল একটি বাক্যের একটি সংক্ষিপ্ত রূপ যা একটি বাক্যের প্রধান বিষয় বা প্রধান বিষয়কে বোঝায়। এই ক্ষেত্রে, বাক্যাংশটি \"একটি বাল্ক\" এবং এটি একটি বাক্যের প্রধান বিষয় বা প্রধান বিষয়কে বোঝায়। এই ক্ষে�"
+        ],
+        "line_importance": [
+            -0.14405272115098677
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/042463e9ca7cd4c7eb5a": {
+        "question_id": "strategy_qa/042463e9ca7cd4c7eb5a",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. হ্যানেস হল একটি মুভি মাস্টারপিস যা একটি মুভি মাস্টারপিস দ্বারা প্রতিস্থাপিত হয়েছে। এটি একটি মুভি মাস্টারপিস দ্বারা প্রতিস্থাপিত হয়েছে। এটি একটি মুভি মাস্টারপিস দ্বারা প্রতিস্থাপিত হয়েছে। এটি একটি মুভি মাস্টারপি�"
+        ],
+        "line_importance": [
+            -1.0112402500866264
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/19b40f33fa199c1673fd": {
+        "question_id": "strategy_qa/19b40f33fa199c1673fd",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "nan",
+        "lines": [
+            "1. বাল্ক ক্যাট কি পাকা খাবার খাওয়ার জন্য প্রয়োজনীয় নয়?",
+            "2. বাল্ক ক্যাট কি পাকা খাবার খাওয়ার জন্য প্রয়োজনীয় নয়?",
+            "3. বাল্ক ক্যাট কি পাকা খাবার খাওয়ার জন্য প্রয়োজনীয় নয়?",
+            "4. বাল্ক ক্যাট কি পাকা খাবার খাওয়ার জন্য প্রয়"
+        ],
+        "line_importance": [
+            0.7009554880830227,
+            0.5298451157207507,
+            0.24480406939983368,
+            0.39333589670120755
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/243e3e1ef3fb7190ace3": {
+        "question_id": "strategy_qa/243e3e1ef3fb7190ace3",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "nan",
+        "lines": [
+            "1. রাহুল ডাভিদ কখনও একটি ফুটবল গোল করেছেন?<|end_of_text|>"
+        ],
+        "line_importance": [
+            -1.4018652966982716
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/2b73dae1804aae94e1ba": {
+        "question_id": "strategy_qa/2b73dae1804aae94e1ba",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষয়: বিষ"
+        ],
+        "line_importance": [
+            -1.5737401979398555
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/302570f3787646a587df": {
+        "question_id": "strategy_qa/302570f3787646a587df",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Koala, Ecology and behaviour, foraging and activities: Koalas are herbivores, and while most of their diet consists of eucalypt leaves, they can be found in trees of other genera, such as Acacia, Allocasuarina, Callitris, Leptospermum, and Melaleuca. Though the foliage of over 600 species of Eucalyptus is available, the koala shows a strong preference for around 30.They tend to choose species that have a high protein content and low proportions of fibre and lignin. The most favoured species are Eucalyptus microcorys, E. tereticornis, and E. camaldulensis, which, on average, make up more than 20% of their diet. Despite its reputation as a fussy eater, the koala is more generalist than some other marsupial species, such as the greater glider. Source: Koala, Ecology and behaviour, foraging and activities: Koalas are herbivores, and while most of their diet consists of eucalypt leaves, they can be found in trees of other genera, such as Acacia, Allocasuarina, Callitris,"
+        ],
+        "line_importance": [
+            0.06592772673710022
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/3545982eb15f96652e1b": {
+        "question_id": "strategy_qa/3545982eb15f96652e1b",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. আপনি কি আমাকে একটি প্রদত্ত প্রম্পট দিতে পারেন যাতে আমি আপনাকে সাহায্য করতে পারি?<|end_of_text|>"
+        ],
+        "line_importance": [
+            0.9487402426287633
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/3eb805c6e6cce883416c": {
+        "question_id": "strategy_qa/3eb805c6e6cce883416c",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একটি সম্ভাব্য উত্তর হল \"হ্যাঁ\" কারণ একটি সম্ভাব্য উত্তর হল \"হ্যাঁ\" কারণ একটি সম্ভাব্য উত্তর হল \"হ্যাঁ\" কারণ একটি সম্ভাব্য উত্তর হল \"হ্যাঁ\" কারণ একটি সম্ভাব্য উত্তর হল \"হ্যাঁ\" কারণ একটি সম্ভাব্য উত্তর হল \"হ্যাঁ\" কারণ এক"
+        ],
+        "line_importance": [
+            0.651865266837683
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/4b6ca118a638ad3539c8": {
+        "question_id": "strategy_qa/4b6ca118a638ad3539c8",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Dorothea Wendling: (Maria) Dorothea Wendling, née Spurni (21 March 1736 – 20 August 1811) was a German soprano. Born in  Stuttgart, she is remembered for being the singer for whom Mozart wrote the role of Ilia in Idomeneo, re di Creta. She sang the role of Sabina in the 1768 première de Ignaz Holzbauer's opera Adriano en Rivoli, based on Metastasio's libretto of that name.",
+            "2. Porsche Museum, Stuttgart: The Porsche Museum is an automobile museum in the Zuffenhausen district of Stuttgart, Germany on the site of carmaker Porsche.<|end_of_text|>"
+        ],
+        "line_importance": [
+            0.6525656654656222,
+            -0.439398276268914
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/5787a201b7da5929cb75": {
+        "question_id": "strategy_qa/5787a201b7da5929cb75",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. San Diego County, CA: 1.5m",
+            "2. San Diego County, CA: 1.5m",
+            "3. San Diego County, CA: 1.5m",
+            "4. San Diego County, CA: 1.5m",
+            "5. San Diego County, CA: 1.5m",
+            "6. San Diego County, CA: 1.5m",
+            "7. San Diego County, CA: 1.5m",
+            "8. San Diego County, CA: 1.5m",
+            "9. San Diego County, CA: 1.5m",
+            "10. San Diego County, CA: 1.5m",
+            "11. San Diego County, CA: 1.5m",
+            "12. San Diego County, CA: 1.5m",
+            "13. San Diego County, CA: 1.5m",
+            "14. San Diego County, CA: 1.5m",
+            "15. San Diego County, CA: 1.5m",
+            "16. San Diego County, CA: 1.5m",
+            "17. San Diego County, CA: 1.5m",
+            "18. San Diego County, CA: 1.5m",
+            "19. San Diego County,"
+        ],
+        "line_importance": [
+            -0.039536280054891286,
+            -0.0,
+            -0.0,
+            -0.03873607616545763,
+            -0.0,
+            0.0,
+            -0.0,
+            0.015503249906089376,
+            0.0,
+            -0.026390103383938903,
+            0.0,
+            0.01950204296464377,
+            -0.0,
+            -0.004427347243844552,
+            -0.0004924144595861435,
+            0.0,
+            0.0,
+            0.0,
+            0.3172792075376506
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/59e78fdde03974a7cf77": {
+        "question_id": "strategy_qa/59e78fdde03974a7cf77",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একটি প্রদত্ত প্রশ্নের উত্তর দিতে, আমি প্রথমে প্রদত্ত প্রমাণগুলি বিশ্লেষণ করি এবং প্রতিটি প্রমাণের জন্য একটি ন্যায্য যুক্তি তৈরি করি। এই ক্ষেত্রে, প্রদত্ত প্রমাণগুলি হল একটি প্রদত্ত প্রশ্নের উত্তর দেওয়ার জন্য ব্�"
+        ],
+        "line_importance": [
+            0.3784277043926464
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/5b45ccb915731a9e5f05": {
+        "question_id": "strategy_qa/5b45ccb915731a9e5f05",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একটি টুল প্যাকেজ হল একটি টুল প্যাকেজ যা একটি টুল প্যাকেজ হিসাবে কাজ করে এবং একটি টুল প্যাকেজ হিসাবে কাজ করে এমন একটি টুল প্যাকেজ হিসাবে কাজ করে এমন একটি টুল প্যাকেজ হিসাবে কাজ করে এমন একটি টুল প্যাকেজ হিসাবে কাজ কর"
+        ],
+        "line_importance": [
+            -1.464365184888595
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/6252e913d7d9401e582f": {
+        "question_id": "strategy_qa/6252e913d7d9401e582f",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একটি অ্যামেরিকান ইডলি টিভি শো হল একটি সম্পূর্ণ নির্দিষ্ট প্রশ্ন নয়। এটি একটি সম্পূর্ণ বিবৃতি যা একটি নির্দিষ্ট প্রশ্নের উত্তর দেয়। এই ক্ষেত্রে, প্রশ্নটি হল \"একটি অ্যামেরিকান ইডলি টিভি শো হল একটি সম্পূর্ণ নির্দিষ্�"
+        ],
+        "line_importance": [
+            -0.19092772674438419
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/9ebaee3511157e78ec7b": {
+        "question_id": "strategy_qa/9ebaee3511157e78ec7b",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Tony Bennett, Life and career, 1926–1943: Early life: Anthony Dominick Benedetto was born on August 3, 1926, at  St. John's Episcopal Hospital in Long Island City, Queens. He is a son of grocer John Benedetto and seamstress Anna (Suraci), and was the first member of his family to be born in a hospital. In 1906, John had emigrated from Podàrgoni, a rural eastern district of the Southern Italian city of Reggio Calabria. Anna had been born in the U.S. shortly after her parents also emigrated from the Calabria region in 1899. Other relatives came over as well as part of the mass migration of Italians to America. Tony grew up with an older sister, Maryland, and an older brother, John Sr. with a father who was ailing and unable to work, the children grew up in poverty. John Sr. instilled in his son a love of art and literature, and a compassion for human suffering, but died when Tony was 10 year old. The experience of growing up in the Great Depression and a distaste for the effects of the presidency of Herbert Hoover would make the child a lifelong Democrat.",
+            "2"
+        ],
+        "line_importance": [
+            0.17059678555891333,
+            0.03874676429011327
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/a9d22dce3199e77dd271": {
+        "question_id": "strategy_qa/a9d22dce3199e77dd271",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "nan",
+        "lines": [
+            "1. প্রদত্ত প্রমাণের উপর ভিত্তি করে, এটি অনুমান করা যেতে পারে যে একজন প্রতিযোগিতামূলক বোলার একজন ব্যক্তির বাড়ির বাড়ির বাড়ির বাড়ির বাড়ির বাড়ির বাড়ির বাড়ির বাড়ির বাড়ির বাড়ির বাড়ির বাড়ির বাড়ির বাড়ির বাড়ির বাড�"
+        ],
+        "line_importance": [
+            -2.0034275106775854
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/b1e1256007b0a4a341a7": {
+        "question_id": "strategy_qa/b1e1256007b0a4a341a7",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একটি বুফেল ওয়েঞ্জ হল একটি স্বাদযুক্ত ফ্রাইড যা বিভিন্ন রেস্তোরাঁয় বিভিন্ন স্বাদের সাথে পরিবেশন করা হয়। এটি বিভিন্ন রেস্তোরাঁয় বিভিন্ন স্বাদের সাথে পরিবেশন করা হয়। এটি বিভিন্ন রেস্তোরাঁয় বিভিন্ন স্বাদের সাথে পরিবেশ"
+        ],
+        "line_importance": [
+            -1.5190526914142253
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/c39d1e6ffbca58600a38": {
+        "question_id": "strategy_qa/c39d1e6ffbca58600a38",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একটি প্রদত্ত প্রমাণের উপর ভিত্তি করে, আমরা জানি যে উত্তরটি হল \"হ্যাঁ\" কারণ উত্তরটি বলে যে উত্তরটি হল \"হ্যাঁ\" কারণ উত্তরটি বলে যে উত্তরটি হল \"হ্যাঁ\" কারণ উত্তরটি বলে যে উত্তরটি হল \"হ্যাঁ\" কারণ উত্তরটি বলে যে উত্তরটি হল"
+        ],
+        "line_importance": [
+            -1.5659276970076228
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/c649c9f1814bd72b8ccd": {
+        "question_id": "strategy_qa/c649c9f1814bd72b8ccd",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "nan",
+        "lines": [
+            "1. একটি সম্ভাব্য উত্তর হল যে জেএয়াজ একটি সম্ভাব্য সম্ভাবনা হতে পারে যে তিনি একটি সম্ভাব্য সম্ভাবনা হতে পারে যে তিনি একটি সম্ভাব্য সম্ভাবনা হতে পারে যে তিনি একটি সম্ভাব্য সম্ভাবনা হতে পারে যে তিনি একটি সম্ভাব্য সম্ভাবনা হতে �"
+        ],
+        "line_importance": [
+            -1.526865311613998
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/c69397b4341b65ed080f": {
+        "question_id": "strategy_qa/c69397b4341b65ed080f",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. ভিনসিন্টিয়ান ক্রোয়েল: ভিনসিন্টিয়ান ক্রোয়েল হল ইংরেজি থেকে উদ্ভূত একটি ক্রোয়েল ভাষা যা স্টেন ভিনসিন্ট এবং গ্রেনাডাইনসে বসবাসকারী ইংরেজি বংশোদ্ভূত ব্যক্তিদের দ্বারা ব্যাপকভাবে ব্যবহৃত হয়। এটি ইংরেজি"
+        ],
+        "line_importance": [
+            -1.7299902165845136
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/c91eafafed5a8f80bb5a": {
+        "question_id": "strategy_qa/c91eafafed5a8f80bb5a",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "nan",
+        "lines": [
+            "1. মিয়ামি হল একটি মেট্রোপলিটন শহর যা মিশিগান ডেটার কাছে অবস্থিত এবং মিশিগান ডেটার কাছে অবস্থিত একটি মেট্রোপলিটন শহর। এটি মিশিগান ডেটার কাছে অবস্থিত একটি মেট্রোপলিটন শহর এবং মিশিগান ডেটার কাছে অবস্থিত একটি মেট্রো�"
+        ],
+        "line_importance": [
+            -0.8862402351709001
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/e144fef6c590823af46a": {
+        "question_id": "strategy_qa/e144fef6c590823af46a",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Brooklyn: Brooklyn (/ˈbrʊklɪn/) is a borough of New York City, coextensive with Kings County, in the U.S. It is the most populous county in New York State, as well as the second-most densely populated county in the United States (after New York County). It is also New York City's most populous borough, with 2,736,074 residents in 2020. If each borough were ranked as a city, Brooklyn wouldrank as the third-most populous in the U.S., afterLos Angeles and Chicago.",
+            "2. New York in the American Civil War, Military recruitment: Upstate New York was among the leaders in the revolutions in transportation, agriculture, and industry. Turnpkes, canals (notably the Erie Canal), and railroads connected eastern cities with western markets. New York's farmland was some of the most productive in the nation. The Geneseecountrybecame known as the breadbasketof the nation for its extraordinary grain production. Rapid-flowing rivers offered power for major industrial sites. Following these expanding economic opportunities, people (including African Americans as well as European Americans of many different backgrounds) poured into upstate New York.They came from several different cultures—New England Yankees"
+        ],
+        "line_importance": [
+            0.19619243448972223,
+            0.3857771763536035
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/e18f8956e3fd4e8c50b2": {
+        "question_id": "strategy_qa/e18f8956e3fd4e8c50b2",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Gunpowder: Gunpowder is classified as a low explosive because of its relatively slow decomposition rate and consequently low brisance. Low explosives deflagrate (i.e., burn) at subsonic speeds, whereas high explosives detonate producing a supersonic shockwave.Ignition ofgunpowder packed behind a projectile generates enough pressure to force the shot from the muzzle at high speed, but usually not enough force to rupture thegun barrel. It thus makes a good propellant, but is less suitable for shattering rock or fortifications with its low-yield explosive power. Nonetheless it was widely used to fill fused artillery shells (and used in mining and civil engineering projects) until the second half of the 19th Century,when the first high explosives were put into use.",
+            "2. Shockwave: To produce a shockwave, an object in a given medium (such as air or water) must travel faster than the local speed of sound. In the case of an aircraft travelling at high subsonic speed,regions of air around the aircraft may be travelling at exactly the speed of sound,so that the sound waves leaving the aircraft pile up on one another, similar to a traffic jam on a motorway.When a shockwave forms, the local air"
+        ],
+        "line_importance": [
+            0.12872872074029054,
+            0.5329197526739078
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/e1be1275b3c816b0b7bf": {
+        "question_id": "strategy_qa/e1be1275b3c816b0b7bf",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "nan",
+        "lines": [
+            "1. প্রদত্ত প্রমাণের উপর ভিত্তি করে, এটি অনুমান করা যেতে পারে যে ফামিলি গাইডস একটি অস্ট্রেলিয়ান স্টেশন হতে পারে। এটি একটি অস্ট্রেলিয়ান স্টেশন হতে পারে কারণ এটি একটি অস্ট্রেলিয়ান স্টেশন হিসাবে উল্লেখ করা হয়েছে এবং এ�"
+        ],
+        "line_importance": [
+            -0.6831152109328447
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/e537c420c9cb2e24409c": {
+        "question_id": "strategy_qa/e537c420c9cb2e24409c",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Thirteenth Amendment to the United States Constitution, Proposal and ratification, Ratification by the states: Having been ratified by the legislatures of three-fourths of the states (27 of the 36 states, including those that had been in rebellion), Secretary of State Seward, on December 18, 1865, certified that the Thirteenth Amendment had become valid, to all intents and purposes, as a part of the Constitution. Included on the enrolled list of ratifying states were the three ex-Confederate states that had given their assent, but with strings attached. Seward accepted their affirmative votes and brushed aside their interpretive declarations without comment, challenge or acknowledgment.",
+            "2. Louisa May Alcott: Louisa May Alcott (/ˈɔːlkət, -kɒt/; November 29, 1832 – March 6, 1888) was an American novelist, short story writer, and poet best known as the author of the novel Little Women (1868) and its sequels Little Men (1871) and Jo's Boys (1886). Raised in New England by her transcendentalist parents, Abigail May and Amos Bronson Alcott, she grew up"
+        ],
+        "line_importance": [
+            0.010332650139650162,
+            0.11514523750569715
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/e5ffcc7b22a58df8952d": {
+        "question_id": "strategy_qa/e5ffcc7b22a58df8952d",
+        "verdict": "contradiction",
+        "actual_response": ", the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. কম্পিউটার ফান, অ্যাপ্লিকেশন, CPU ফান: ব্যবহার করা হয় কোয়ালকটার হিটস্কিন থেকে শুরু করে একটি সম্পূর্ণ কম্পিউটার সিস্টেমের জন্য একটি হিটস্কিন ব্যবহার করে একটি কম্পিউটার প্রসেসরের উপর নির্ভর করে। একটি হিটস্কিন একটি শক্�"
+        ],
+        "line_importance": [
+            -1.542490194210924
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/ee89128e112aca3b7efd": {
+        "question_id": "strategy_qa/ee89128e112aca3b7efd",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "nan",
+        "lines": [
+            "1. প্রদত্ত প্রমাণের উপর ভিত্তি করে, আমি বলতে পারি যে লাল লিপস সাধারণত স্বাভাবিক নয়। এটি লাল লিপসের সাথে সম্পর্কিত একটি সাধারণ অবস্থা নয় এবং এটি একটি সাধারণ অবস্থা নয়। এটি একটি সাধারণ অবস্থা নয় এবং এটি একটি সাধ"
+        ],
+        "line_importance": [
+            -0.5268653115557265
+        ],
+        "exception": "n/a"
+    }
+}

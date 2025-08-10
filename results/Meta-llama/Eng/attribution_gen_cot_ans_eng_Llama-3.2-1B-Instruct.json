@@ -1,0 +1,2206 @@
+{
+    "fermi/test_realfp/17": {
+        "question_id": "fermi/test_realfp/17",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is 4.2e+14",
+        "gen_response": "21,024,000,000,000,000 gallons",
+        "lines": [
+            "1. The Atlantic Ocean covers approximately 29 percent of the water surface area of the Earth.",
+            "2. One acre foot of water is equivalent to 325,851 gallons.",
+            "3. The Atlantic Ocean covers about 20 percent of the Earth's surface.",
+            "4. To find the total amount of water in the Atlantic Ocean, multiply the percentage of the Earth's surface covered by the Atlantic Ocean by the amount of water in one acre foot.",
+            "5. 20% of 106,460,000 km2 = 0.2 x 106,460,000 = 21,024,000 km2",
+            "6. 21,024,000 km2 x 1,000,000,000 m2/km2 = 21,024,000,000,000 m3",
+            "7. 21,024,000,000,000 m3 x 1,000,000,000 gallons/m3 = 21,024,000,000,000,000 gallons"
+        ],
+        "line_importance": [
+            1.1743330649305315,
+            -1.5688762808027952,
+            0.5699612349271774,
+            0.7598201479697225,
+            1.2482421178058152,
+            5.770406572364058,
+            10.700769155803718
+        ],
+        "exception": "n/a"
+    },
+    "fermi/test_realfp/176": {
+        "question_id": "fermi/test_realfp/176",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is 708",
+        "gen_response": "nan",
+        "lines": [
+            "1. The full moon occurs approximately every 29.53 days.",
+            "2. A lunar calendar month can be either 29 or 30 days long.",
+            "3. A month in a lunar calendar can be either 29 or 30 days long.",
+            "4. A month in a lunar calendar can be either 29 or 30 days long.",
+            "5. A month in a lunar calendar can be either 29 or 30 days long.",
+            "6. A month in a lunar calendar can be either 29 or 30 days long.",
+            "7. A month in a lunar calendar can be either 29 or 30 days long.",
+            "8. A month in a lunar calendar can be either 29 or 30 days long.",
+            "9. A month in a lunar calendar can be either 29 or 30 days long.",
+            "10. A month in a lunar calendar can be either 29 or 30 days long.",
+            "11. A month in a lunar calendar can be either 29 or 30 days long.",
+            "12. A month in a lunar calendar can be either 29 or 30 days long.",
+            "13. A month in a lunar calendar can be either 29 or 30 days long.",
+            "14. A month in a lunar calendar can be either 29 or 30 days long"
+        ],
+        "line_importance": [
+            -0.01728636515098445,
+            0.0074537143736155154,
+            0.0,
+            0.017269217444487197,
+            -0.07048655129256154,
+            0.022954489957984856,
+            -0.0,
+            -0.0,
+            -0.0,
+            0.02035852911431281,
+            0.040639027052931306,
+            0.02159543427882092,
+            0.09407698606522504,
+            -0.25445775570450135
+        ],
+        "exception": "n/a"
+    },
+    "fermi/test_realfp/193": {
+        "question_id": "fermi/test_realfp/193",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is 20",
+        "gen_response": "nan",
+        "lines": [
+            "1. According to the EPA, a small drip from a worn faucet washer can waste 20 gallons of water per day.",
+            "2. Larger leaks can waste hundreds of gallons.",
+            "3. A leaky faucet can waste hundreds of gallons of water per day.",
+            "4. A small drip from a worn faucet washer can waste 20 gallons of water per day.",
+            "5. Therefore, a leaky faucet can waste 20 gallons of water per day."
+        ],
+        "line_importance": [
+            -0.1335522876725012,
+            -0.04423986421931709,
+            -0.06420791149139404,
+            -0.7370134685881609,
+            -1.8757584750608385
+        ],
+        "exception": "n/a"
+    },
+    "fermi/test_realfp/202": {
+        "question_id": "fermi/test_realfp/202",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is 100,000",
+        "gen_response": "nan",
+        "lines": [
+            "1. The number of people with sickle cell disease in the United States is about one in 5,000.",
+            "2. The majority of people with sickle cell disease in the United States are of sub-Saharan African descent.",
+            "3. Approximately 8% of African Americans are carriers of the sickle cell trait.",
+            "4. An estimated 100 thousand Americans have the disease.",
+            "5. Most infants with sickle cell disease are identified by routine neonatal screening."
+        ],
+        "line_importance": [
+            1.2116870024491595,
+            0.09174727298630436,
+            -0.2439897209405899,
+            0.2565320161024675,
+            0.29142394179203296
+        ],
+        "exception": "n/a"
+    },
+    "fermi/test_realfp/233": {
+        "question_id": "fermi/test_realfp/233",
+        "verdict": "contradiction",
+        "actual_response": ", it is not possible to give an exact answer to this question.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The fuel costs depend on four factors: distance travelled, price paid for the fuel, energy efficiency of the car, and type of driving.",
+            "2. In Western countries, the fuel cost is the second highest after depreciation.",
+            "3. The cost of fuel is typically measured in cents per mile.",
+            "4. The cost of fuel is directly related to the distance travelled.",
+            "5. The cost of fuel is inversely related to the energy efficiency of the car.",
+            "6. The cost of fuel is also affected by the type of driving.",
+            "7. Therefore, the cost of fuel is inversely proportional to the distance travelled.",
+            "8. The cost of fuel is directly proportional to the price paid for the fuel.",
+            "9. The cost of fuel is inversely proportional to the type of driving.",
+            "10. The cost of fuel is directly proportional to the energy efficiency of the car.",
+            "11. The cost of fuel is inversely proportional to the price paid for the fuel.",
+            "12. The cost of fuel is directly proportional to the distance travelled by the car.",
+            "13. The cost of fuel is inversely proportional to the energy efficiency of the car and the type of driving.",
+            "14. The cost of fuel is inversely proportional to the price paid for the fuel.",
+            "15. Therefore, the cost of fuel"
+        ],
+        "line_importance": [
+            -0.0,
+            0.13042737699371942,
+            -0.3264484405517578,
+            0.008363593488651708,
+            0.15618235132945077,
+            -0.08747813534987767,
+            0.2957265344456264,
+            -0.2679966305803804,
+            0.06339169074928522,
+            0.0,
+            0.07115247486067536,
+            -0.04961846836079559,
+            -0.010935436695549186,
+            0.06923546956417055,
+            -0.2967390716075897
+        ],
+        "exception": "n/a"
+    },
+    "fermi/test_realfp/333": {
+        "question_id": "fermi/test_realfp/333",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is 2000",
+        "gen_response": "2,400",
+        "lines": [
+            "1. The production of the Lord of the Rings film series was the world's largest home movie.",
+            "2. The production was described as a travelling circus by producer Barrie Osborne.",
+            "3. Fran Walsh described writing the script for the production as laying the track down in front of a moving train.",
+            "4. Jackson described shooting as like organizing an army, with 2,400 people involved at the height of production.",
+            "5. Due to the remoteness of some of New Zealand's untamed landscapes, the crew carried survival kits in case helicopters could not reach the locations to bring them home in time."
+        ],
+        "line_importance": [
+            0.10720373630643189,
+            -0.0,
+            0.5212550908327103,
+            -1.4341932642399071,
+            -0.09168603363437423
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__136179_13529": {
+        "question_id": "musique/2hop__136179_13529",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is 1982.",
+        "gen_response": "1983",
+        "lines": [
+            "1. The player that Iglesia Maradoniana is named after was signed by Barcelona in 1983.",
+            "2. In 1983, Barcelona won the Copa del Rey and the Spanish Super Cup.",
+            "3. The player that Iglesia Maradoniana is named after was a key player in Barcelona's success that year.",
+            "4. Ronaldinho was the player who was granted an ovation from Madrid fans at the Santiago Bernabéu in 2005.",
+            "5. Ronaldinho was the player who was granted an ovation from Madrid fans at the Santiago Bernabéu in 2005."
+        ],
+        "line_importance": [
+            0.2687924495693698,
+            1.4525379739135644,
+            0.5994344353675842,
+            -0.7008646371095473,
+            -1.0047852136550401
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__141365_417697": {
+        "question_id": "musique/2hop__141365_417697",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Nissan Altima.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The evidence does not mention the company that includes Datsun.",
+            "2. The evidence does not mention the company that includes Datsun.",
+            "3. The evidence does not mention the company that includes Datsun.",
+            "4. The evidence does not mention the company that includes Datsun.",
+            "5. The evidence does not mention the company that includes Datsun."
+        ],
+        "line_importance": [
+            -0.30688987111471855,
+            -0.09308600286997874,
+            -0.18195952475070953,
+            -0.25337638267580254,
+            -0.3098811394332068
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__157498_127908": {
+        "question_id": "musique/2hop__157498_127908",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Major League Soccer (MLS).",
+        "gen_response": "nan",
+        "lines": [
+            "1. The team that uses Dick's Sporting Goods Park plays in Major League Soccer (MLS).",
+            "2. The team that uses Dick's Sporting Goods Park is the Colorado Rapids.",
+            "3. The Colorado Rapids are a member of the Western Conference in Major League Soccer (MLS).",
+            "4. The Colorado Rapids are owned by the Kroenke Sports & Entertainment.",
+            "5. The Kroenke Sports & Entertainment is also the owner of the Denver Nuggets of the National Basketball Association (NBA).",
+            "6. The Denver Nuggets are a member of the Western Conference in the National Basketball Association (NBA).",
+            "7. The Denver Nuggets are not a member of Major League Soccer (MLS).",
+            "8. The Colorado Rapids are not a member of the National Basketball Association (NBA).",
+            "9. The Colorado Rapids are a member of the Western Conference in Major League Soccer (MLS).",
+            "10. The Colorado Rapids are a member of the Western Conference in Major League Soccer (MLS).",
+            "11. The Colorado Rapids are a member of the Western Conference in Major League Soccer (MLS).",
+            "12. The Colorado Rapids are a member of the Western Conference in Major League Soccer (MLS).",
+            "13. The Colorado Rapids are a member of the Western Conference in Major League Soccer (MLS).",
+            "14. The Colorado Rapids are a member of the Western Conference"
+        ],
+        "line_importance": [
+            -0.06012095920434404,
+            0.2379935355709635,
+            0.3679009974002838,
+            0.1378490199014613,
+            0.2911678038733717,
+            0.6536760683431145,
+            0.0,
+            0.04657096302990483,
+            0.029685925708086237,
+            0.15216541539113926,
+            0.06963592048015597,
+            -0.0,
+            0.04322381473257016,
+            0.3962476819033945
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__158275_35739": {
+        "question_id": "musique/2hop__158275_35739",
+        "verdict": "entailment",
+        "actual_response": "So the  answer is October 26, 2012.",
+        "gen_response": "October 26, 2012.",
+        "lines": [
+            "1. Internet Explorer 10 was released to manufacturing along with Windows 8 and Windows Server 2012.",
+            "2. The latter reached general availability on September 4, 2012.",
+            "3. A preview of Internet Explorer 10 for Windows 7 and Windows Server 2008 R2 was released on November 13, 2012.",
+            "4. Internet Explorer 10 was released to manufacturing along with Windows 8 and Windows Server 2012.",
+            "5. The latter reached general availability on October 26, 2012."
+        ],
+        "line_importance": [
+            0.5477067178118793,
+            -0.6143747287748001,
+            -0.2957726716995239,
+            0.9245887891112586,
+            2.553860819075267
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__169443_83769": {
+        "question_id": "musique/2hop__169443_83769",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is O'Bannion.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The screenwriter for Good Will Hunting, Ben Affleck, played a role in Dazed and Confused.",
+            "2. Ben Affleck played a role in Dazed and Confused.",
+            "3. Ben Affleck played the role of Link.",
+            "4. Ben Affleck played the role of Link in Dazed and Confused.",
+            "5. Ben Affleck played the role of Link in Dazed and Confused."
+        ],
+        "line_importance": [
+            0.19858892189383812,
+            0.5032029801175019,
+            -0.0,
+            0.23103374406328406,
+            -0.1766708201241399
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__170341_43945": {
+        "question_id": "musique/2hop__170341_43945",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is argued for the independence of the United States from Britain.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Thomas Paine was a key figure in the American Revolution.",
+            "2. Common Sense was published in January 1776.",
+            "3. Common Sense contributed to the spread of ideas about republicanism and separation from Britain.",
+            "4. Common Sense encouraged recruitment for the Continental Army.",
+            "5. Common Sense was a new and convincing argument for independence.",
+            "6. Common Sense was oriented to the future, compelling readers to make an immediate choice.",
+            "7. Common Sense offered a solution for Americans dissatisfied with and alarmed by the threat of tyranny.",
+            "8. Thomas Paine was the author of Rights of Man.",
+            "9. Thomas Paine was the author of Common Sense.",
+            "10. Thomas Paine was the author of Rights of Man.",
+            "11. Thomas Paine was the author of Common Sense.",
+            "12. Thomas Paine was the author of Rights of Man.",
+            "13. Thomas Paine was the author of Common Sense.",
+            "14. Thomas Paine was the author of Rights of Man.",
+            "15. Thomas Paine was the author of Common Sense.",
+            "16. Thomas Paine was the author of Rights of Man.",
+            "17. Thomas Paine was the author of Common Sense.",
+            "18. Thomas Paine was the author of Rights of Man.",
+            "19. Thomas Paine was the author of Common Sense.",
+            "20."
+        ],
+        "line_importance": [
+            0.11233348910328626,
+            0.12729510888737006,
+            -0.14149032533168793,
+            0.1608973092727177,
+            -0.027627992690094423,
+            -0.11020374498403697,
+            0.013026695062117922,
+            -0.0,
+            -0.08308229664157579,
+            -0.03183747334635819,
+            -0.0705182167224393,
+            -0.027991901526955628,
+            -0.11909348684525146,
+            -0.08990792844808694,
+            -0.0910385400056839,
+            -0.02920939028263092,
+            -0.06884531854810524,
+            -0.22182942240343975,
+            0.0,
+            0.12886522374334514
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__207597_73244": {
+        "question_id": "musique/2hop__207597_73244",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Drakensberg Mountains.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The Caledon River originates in the Drakensberg Mountains on the Lesotho border.",
+            "2. The Caledon River flows southwestward and then westward before joining the Orange River near Bethulie in the southern Free State.",
+            "3. The origin of the Caledon River is located in the Drakensberg Mountains on the Lesotho border.",
+            "4. The Caledon River joins the Orange River near Bethulie in the southern Free State.",
+            "5. The origin of the Caledon River is the same as its final destination."
+        ],
+        "line_importance": [
+            -0.6860952296842608,
+            -0.30570648263596834,
+            -0.7546237111091614,
+            -0.12281927001196496,
+            0.5793614630132724
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__35209_17335": {
+        "question_id": "musique/2hop__35209_17335",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is 323BC.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The evidence does not provide a specific date for Alexander the Great's death.",
+            "2. The evidence does not provide a specific date for Alexander the Great's death.",
+            "3. The evidence does not provide a specific date for Alexander the Great's death.",
+            "4. The evidence does not provide a specific date for Alexander the Great's death.",
+            "5. The evidence does not provide a specific date for Alexander the Great's death."
+        ],
+        "line_importance": [
+            0.03757352024087721,
+            0.06669108401143384,
+            -0.12268224358558655,
+            -0.10275913014867645,
+            -0.2230134080934832
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__42464_718451": {
+        "question_id": "musique/2hop__42464_718451",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is physicist and chemist.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The physicist making the first to measure the value of the Newton Universal Gravitation Constant is Henry Cavendish.",
+            "2. Answer:",
+            "2"
+        ],
+        "line_importance": [
+            -2.410401274585682,
+            0.3810334755104563,
+            -0.39608410000801086
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__50068_494136": {
+        "question_id": "musique/2hop__50068_494136",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Laura Savoie.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The person who played Father in I Can Only Imagine is Bart Millard.",
+            "2. Bart Millard is married to Laura Savoie.",
+            "3. Laura Savoie is the spouse of Dennis Quaid.",
+            "4. Dennis Quaid is married to Laura Savoie.",
+            "5. Laura Savoie is the spouse of the person who played Father in I Can Only Imagine."
+        ],
+        "line_importance": [
+            -0.4081561226646869,
+            0.8102223482003115,
+            -0.4317764639854431,
+            0.9900593740952406,
+            -1.3465609400007243
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__51261_87295": {
+        "question_id": "musique/2hop__51261_87295",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Queen Clarisse Renaldi.",
+        "gen_response": "Julie Andrews.",
+        "lines": [
+            "1. Julie Andrews played Mary Poppins in the 1964 film adaptation.",
+            "2. Julie Andrews played Clarisse Renaldi in The Princess Diaries.",
+            "3. Julie Andrews played Mary Poppins in the 1964 film adaptation.",
+            "4. Julie Andrews played Clarisse Renaldi in The Princess Diaries.",
+            "5. Julie Andrews played Mary Poppins in the 1964 film adaptation."
+        ],
+        "line_importance": [
+            0.9786463993521085,
+            0.6862923760970989,
+            0.31614983081817627,
+            0.2057277297152849,
+            0.12828350387892024
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__552546_70131": {
+        "question_id": "musique/2hop__552546_70131",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is free corps.",
+        "gen_response": "Germany.",
+        "lines": [
+            "1. The Free State of Mecklenburg-Schwerin is located in Germany.",
+            "2. The Free State of Mecklenburg-Schwerin is a state of the Holy Roman Empire.",
+            "3. The Holy Roman Empire was dissolved in 1806.",
+            "4. The Holy Roman Empire was a loose confederation of states and cities that existed from the 10th to the 19th century.",
+            "5. The Holy Roman Empire was dissolved along the Baltic Sea littoral between Holstein-Glückstadt and Duchy of Pomerania."
+        ],
+        "line_importance": [
+            3.2699536086955616,
+            0.1206709229250155,
+            0.2765478193759918,
+            0.3119160185677023,
+            0.2223872445692734
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__56851_343058": {
+        "question_id": "musique/2hop__56851_343058",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Adrian Edmondson.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The spouse of the actress who played the fairy godmother in Shrek 2 is Adrian Edmondson.",
+            "2. Answer: Adrian Edmondson."
+        ],
+        "line_importance": [
+            -1.6110320567039769,
+            -0.5075831269243197
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__620853_22458": {
+        "question_id": "musique/2hop__620853_22458",
+        "verdict": "entailment",
+        "actual_response": "So the  answer is Fédération Haïtienne de Football.",
+        "gen_response": "Haitian Football Federation.",
+        "lines": [
+            "1. The name of the organization the Haiti national football team belongs to stands for \"Fédération Haïtienne de Football\".",
+            "2. The name \"Fédération Haïtienne de Football\" is French.",
+            "3. The name \"Fédération Haïtienne de Football\" translates to \"Haitian Football Federation\".",
+            "4. The Haitian Football Federation is the governing body for football in Haiti.",
+            "5. The Haitian Football Federation is responsible for overseeing all aspects of the game of football in Haiti, both professional and amateur."
+        ],
+        "line_importance": [
+            0.9118440986535181,
+            -0.09918972800929782,
+            3.4964776039123535,
+            1.047214171875013,
+            -0.10682778932807106
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__66167_72467": {
+        "question_id": "musique/2hop__66167_72467",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Philadelphia Warriors.",
+        "gen_response": "Bob Boozer",
+        "lines": [
+            "1. The player who scored the most points in a NBA season is Wilt Chamberlain.",
+            "2. The 1959 NBA draft was held.",
+            "3. Bob Boozer was selected first overall by the Cincinnati Royals.",
+            "4. Wilt Chamberlain was selected as the Warriors' territorial pick.",
+            "5. The NBA agreed with the argument that Chamberlain had grown up in Philadelphia and played high school basketball at Overbrook High School in Philadelphia."
+        ],
+        "line_importance": [
+            1.046480617714174,
+            -0.6169716542311854,
+            3.2655930519104004,
+            0.16808768459433263,
+            0.9961300813537224
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__68590_27619": {
+        "question_id": "musique/2hop__68590_27619",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Frankfurt.",
+        "gen_response": "The mission for the agency that controls the monetary policy of the EU is found in the European Central Bank's (ECB) General Council.",
+        "lines": [
+            "1. The mission for the agency that controls the monetary policy of the EU is found in the European Central Bank's (ECB) General Council.",
+            "2. The General Council is the governing body of the ECB, consisting of the President of the ECB, who is appointed by the European Council, the Vice-President of the ECB, and the governors of the national central banks of all 27 EU member states.",
+            "3. The President of the ECB is appointed by the European Council.",
+            "4. The Vice-President of the ECB is appointed by the European Council.",
+            "5. The governors of the national central banks of all 27 EU member states are appointed by the European Council."
+        ],
+        "line_importance": [
+            7.014088120753487,
+            -0.7375092789863303,
+            0.0,
+            0.03759724050178648,
+            -0.0
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__77878_189357": {
+        "question_id": "musique/2hop__77878_189357",
+        "verdict": "entailment",
+        "actual_response": "So the  answer is Stanford Law School.",
+        "gen_response": "Stanford Law School.",
+        "lines": [
+            "1. Sandra Day O'Connor attended Stanford Law School.",
+            "2. William Rehnquist attended Stanford Law School.",
+            "3. Sandra Day O'Connor and William Rehnquist graduated together from Stanford Law School.",
+            "4. Sandra Day O'Connor was the first woman to be appointed to the Supreme Court.",
+            "5. William Rehnquist was the first woman to be appointed to the Supreme Court."
+        ],
+        "line_importance": [
+            1.8904750379507698,
+            2.6601928169169398,
+            1.9555677473545074,
+            -0.0,
+            -0.8578430475474916
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__82270_177869": {
+        "question_id": "musique/2hop__82270_177869",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is Michelle Obama.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The first African American presidential candidate was Barack Obama.",
+            "2. Barack Obama was nominated by the Democratic Party.",
+            "3. The Democratic Party is led by Hillary Clinton.",
+            "4. Hillary Clinton is the spouse of Barack Obama.",
+            "5. Hillary Clinton is the wife of Barack Obama."
+        ],
+        "line_importance": [
+            -0.3567854762399761,
+            0.060924516048639986,
+            0.2797084152698517,
+            -1.7042010110587058,
+            -1.1890736249637535
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__84937_148696": {
+        "question_id": "musique/2hop__84937_148696",
+        "verdict": "entailment",
+        "actual_response": "So the  answer is Governor-General of India.",
+        "gen_response": "Governor-General.",
+        "lines": [
+            "1. The person impeached in England for acts committed as governor general of India was Warren Hastings.",
+            "2. Warren Hastings was accused of misconduct during his time in Calcutta.",
+            "3. The impeachment prosecution was led by Edmund Burke.",
+            "4. The trial became a debate between two radically opposed visions of empire.",
+            "5. The position of the person impeached in England for acts committed as governor general of India is Governor-General."
+        ],
+        "line_importance": [
+            -0.0,
+            0.661902274852116,
+            0.2202293425798416,
+            1.0013231726401115,
+            2.561195252491237
+        ],
+        "exception": "n/a"
+    },
+    "musique/2hop__96410_159054": {
+        "question_id": "musique/2hop__96410_159054",
+        "verdict": "contradiction",
+        "actual_response": "So the  answer is The Bourne Identity.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The Bourne Betrayal was based on The Bourne Identity.",
+            "2. The Bourne Identity was based on The Bourne Supremacy and The Bourne Ultimatum.",
+            "3. The Bourne Supremacy and The Bourne Ultimatum were the first two sequels to The Bourne Identity.",
+            "4. The Bourne Supremacy and The Bourne Ultimatum formed the Bourne Trilogy.",
+            "5. The Bourne Trilogy included The Bourne Legacy, The Bourne Betrayal, and The Bourne Sanction.",
+            "6. The Bourne Betrayal was the third book in the Bourne Trilogy.",
+            "7. The Bourne Betrayal was based on The Bourne Identity.",
+            "8. The Bourne Identity was based on The Bourne Supremacy and The Bourne Ultimatum.",
+            "9. The Bourne Supremacy and The Bourne Ultimatum formed the Bourne Trilogy.",
+            "10. The Bourne Trilogy included The Bourne Legacy, The Bourne Betrayal, and The Bourne Sanction.",
+            "11. The Bourne Betrayal was the third book in the Bourne Trilogy.",
+            "12. The Bourne Betrayal was based on The Bourne Identity.",
+            "13. The Bourne Identity was"
+        ],
+        "line_importance": [
+            -0.4043691993722194,
+            0.21072749047818157,
+            -0.07541155815124512,
+            0.020611949549999863,
+            0.05173513373595537,
+            0.0,
+            0.15706607548913218,
+            0.01841385801307663,
+            -0.06887254435339468,
+            0.14133480046472624,
+            0.01846785050581356,
+            0.19873325052553417,
+            0.6914726141961152
+        ],
+        "exception": "n/a"
+    },
+    "sports/10": {
+        "question_id": "sports/10",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because Luke Voit is a professional baseball player and is known to be a first baseman.",
+            "2. He is also mentioned in the evidence as being the Yankees' starting first baseman.",
+            "3. Therefore, it is likely that he would be out at first base.",
+            "4. Answer: yes"
+        ],
+        "line_importance": [
+            -0.2189076679733563,
+            -0.02943990786806173,
+            0.20143228769302368,
+            -1.3638881064665453
+        ],
+        "exception": "n/a"
+    },
+    "sports/121": {
+        "question_id": "sports/121",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because Luke Voit is a professional baseball player who has played in the MLB.",
+            "2. The sentence is plausible because Voit has made his MLB debut in 2017 and has played for the St. Louis Cardinals and the New York Yankees.",
+            "3. The sentence is plausible because Voit became the Yankees' starting first baseman by 2019.",
+            "4. The sentence is plausible because Voit is a professional baseball player who has played in the MLB.",
+            "5. The sentence is plausible because Voit is a professional baseball player who has played in the MLB."
+        ],
+        "line_importance": [
+            -0.7302152147402238,
+            0.5287480335610184,
+            -0.0699305534362793,
+            0.03035182503770598,
+            -0.12188785561223374
+        ],
+        "exception": "n/a"
+    },
+    "sports/130": {
+        "question_id": "sports/130",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "No",
+        "lines": [
+            "1. The sentence is plausible because Luka Modrić is a Croatian professional footballer who plays as a midfielder for Spanish club Real Madrid and captains the Croatia national team.",
+            "2. Modrić is known to be a skilled and experienced midfielder.",
+            "3. Modrić has been involved in several high-profile matches, including the 2018 FIFA World Cup.",
+            "4. Modrić has been known to wear studs on his boots in some matches.",
+            "5. Modrić has been involved in several high-profile matches, including the 2018 FIFA World Cup.",
+            "6. Modrić has been known to wear studs on his boots in some matches.",
+            "7. Modrić has been involved in several high-profile matches, including the 2018 FIFA World Cup.",
+            "8. Modrić has been known to wear studs on his boots in some matches.",
+            "9. Modrić has been involved in several high-profile matches, including the 2018 FIFA World Cup.",
+            "10. Modrić has been known to wear studs on his boots in some matches."
+        ],
+        "line_importance": [
+            -0.581676856322831,
+            -0.0426276252435886,
+            0.12305408716201782,
+            0.07529471870774422,
+            0.15627437873573144,
+            0.02452658710351049,
+            0.16615654085557477,
+            0.2159530051377892,
+            0.07124927204993267,
+            0.24263030191839402
+        ],
+        "exception": "n/a"
+    },
+    "sports/138": {
+        "question_id": "sports/138",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because Trent Grisham is an outfielder for the San Diego Padres, which is a team in the National League.",
+            "2. The sentence is plausible because Grisham is a professional baseball player.",
+            "3. The sentence is plausible because the National League Championship Series is a real baseball series.",
+            "4. The sentence is plausible because Grisham is a real baseball player.",
+            "5. The sentence is plausible because the National League Championship Series is a real baseball series."
+        ],
+        "line_importance": [
+            -0.34575764170014567,
+            0.11500672864347836,
+            7.38687813282013e-05,
+            -0.060629572816030354,
+            -0.15581765124429844
+        ],
+        "exception": "n/a"
+    },
+    "sports/139": {
+        "question_id": "sports/139",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "No.",
+        "lines": [
+            "1. Malik Beasley is a professional basketball player.",
+            "2. Malik Beasley is a player for the Minnesota Timberwolves.",
+            "3. Malik Beasley committed a three-second violation.",
+            "4. Malik Beasley is a player for the Minnesota Timberwolves.",
+            "5. Malik Beasley is a player for the Minnesota Timberwolves."
+        ],
+        "line_importance": [
+            -0.4391018152656173,
+            0.33459354575061273,
+            -0.0,
+            0.5694956671200465,
+            0.5706036522648814
+        ],
+        "exception": "n/a"
+    },
+    "sports/140": {
+        "question_id": "sports/140",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "Yes",
+        "lines": [
+            "1. The sentence is plausible because the term \"flag\" is used to refer to fouls in American football.",
+            "2. The sentence is plausible because the term \"flag\" is used to refer to fouls in American football.",
+            "3. The sentence is plausible because the term \"flag\" is used to refer to fouls in American football.",
+            "4. The sentence is plausible because the term \"flag\" is used to refer to fouls in American football.",
+            "5. The sentence is plausible because the term \"flag\" is used to refer to fouls in American football."
+        ],
+        "line_importance": [
+            0.2924439183326114,
+            0.5061286121719909,
+            0.2358597069978714,
+            0.1983858018354856,
+            0.13871473494853515
+        ],
+        "exception": "n/a"
+    },
+    "sports/142": {
+        "question_id": "sports/142",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence \"Keenan Allen launched a hail mary\" is plausible because it accurately describes Keenan Allen's action of throwing a long pass in a game.",
+            "2. The sentence \"Keenan Allen launched a hail mary\" is plausible because it accurately describes Keenan Allen's action of throwing a long pass in a game.",
+            "3. The sentence \"Keenan Allen launched a hail mary\" is plausible because it accurately describes Keenan Allen's action of throwing a long pass in a game.",
+            "4. The sentence \"Keenan Allen launched a hail mary\" is plausible because it accurately describes Keenan Allen's action of throwing a long pass in a game.",
+            "5. The sentence \"Keenan Allen launched a hail mary\" is plausible because it accurately describes Keenan Allen's action of throwing a long pass in a game."
+        ],
+        "line_importance": [
+            -0.13252217393056645,
+            -0.0,
+            -0.03791439160704613,
+            -0.0,
+            0.030915607662016533
+        ],
+        "exception": "n/a"
+    },
+    "sports/167": {
+        "question_id": "sports/167",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because the term \"flagged on the play\" is a common way to refer to fouls in football.",
+            "2. The sentence is plausible because the term \"flag\" is used to signal fouls in football.",
+            "3. The sentence is plausible because the term \"flag\" is used to signal fouls in football.",
+            "4. The sentence is plausible because the term \"flag\" is used to signal fouls in football.",
+            "5. The sentence is plausible because the term \"flag\" is used to signal fouls in football."
+        ],
+        "line_importance": [
+            -0.18868828487340397,
+            -0.08649096841710809,
+            -0.20342881977558136,
+            -0.17817942988015614,
+            -0.26081897565720885
+        ],
+        "exception": "n/a"
+    },
+    "sports/187": {
+        "question_id": "sports/187",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because Zach LaVine is a player in the NBA, and the three-second rule is a standard rule in basketball.",
+            "2. The sentence is plausible because the three-second rule is a well-known rule in basketball.",
+            "3. The sentence is plausible because Zach LaVine is a player in the NBA.",
+            "4. The sentence is plausible because the three-second rule is a standard rule in basketball.",
+            "5. The sentence is plausible because Zach LaVine is a player in the NBA."
+        ],
+        "line_importance": [
+            -0.623851170366978,
+            0.03273875389569761,
+            -0.05232817307114601,
+            -0.21717026888844923,
+            -0.28412822023254125
+        ],
+        "exception": "n/a"
+    },
+    "sports/190": {
+        "question_id": "sports/190",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "yes",
+        "lines": [
+            "1. The sentence \"Andrew Wiggins airballed the shot\" is plausible because Andrew Wiggins is a professional basketball player.",
+            "2. The sentence \"Andrew Wiggins airballed the shot\" is plausible because Andrew Wiggins is a professional basketball player.",
+            "3. The sentence \"Andrew Wiggins airballed the shot\" is plausible because Andrew Wiggins is a professional basketball player.",
+            "4. The sentence \"Andrew Wiggins airballed the shot\" is plausible because Andrew Wiggins is a professional basketball player.",
+            "5. The sentence \"Andrew Wiggins airballed the shot\" is plausible because Andrew Wiggins is a professional basketball player."
+        ],
+        "line_importance": [
+            0.3421073393746095,
+            0.276199929415559,
+            0.13870181143283844,
+            0.10760515489411668,
+            0.0388754578224238
+        ],
+        "exception": "n/a"
+    },
+    "sports/199": {
+        "question_id": "sports/199",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "Yes",
+        "lines": [
+            "1. The sentence is plausible because John Jones is a retired American soccer midfielder.",
+            "2. The sentence is plausible because John Jones is a retired American soccer midfielder.",
+            "3. The sentence is plausible because John Jones is a retired American soccer midfielder.",
+            "4. The sentence is plausible because John Jones is a retired American soccer midfielder.",
+            "5. The sentence is plausible because John Jones is a retired American soccer midfielder."
+        ],
+        "line_importance": [
+            0.046940412657689175,
+            0.0778535814493477,
+            0.15642273426055908,
+            0.043341200567004905,
+            0.11257241912762199
+        ],
+        "exception": "n/a"
+    },
+    "sports/203": {
+        "question_id": "sports/203",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because it accurately states that Eugenio Suárez pitched a complete game.",
+            "2. The sentence is plausible because it accurately states that Eugenio Suárez pitched a complete game.",
+            "3. The sentence is plausible because it accurately states that Eugenio Suárez pitched a complete game.",
+            "4. The sentence is plausible because it accurately states that Eugenio Suárez pitched a complete game.",
+            "5. The sentence is plausible because it accurately states that Eugenio Suárez pitched a complete game."
+        ],
+        "line_importance": [
+            0.05566106881810935,
+            -0.24098208412274588,
+            0.04598009213805199,
+            0.018689147353775082,
+            0.028574962243952645
+        ],
+        "exception": "n/a"
+    },
+    "sports/212": {
+        "question_id": "sports/212",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "Yes",
+        "lines": [
+            "1. The sentence is plausible because Mikko Rantanen is a forward and is likely to be in the attacking zone when he enters the rink.",
+            "2. The sentence is plausible because the neutral zone is the central area of the rink, and Mikko Rantanen is a forward, so he would likely be in the attacking zone.",
+            "3. The sentence is plausible because the neutral zone is the central area of the rink, and Mikko Rantanen is a forward, so he would likely be in the attacking zone.",
+            "4. The sentence is plausible because Mikko Rantanen is a forward and is likely to be in the attacking zone when he enters the rink.",
+            "5. The sentence is plausible because Mikko Rantanen is a forward and is likely to be in the attacking zone when he enters the rink."
+        ],
+        "line_importance": [
+            0.2861186239888995,
+            0.18355879127110258,
+            0.1528666615486145,
+            0.02525755192279572,
+            0.10970077180370356
+        ],
+        "exception": "n/a"
+    },
+    "sports/223": {
+        "question_id": "sports/223",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because Zack Greinke is a professional baseball pitcher who has pitched complete games in his career.",
+            "2. He has pitched for several teams, including the Kansas City Royals, Milwaukee Brewers, Los Angeles Angels of Anaheim, Los Angeles Dodgers, and Arizona Diamondbacks.",
+            "3. He has thrown complete games in his career, as evidenced by the list of Major League Baseball career complete games leaders.",
+            "4. The list of complete games leaders includes pitchers who have pitched entire games without relief pitchers.",
+            "5. Zack Greinke has pitched entire games without relief pitchers, as evidenced by his career statistics."
+        ],
+        "line_importance": [
+            0.35398143674365123,
+            0.2983483281048691,
+            0.039269886910915375,
+            0.0,
+            -0.3432566434367209
+        ],
+        "exception": "n/a"
+    },
+    "sports/227": {
+        "question_id": "sports/227",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because Nicklas Bäckström is a professional ice hockey centre and alternate captain for the Washington Capitals.",
+            "2. The sentence is plausible because the penalty box is a designated area in ice hockey where players sit to serve time for a penalty.",
+            "3. The sentence is plausible because the penalty box is a common penalty area in ice hockey.",
+            "4. The sentence is plausible because Nicklas Bäckström is a professional ice hockey player.",
+            "5. The sentence is plausible because the penalty box is a designated area in ice hockey where players sit to serve time for a penalty."
+        ],
+        "line_importance": [
+            0.10029295388234341,
+            0.042956421423795785,
+            0.1428321897983551,
+            0.4291868421516241,
+            0.03944131322259964
+        ],
+        "exception": "n/a"
+    },
+    "sports/23": {
+        "question_id": "sports/23",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "No",
+        "lines": [
+            "1. Malcolm Brogdon is a professional basketball player.",
+            "2. Malcolm Brogdon is a player in the NBA.",
+            "3. Malcolm Brogdon is a player who has won an NBA championship.",
+            "4. Malcolm Brogdon is a player who has won an NBA championship.",
+            "5. Malcolm Brogdon eurostepped to the basket in the NBA Championship."
+        ],
+        "line_importance": [
+            -0.5261729634867289,
+            -0.11343465231077764,
+            -0.0513729564845562,
+            -0.15393243235277954,
+            -0.4422790076094157
+        ],
+        "exception": "n/a"
+    },
+    "sports/239": {
+        "question_id": "sports/239",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because Josh Allen is a quarterback and the screen pass is a common play in American football.",
+            "2. The sentence is plausible because the screen pass is a type of pass that is thrown behind the line of scrimmage.",
+            "3. The sentence is plausible because the screen pass is a common play in American football.",
+            "4. The sentence is plausible because the screen pass is a type of pass that is thrown behind the line of scrimmage.",
+            "5. The sentence is plausible because the screen pass is a common play in American football."
+        ],
+        "line_importance": [
+            -0.657280728753428,
+            0.16414837999034362,
+            0.006624061614274979,
+            0.0551912078462745,
+            0.0
+        ],
+        "exception": "n/a"
+    },
+    "sports/304": {
+        "question_id": "sports/304",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because Toni Kroos is a professional footballer who plays for Real Madrid, and the Champions League is a professional football competition.",
+            "2. The sentence is plausible because the Champions League is a professional football competition.",
+            "3. The sentence is plausible because the Champions League Semifinal is a stage in the competition.",
+            "4. The sentence is plausible because a throw-in is a method of restarting play in a game of association football.",
+            "5. The sentence is plausible because the Champions League is governed by The Laws Of The Game."
+        ],
+        "line_importance": [
+            -0.038447400959791767,
+            0.4622803225244316,
+            0.256353497505188,
+            0.04170202014288758,
+            -0.16265032408559785
+        ],
+        "exception": "n/a"
+    },
+    "sports/378": {
+        "question_id": "sports/378",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because the term \"goal tend\" is not a standard term in basketball.",
+            "2. The sentence is plausible because the term \"goal tend\" is not a standard term in basketball.",
+            "3. The sentence is plausible because the term \"goal tend\" is not a standard term in basketball.",
+            "4. The sentence is plausible because the term \"goal tend\" is not a standard term in basketball.",
+            "5. The sentence is plausible because the term \"goal tend\" is not a standard term in basketball."
+        ],
+        "line_importance": [
+            0.6148678199957531,
+            0.18715369122015013,
+            0.1798054277896881,
+            0.32533705023620174,
+            0.24188578511512326
+        ],
+        "exception": "n/a"
+    },
+    "sports/390": {
+        "question_id": "sports/390",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "Yes",
+        "lines": [
+            "1. The sentence \"Tom Wilson backhanded a shot\" is plausible because backhand shots are a type of shot in ice hockey.",
+            "2. The sentence \"Tom Wilson backhanded a shot\" is plausible because backhand shots are a type of shot in ice hockey.",
+            "3. The sentence \"Tom Wilson backhanded a shot\" is plausible because backhand shots are a type of shot in ice hockey.",
+            "4. The sentence \"Tom Wilson backhanded a shot\" is plausible because backhand shots are a type of shot in ice hockey.",
+            "5. The sentence \"Tom Wilson backhanded a shot\" is plausible because backhand shots are a type of shot in ice hockey."
+        ],
+        "line_importance": [
+            0.12580091135445629,
+            0.26938998749661336,
+            0.13025347888469696,
+            0.06428549902346394,
+            0.0726653831117869
+        ],
+        "exception": "n/a"
+    },
+    "sports/402": {
+        "question_id": "sports/402",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because it accurately reflects the scoring system in American football.",
+            "2. The sentence is plausible because it accurately reflects the definition of a touchdown.",
+            "3. The sentence is plausible because it accurately reflects the rules of the game.",
+            "4. The sentence is plausible because it accurately reflects the definition of a touchdown.",
+            "5. The sentence is plausible because it accurately reflects the rules of the game."
+        ],
+        "line_importance": [
+            -0.2799109572563932,
+            0.1688382867803945,
+            -0.04422907158732414,
+            0.0775358176971312,
+            -0.11147116789010321
+        ],
+        "exception": "n/a"
+    },
+    "sports/427": {
+        "question_id": "sports/427",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because David Villa is a well-known soccer player who played in the World Cup.",
+            "2. He was a key player for Spain in the 2010 World Cup.",
+            "3. He was sent off in the 2010 World Cup.",
+            "4. He earned a red card in the 2010 World Cup.",
+            "5. Answer: yes"
+        ],
+        "line_importance": [
+            0.45891945877633394,
+            -0.7092021032225695,
+            -0.10540449619293213,
+            -0.14110107504341446,
+            1.0495498182494107
+        ],
+        "exception": "n/a"
+    },
+    "sports/469": {
+        "question_id": "sports/469",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because Pete Alonso is a professional baseball player and has hit home runs in the past.",
+            "2. The sentence is plausible because the term \"homerun\" is a common term used in baseball to describe a home run.",
+            "3. The sentence is plausible because the term \"homerun\" is a well-known term in baseball.",
+            "4. The sentence is plausible because the term \"homerun\" is a standard term used in baseball.",
+            "5. The sentence is plausible because the term \"homerun\" is a widely recognized term in the baseball world."
+        ],
+        "line_importance": [
+            -0.17953242891418664,
+            -0.09625823952479849,
+            0.012540210038423538,
+            0.014524938279508574,
+            -0.14613380340536306
+        ],
+        "exception": "n/a"
+    },
+    "sports/49": {
+        "question_id": "sports/49",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "Yes",
+        "lines": [
+            "1. The sentence is plausible because the word \"earned\" is a verb that means to receive or acquire something, which is a common way to describe the act of taking an indirect free kick.",
+            "2. The sentence is also plausible because the word \"earned\" is a verb that is often used in sports contexts to describe the act of scoring a goal or earning a point.",
+            "3. The sentence is plausible because the word \"earned\" is a verb that is often used in sports contexts to describe the act of scoring a goal or earning a point.",
+            "4. The sentence is plausible because the word \"earned\" is a verb that is often used in sports contexts to describe the act of scoring a goal or earning a point.",
+            "5. The sentence is plausible because the word \"earned\" is a verb that is often used in sports contexts to describe the act of scoring a goal or earning a point."
+        ],
+        "line_importance": [
+            0.03352428290288834,
+            0.19341857083091193,
+            0.15649846196174622,
+            0.09239871446419866,
+            0.0834256046156252
+        ],
+        "exception": "n/a"
+    },
+    "sports/563": {
+        "question_id": "sports/563",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because Matt Chapman did hit a walk-off home run in 2018.",
+            "2. The sentence is plausible because Matt James Chapman is the same person as Matt Chapman.",
+            "3. The sentence is plausible because a walk-off home run is a home run that ends the game.",
+            "4. The sentence is plausible because the losing team must \"walk off\" the field immediately afterward.",
+            "5. The sentence is plausible because the winning team can \"walk off\" the field with the win."
+        ],
+        "line_importance": [
+            -1.1555760378350735,
+            0.7727319990386039,
+            -0.1979288011789322,
+            0.44551112866365744,
+            0.0006480671783890825
+        ],
+        "exception": "n/a"
+    },
+    "sports/573": {
+        "question_id": "sports/573",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because Ben Simmons is known to use the pick and roll tactic in basketball.",
+            "2. Simmons is a skilled player who often uses the pick and roll to get open for a pass.",
+            "3. The sentence is plausible because Simmons is a player who has used the pick and roll in the past.",
+            "4. Simmons is known to be a player who values his shooting range and is not afraid to take a shot.",
+            "5. Simmons is a player who has been named an NBA All-Star multiple times, indicating that he is a skilled player who can score from various positions."
+        ],
+        "line_importance": [
+            0.3592498715996105,
+            -0.25913209013890987,
+            0.6114599704742432,
+            -0.00270426889349291,
+            -0.14875225467032924
+        ],
+        "exception": "n/a"
+    },
+    "sports/627": {
+        "question_id": "sports/627",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because William Nylander is a professional ice hockey player and is likely to be familiar with the rules of the game.",
+            "2. The sentence is plausible because the blue line is a physical boundary in the ice hockey rink, and crossing it is a fundamental aspect of the game.",
+            "3. The sentence is plausible because the blue line is considered part of the zone the puck is in, and crossing it is a necessary step in determining the location of the puck.",
+            "4. The sentence is plausible because the blue line is a physical boundary that must be crossed in order to determine the location of the puck.",
+            "5. The sentence is plausible because William Nylander is a real person who has played professional ice hockey, and it is likely that he would be familiar with the rules of the game."
+        ],
+        "line_importance": [
+            -0.2317654989197624,
+            0.2514785535521745,
+            0.03923606500029564,
+            0.27010789323586115,
+            0.17327048289436897
+        ],
+        "exception": "n/a"
+    },
+    "sports/636": {
+        "question_id": "sports/636",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "Yes",
+        "lines": [
+            "1. The sentence is plausible because the sentence states that Ryan Tannehill scored a touchdown, which is a common and expected outcome in American football.",
+            "2. The sentence is plausible because the sentence states that Ryan Tannehill scored a touchdown, which is a common and expected outcome in American football.",
+            "3. The sentence is plausible because the sentence states that Ryan Tannehill scored a touchdown, which is a common and expected outcome in American football.",
+            "4. The sentence is plausible because the sentence states that Ryan Tannehill scored a touchdown, which is a common and expected outcome in American football.",
+            "5. The sentence is plausible because the sentence states that Ryan Tannehill scored a touchdown, which is a common and expected outcome in American football."
+        ],
+        "line_importance": [
+            0.2250254517061213,
+            0.13390080361054624,
+            0.013272728770971298,
+            -0.0363977219085709,
+            -0.05645078398483794
+        ],
+        "exception": "n/a"
+    },
+    "sports/647": {
+        "question_id": "sports/647",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "Yes",
+        "lines": [
+            "1. The sentence \"Mike Evans ran out of bounds\" is plausible because Mike Evans is a defensive lineman and it is possible for a defensive player to be out of bounds.",
+            "2. The sentence \"Mike Evans ran out of bounds\" is plausible because Mike Evans is a defensive lineman and it is possible for a defensive player to be out of bounds.",
+            "3. The sentence \"Mike Evans ran out of bounds\" is plausible because Mike Evans is a defensive lineman and it is possible for a defensive player to be out of bounds.",
+            "4. The sentence \"Mike Evans ran out of bounds\" is plausible because Mike Evans is a defensive lineman and it is possible for a defensive player to be out of bounds.",
+            "5. The sentence \"Mike Evans ran out of bounds\" is plausible because Mike Evans is a defensive lineman and it is possible for a defensive player to be out of bounds."
+        ],
+        "line_importance": [
+            0.12337876652082397,
+            0.1557373968585955,
+            0.06539726257324219,
+            0.056201428069861045,
+            0.055101088923281416
+        ],
+        "exception": "n/a"
+    },
+    "sports/667": {
+        "question_id": "sports/667",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because Dougie Hamilton is a professional ice hockey defenceman.",
+            "2. The sentence is plausible because a buzzer beater is a goal that is scored just before the clock expires in a period.",
+            "3. The sentence is plausible because the phrase \"buzzer beater\" is used in ice hockey to describe a goal that is scored in a close game.",
+            "4. The sentence is plausible because the phrase \"just before the clock expires\" is used to describe the timing of the goal.",
+            "5. The sentence is plausible because the phrase \"in a period\" is used to describe the timing of the goal."
+        ],
+        "line_importance": [
+            -0.025892233758492346,
+            -0.05895914442127857,
+            -0.15865565836429596,
+            0.0,
+            0.023226438767754834
+        ],
+        "exception": "n/a"
+    },
+    "sports/670": {
+        "question_id": "sports/670",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "Yes",
+        "lines": [
+            "1. The sentence \"Kevin Durant committed an offensive foul\" is plausible because Kevin Durant is a basketball player and is known to commit personal fouls.",
+            "2. The sentence \"Kevin Durant committed an offensive foul\" is plausible because Kevin Durant is a basketball player and is known to commit personal fouls.",
+            "3. The sentence \"Kevin Durant committed an offensive foul\" is plausible because Kevin Durant is a basketball player and is known to commit personal fouls.",
+            "4. The sentence \"Kevin Durant committed an offensive foul\" is plausible because Kevin Durant is a basketball player and is known to commit personal fouls.",
+            "5. The sentence \"Kevin Durant committed an offensive foul\" is plausible because Kevin Durant is a basketball player and is known to commit personal fouls."
+        ],
+        "line_importance": [
+            0.07431621534473619,
+            0.07049247070883602,
+            0.06589645147323608,
+            0.027703926285878876,
+            0.02088231214903533
+        ],
+        "exception": "n/a"
+    },
+    "sports/697": {
+        "question_id": "sports/697",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because John Carlson is a professional ice hockey player who plays in the National Hockey League (NHL), and the attacking zone is one of the three zones on the ice hockey rink.",
+            "2. The sentence is plausible because the attacking zone is the area of the rink where a team is trying to score.",
+            "3. The sentence is plausible because the defending zone is the area of the rink where the opposing team is trying to score.",
+            "4. The sentence is plausible because the defending zone is the area of the rink where the opposing team's own goal net is located.",
+            "5. The sentence is plausible because John Carlson is a professional ice hockey player who plays in the National Hockey League (NHL), and the defending zone is one of the three zones on the ice hockey rink."
+        ],
+        "line_importance": [
+            -0.027196644206595677,
+            -0.0,
+            -0.06633001565933228,
+            0.18619534855361125,
+            -0.20592352649919962
+        ],
+        "exception": "n/a"
+    },
+    "sports/706": {
+        "question_id": "sports/706",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because Brandon Woodruff is a pitcher for the Milwaukee Brewers, which is a team in the American League.",
+            "2. The sentence is plausible because the American League Championship Series is a postseason series played between the American League and the National League.",
+            "3. The sentence is plausible because the Milwaukee Brewers are a team in the American League.",
+            "4. The sentence is plausible because the American League Championship Series is a postseason series.",
+            "5. The sentence is plausible because the Milwaukee Brewers are a team in the American League."
+        ],
+        "line_importance": [
+            -0.43791811474920334,
+            0.4090506068189091,
+            -0.12280833721160889,
+            0.22278274864719813,
+            -0.21601473893229747
+        ],
+        "exception": "n/a"
+    },
+    "sports/71": {
+        "question_id": "sports/71",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "no",
+        "exception": "'NoneType' object has no attribute 'start'"
+    },
+    "sports/735": {
+        "question_id": "sports/735",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because Javi Martínez is a goalkeeper.",
+            "2. The sentence is plausible because penalty shoot-outs are awarded to the team that scores the most goals in the shootout.",
+            "3. The sentence is plausible because Javi Martínez is a goalkeeper.",
+            "4. The sentence is plausible because penalty shoot-outs are awarded to the team that scores the most goals in the shootout.",
+            "5. The sentence is plausible because Javi Martínez is a goalkeeper."
+        ],
+        "line_importance": [
+            -0.07082464320633648,
+            0.0,
+            0.06610004603862762,
+            0.08028424209472969,
+            0.06520383118346942
+        ],
+        "exception": "n/a"
+    },
+    "sports/74": {
+        "question_id": "sports/74",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "Yes",
+        "lines": [
+            "1. The sentence is plausible because DK Metcalf is a wide receiver in the NFL and wheel routes are a common route in American football.",
+            "2. The sentence is plausible because the description of the wheel route matches the typical route run by a receiver in the NFL.",
+            "3. The sentence is plausible because the description of the wheel route matches the typical route run by a running back in the NFL.",
+            "4. The sentence is plausible because the description of the wheel route matches the typical route run by a receiver in the NFL.",
+            "5. The sentence is plausible because the description of the wheel route matches the typical route run by a running back in the NFL."
+        ],
+        "line_importance": [
+            -0.0,
+            0.04803745114249973,
+            0.0959162563085556,
+            0.0029365690061215624,
+            0.062177483526624173
+        ],
+        "exception": "n/a"
+    },
+    "sports/758": {
+        "question_id": "sports/758",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because LeVert is known for his scoring ability and is a regular starter for the Indiana Pacers.",
+            "2. The sentence is plausible because LeVert is a skilled player who has scored many points in his career.",
+            "3. The sentence is plausible because LeVert is a player who is known for his ability to score from the perimeter.",
+            "4. The sentence is plausible because LeVert is a player who has been involved in several high-profile games and has scored many points.",
+            "5. The sentence is plausible because LeVert is a player who has been drafted by the Pacers and has had a successful career in the NBA."
+        ],
+        "line_importance": [
+            -0.21096904161770139,
+            0.2612406139675167,
+            0.0,
+            -0.0,
+            -0.016329806879090344
+        ],
+        "exception": "n/a"
+    },
+    "sports/774": {
+        "question_id": "sports/774",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because the Euro step is a real basketball move.",
+            "2. The sentence is plausible because Joe Hart is a real basketball player.",
+            "3. The sentence is plausible because the Euro step is a real basketball move.",
+            "4. The sentence is plausible because Joe Hart is a real basketball player.",
+            "5. The sentence is plausible because the Euro step is a real basketball move."
+        ],
+        "line_importance": [
+            -0.2684904641583962,
+            0.6471305443286093,
+            -0.16565768420696259,
+            0.064716295327275,
+            -0.08133784975569763
+        ],
+        "exception": "n/a"
+    },
+    "sports/782": {
+        "question_id": "sports/782",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "no",
+        "exception": "'NoneType' object has no attribute 'start'"
+    },
+    "sports/878": {
+        "question_id": "sports/878",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because Mario Gomez is a former German professional footballer who played as a striker.",
+            "2. The sentence is plausible because direct free kicks are often awarded near the opponent's goal.",
+            "3. The sentence is plausible because developing plays from free kicks is an important part of team strategy.",
+            "4. The sentence is plausible because defending against direct free kicks is an important skill for defenders.",
+            "5. The sentence is plausible because Mario Gomez earned a direct kick."
+        ],
+        "line_importance": [
+            -0.17675246655247487,
+            0.24773116993277655,
+            0.30035436153411865,
+            0.2340377761201487,
+            -0.42099548237030165
+        ],
+        "exception": "n/a"
+    },
+    "sports/88": {
+        "question_id": "sports/88",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence \"Shai Gilgeous-Alexander committed a three second violation\" is plausible because Shai Gilgeous-Alexander is a Canadian professional basketball player for the Oklahoma City Thunder of the National Basketball Association (NBA).",
+            "2. The sentence \"Shai Gilgeous-Alexander committed a three second violation\" is plausible because the three second rule is a standard rule in basketball that requires players to stay out of their team's foul lane for three consecutive seconds.",
+            "3. The sentence \"Shai Gilgeous-Alexander committed a three second violation\" is plausible because Shai Gilgeous-Alexander is a Canadian professional basketball player for the Oklahoma City Thunder of the National Basketball Association (NBA).",
+            "4. The sentence \"Shai Gilgeous-Alexander committed a three second violation\" is plausible because the three second rule is a standard rule in basketball that requires players to stay out of their team's foul lane for three consecutive seconds.",
+            "5. The sentence \"Shai Gilgeous-Alexander committed a three second violation\" is plausible because Shai Gilgeous-Alexander is a Canadian professional basketball player for the Oklahoma City Thunder of the National Basketball Association (NBA)."
+        ],
+        "line_importance": [
+            -0.1675110808587218,
+            0.11511525736175672,
+            0.21585355699062347,
+            0.06255816482086006,
+            0.10194132263531751
+        ],
+        "exception": "n/a"
+    },
+    "sports/882": {
+        "question_id": "sports/882",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The sentence is plausible because it accurately reflects the definition of an out in baseball statistics.",
+            "2. The sentence is plausible because it accurately reflects the definition of an out in baseball statistics.",
+            "3. The sentence is plausible because it accurately reflects the definition of an out in baseball statistics.",
+            "4. The sentence is plausible because it accurately reflects the definition of an out in baseball statistics.",
+            "5. The sentence is plausible because it accurately reflects the definition of an out in baseball statistics."
+        ],
+        "line_importance": [
+            -0.26047037807300394,
+            0.0,
+            -0.12153169512748718,
+            -0.16613770934695754,
+            -0.21434308372689898
+        ],
+        "exception": "n/a"
+    },
+    "sports/980": {
+        "question_id": "sports/980",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "No",
+        "lines": [
+            "1. The evidence provided does not mention deGrom hitting a triple.",
+            "2. The evidence provided does not mention deGrom hitting a triple.",
+            "3. The evidence provided does not mention deGrom hitting a triple.",
+            "4. The evidence provided does not mention deGrom hitting a triple.",
+            "5. The evidence provided does not mention deGrom hitting a triple."
+        ],
+        "line_importance": [
+            -0.674494254981542,
+            -0.25650817060869774,
+            -0.1637406349182129,
+            -0.08785433048664733,
+            -0.004235018261506659
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/117c27244c8e00112265": {
+        "question_id": "strategy_qa/117c27244c8e00112265",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Fur seals and sea lions make up the family Otariidae.",
+            "2. Fur seals and sea lions are closely related and commonly known together as the \"eared seals\".",
+            "3. Fur seals have certain features in common with sea lions, including smaller sizes, farther and longer foraging trips, smaller and more abundant prey items, and greater sexual dimorphism.",
+            "4. Fur seals comprise two genera: Callorhinus, and Arctocephalus.",
+            "5. Callorhinus is represented by just one species in the Northern Hemisphere, the northern fur seal (Callorhinus ursinus).",
+            "6. The northern fur seal is a member of the genus Callorhinus.",
+            "7. Therefore, the northern fur seal would pass a driving test."
+        ],
+        "line_importance": [
+            -0.37554166846265474,
+            -0.02379793741334498,
+            0.10082888603210449,
+            0.08825698877120727,
+            -0.3399256737502415,
+            -0.4538734276577499,
+            0.12021657160118325
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/19b40f33fa199c1673fd": {
+        "question_id": "strategy_qa/19b40f33fa199c1673fd",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Carnivore, Obligate carnivores: No",
+            "2. Pancake: Yes",
+            "3. Evidence: ",
+            "4. Evidence: ",
+            "5. Evidence:"
+        ],
+        "line_importance": [
+            -0.4082931014342379,
+            1.5744840607547113,
+            -0.03324844315648079,
+            -0.0715616213354229,
+            0.18448785431052156
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/243e3e1ef3fb7190ace3": {
+        "question_id": "strategy_qa/243e3e1ef3fb7190ace3",
+        "verdict": "entailment",
+        "actual_response": "So the answer is no.",
+        "gen_response": "No",
+        "lines": [
+            "1. Rahul Dravid is a former Indian cricketer and captain of the Indian national team.",
+            "2. He is the Director of Cricket Operations at National Cricket Academy, Bengaluru.",
+            "3. He also monitors the progress of India A and India under-19 cricket teams.",
+            "4. Before this he was Head Coach for the India Under-19 and India A teams from 2016 to 2019.",
+            "5. Under his coaching, under-19 team was runners up at 2016 u-19 Cricket World Cup and were winners at 2018 u-19 Cricket World Cup.",
+            "6. In 2019, BCCI appointed Dravid as Head of NCA.",
+            "7. Rahul Dravid is known for his sound batting technique."
+        ],
+        "line_importance": [
+            -0.13661328908349532,
+            -0.039836060272024354,
+            0.018645044416189194,
+            0.0,
+            0.058765288339257093,
+            -0.040610364311328556,
+            -0.0
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/2b73dae1804aae94e1ba": {
+        "question_id": "strategy_qa/2b73dae1804aae94e1ba",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The Burning Man Project is known for its temporary city of 80,000 people, which is a large number of people in a small area.",
+            "2. The desert climate of the Black Rock Desert is known for being hot and dry.",
+            "3. People in hot deserts are more likely to get sunburn due to the extreme heat and dryness.",
+            "4. The Burning Man Project is located in a hot desert climate.",
+            "5. People who attend Burning Man are more likely to be in a hot desert climate."
+        ],
+        "line_importance": [
+            -0.18696579324558674,
+            -0.04125429053988538,
+            -0.7491418123245239,
+            -0.015386448282857512,
+            -0.5313482608042738
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/302570f3787646a587df": {
+        "question_id": "strategy_qa/302570f3787646a587df",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Koalas do not have a strong preference for meat, but they do have a strong preference for eucalypt leaves.",
+            "2. Koalas tend to choose species that have a high protein content and low proportions of fibre and lignin.",
+            "3. The most favoured species of eucalyptus for koalas are Eucalyptus microcorys, E. tereticornis, and E. camaldulensis.",
+            "4. These species make up more than 20% of a koala's diet.",
+            "5. Koalas do not need to drink often due to the high water content of eucalypt leaves.",
+            "6. Koalas consume up to 400 grams of eucalypt leaves per day.",
+            "7. Koalas have meagre fat reserves and need to feed often."
+        ],
+        "line_importance": [
+            0.5386506738750982,
+            -0.018749314020548757,
+            0.15080313384532928,
+            0.05013422680598425,
+            0.35610496678906783,
+            0.06276734091353631,
+            -0.02254588119991463
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/3545982eb15f96652e1b": {
+        "question_id": "strategy_qa/3545982eb15f96652e1b",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Marist College is a private institution.",
+            "2. Private colleges typically do not have rowing teams.",
+            "3. Rowing teams are usually formed through athletic recruitment and selection processes.",
+            "4. Marist College does not have a rowing team.",
+            "5. Students at Marist College would not have to petition to join a rowing team."
+        ],
+        "line_importance": [
+            -0.36160805921498274,
+            0.18609145649864345,
+            0.03217416629195213,
+            0.09949397847467793,
+            -1.2674445262274219
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/4b6ca118a638ad3539c8": {
+        "question_id": "strategy_qa/4b6ca118a638ad3539c8",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "yes",
+        "lines": [
+            "1. Dorothea Wendling was born in Stuttgart.",
+            "2. The Porsche Museum is located in Stuttgart.",
+            "3. Dorothea Wendling was from Stuttgart.",
+            "4. The Porsche Museum is in Stuttgart.",
+            "5. Dorothea Wendling was from Stuttgart."
+        ],
+        "line_importance": [
+            -0.0,
+            -0.3319549646161429,
+            0.5322280526161194,
+            -0.016054371417171188,
+            0.33565270549848913
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/51126206a7baab47253d": {
+        "question_id": "strategy_qa/51126206a7baab47253d",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Huma Abedin was the deputy chief of staff to Hillary Clinton.",
+            "2. Abedin was U.S. Secretary of State from 2009 to 2013.",
+            "3. Abedin was the traveling chief of staff and former assistant for Clinton during Clinton's campaign for the Democratic nomination in the 2008 presidential election.",
+            "4. Abedin was baptised.",
+            "5. Abedin practices Islam.",
+            "6. Abedin practices Islam.",
+            "7. Abedin practices Islam.",
+            "8. Abedin practices Islam.",
+            "9. Abedin practices Islam.",
+            "10. Abedin practices Islam.",
+            "11. Abedin practices Islam.",
+            "12. Abedin practices Islam.",
+            "13. Abedin practices Islam.",
+            "14. Abedin practices Islam.",
+            "15. Abedin practices Islam.",
+            "16. Abedin practices Islam.",
+            "17. Abedin practices Islam.",
+            "18. Abedin practices Islam.",
+            "19. Abedin practices Islam.",
+            "20. Abedin practices Islam.",
+            "21. Abedin practices Islam.",
+            "22. Abedin practices Islam.",
+            "23. Abedin practices Islam.",
+            "24. Abedin practices Islam.",
+            "25. Abedin practices Islam.",
+            "26. Abedin practices Islam.",
+            "27. Abedin practices Islam.",
+            "28. Abedin practices Islam.",
+            "29. Abedin practices Islam.",
+            "30. Abedin practices Islam.",
+            "31"
+        ],
+        "line_importance": [
+            -0.08787909635313686,
+            0.30551483665607826,
+            -0.02405323088169098,
+            0.17783397880954205,
+            -0.0,
+            -0.0021163656426868584,
+            0.18983764885478976,
+            0.015968120314332215,
+            -0.006314245300590638,
+            0.07096503345938089,
+            -0.0,
+            0.16441544713583536,
+            0.021040080733712527,
+            -0.03588669513755567,
+            -0.0,
+            0.0,
+            0.13894888954848966,
+            -0.06245095930028865,
+            -0.03437239842527962,
+            -0.03042381105887851,
+            -0.01436535296970088,
+            0.06757812113706062,
+            -0.048533370201789154,
+            0.03935559345908525,
+            0.18248547822947447,
+            0.13247811305719365,
+            0.028177179396152496,
+            0.0,
+            0.0861030823469457,
+            0.12619040160906458,
+            0.38295444423498326
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/5787a201b7da5929cb75": {
+        "question_id": "strategy_qa/5787a201b7da5929cb75",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Yes",
+            "2. No",
+            "3. No",
+            "4. No",
+            "5. No"
+        ],
+        "line_importance": [
+            -0.5109819761998827,
+            -0.980099876962338,
+            -0.9759819507598877,
+            -1.1628451654648508,
+            -0.5336433941439939
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/59e78fdde03974a7cf77": {
+        "question_id": "strategy_qa/59e78fdde03974a7cf77",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The question is asking if a person was sold a Creative Commons License for Boticelli's The Birth of Venus, which implies that the person is the original creator of the work.",
+            "2. The Creative Commons License is a standard release that allows users to reuse and build upon the work legally, but it does not automatically transfer ownership of the work to the user.",
+            "3. The person who sold the license is not necessarily the original creator of the work, as the license is a standard release that allows users to reuse and build upon the work.",
+            "4. The person who sold the license may have been a third-party user who wanted to use the work for their own purposes, but they did not have the original rights to the work.",
+            "5. The original creator of the work, Boticelli, may have retained the copyright to the work, and the person who sold the license may have been using the work without permission or proper attribution."
+        ],
+        "line_importance": [
+            0.0,
+            -0.3392169676895846,
+            -0.312778502702713,
+            0.02000639639670843,
+            0.1732961298764472
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/5a7265daf4314e5b9283": {
+        "question_id": "strategy_qa/5a7265daf4314e5b9283",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The evidence suggests that walking across the Amazonas rainforest poses significant risks to human life.",
+            "2. The presence of numerous poisonous snakes, insects, scorpions, and spiders in the rainforest increases the likelihood of encountering them.",
+            "3. The risk of being attacked by a caiman, jaguar, or anaconda is also present.",
+            "4. The risk of being electrocuted by an electric eel is also present.",
+            "5. The risk of being stung by a bee or wasp is also present.",
+            "6. The risk of being bitten by a venomous snake is also present.",
+            "7. The risk of being attacked by a large predator such as a puma or peccary is also present.",
+            "8. The risk of being killed by a snake or other animal is also present.",
+            "9. The risk of being killed by a large predator is also present.",
+            "10. The risk of being killed by a snake or other animal is also present.",
+            "11. The risk of being killed by a large predator is also present.",
+            "12. The risk of being killed by a snake or other animal is also present.",
+            "13. The risk of being killed by a large predator is also present.",
+            "14. The risk of being killed by a snake or other animal is also present"
+        ],
+        "line_importance": [
+            -0.39551939882877396,
+            -0.0,
+            -0.11034421622753143,
+            0.16419969294550116,
+            0.030676181769471293,
+            -0.10620769935452791,
+            -0.017892208282836507,
+            -0.0,
+            0.006170205976529761,
+            -0.023335483700967417,
+            0.004474901111525224,
+            0.0,
+            -0.009651029271576158,
+            0.07164461600146285
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/5b45ccb915731a9e5f05": {
+        "question_id": "strategy_qa/5b45ccb915731a9e5f05",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The process of logging is necessary to harvest trees for toilet paper production.",
+            "2. Without loggers, the trees would not be available for toilet paper production.",
+            "3. The trees would not be harvested for other purposes.",
+            "4. The trees would not be available for transportation.",
+            "5. The trees would not be available for use in other industries.",
+            "6. The trees would not be available for use in other industries.",
+            "7. The trees would not be available for use in other industries.",
+            "8. The trees would not be available for use in other industries.",
+            "9. The trees would not be available for use in other industries.",
+            "10. The trees would not be available for use in other industries.",
+            "11. The trees would not be available for use in other industries.",
+            "12. The trees would not be available for use in other industries.",
+            "13. The trees would not be available for use in other industries.",
+            "14. The trees would not be available for use in other industries.",
+            "15. The trees would not be available for use in other industries.",
+            "16. The trees would not be available for use in other industries.",
+            "17. The trees would not be available for use in other industries.",
+            "18. The trees would not be available for use in other industries.",
+            "19. The trees would not"
+        ],
+        "line_importance": [
+            -0.7784179065875539,
+            -0.7420088611325164,
+            -0.061912376433610916,
+            -0.04891319296765598,
+            0.10665228099512576,
+            -0.0,
+            0.001424349618729777,
+            0.15737357821468398,
+            0.07435739300053633,
+            -0.1795062599439479,
+            0.07851615019277018,
+            0.08162196340846578,
+            -0.0,
+            -0.023806626877375524,
+            -0.01594870537519455,
+            0.039654988795518875,
+            0.17454262551938182,
+            -0.12944054331813173,
+            0.7563063286841482
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/6252e913d7d9401e582f": {
+        "question_id": "strategy_qa/6252e913d7d9401e582f",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "Kelly Clarkson.",
+        "lines": [
+            "1. Kelly Clarkson's album sales are higher than Carrie Underwood's.",
+            "2. Kelly Clarkson's album sales are higher than Carrie Underwood's.",
+            "3. Kelly Clarkson's album sales are higher than Carrie Underwood's.",
+            "4. Kelly Clarkson's album sales are higher than Carrie Underwood's.",
+            "5. Kelly Clarkson's album sales are higher than Carrie Underwood's."
+        ],
+        "line_importance": [
+            -0.05747003313944947,
+            1.0174697680556635,
+            0.3107955604791641,
+            0.6425420101528808,
+            0.5002574503101279
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/62e8d2b87e80f78b152c": {
+        "question_id": "strategy_qa/62e8d2b87e80f78b152c",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Yes",
+            "2. No",
+            "3. No",
+            "4. No",
+            "5. No"
+        ],
+        "line_importance": [
+            1.376936711118006,
+            -1.50775912963854,
+            -1.1799757480621338,
+            -1.0336057036010937,
+            -0.5409094557230352
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/9ebaee3511157e78ec7b": {
+        "question_id": "strategy_qa/9ebaee3511157e78ec7b",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "no",
+        "exception": "'NoneType' object has no attribute 'start'"
+    },
+    "strategy_qa/a9d22dce3199e77dd271": {
+        "question_id": "strategy_qa/a9d22dce3199e77dd271",
+        "verdict": "entailment",
+        "actual_response": "So the answer is no.",
+        "gen_response": "No",
+        "lines": [
+            "1. The evidence suggests that dental trauma is a significant concern in sports environments, particularly for professional boxers.",
+            "2. A well-structured educational campaign can help raise awareness about dental injury and prevention.",
+            "3. The campaign should be presented in an easy-to-understand way to ensure that the message is conveyed effectively.",
+            "4. Professional boxers are at high risk of suffering dental trauma due to their involvement in sports.",
+            "5. A comprehensive dental plan can help mitigate the financial burden of dental bills."
+        ],
+        "line_importance": [
+            -0.5457560971971586,
+            -0.00842899100082688,
+            0.17729805409908295,
+            -0.12155440334247339,
+            -0.25197720875866175
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/b1e1256007b0a4a341a7": {
+        "question_id": "strategy_qa/b1e1256007b0a4a341a7",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Buffalo wings are a type of spiced fried food.",
+            "2. Buffalo wings are made from chicken breast meat.",
+            "3. Chicken breast meat contains capsaicin.",
+            "4. Capsaicin is a chemical irritant for mammals.",
+            "5. Capsaicin is found in chili peppers.",
+            "6. Chili peppers are plants belonging to the genus Capsicum.",
+            "7. Capsicum is the genus that produces capsaicinoids.",
+            "8. Capsaicinoids are the active components of chili peppers.",
+            "9. Capsaicinoids are the chemical irritants for mammals.",
+            "10. Mammals, including humans, are sensitive to capsaicin.",
+            "11. Capsaicin produces a sensation of burning in any tissue with which it comes into contact.",
+            "12. Buffalo wings contain capsaicin.",
+            "13. Buffalo wings are a type of spiced fried food.",
+            "14. Buffalo wings are made from chicken breast meat.",
+            "15. Chicken breast meat contains capsaicin.",
+            "16. Capsaicin is a chemical irritant for mammals.",
+            "17. Mammals, including humans, are sensitive to capsaicin.",
+            "18. Capsaicin produces a sensation of burning in any tissue with which it comes into contact.",
+            "19. Buffalo wings contain capsaicin.",
+            "20"
+        ],
+        "line_importance": [
+            -0.12034804415651665,
+            0.02280884647927063,
+            0.0,
+            0.0,
+            0.002732946181870391,
+            -0.0,
+            -0.11564806510910133,
+            -0.1351797661493136,
+            -0.02522522736878811,
+            -0.2356778878437094,
+            -0.0500886517756039,
+            -0.09704458316619943,
+            0.02468428399650576,
+            -0.17652137053090383,
+            -0.24901707470417023,
+            0.0,
+            -0.012656742529021811,
+            -0.1367593704331132,
+            -0.25817075880657187,
+            -0.1358436545657755
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/c39d1e6ffbca58600a38": {
+        "question_id": "strategy_qa/c39d1e6ffbca58600a38",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The United States Capitol is located on Capitol Hill at the eastern end of the National Mall in Washington, D.C.",
+            "2. The White House is located at 1600 Pennsylvania Avenue NW in Washington, D.C.",
+            "3. The White House is near the United States Capitol.",
+            "4. The United States Capitol and the White House are both located in Washington, D.C.",
+            "5. The United States Capitol is located on Capitol Hill."
+        ],
+        "line_importance": [
+            -0.3339173566786596,
+            -0.2696796960190337,
+            -0.33374637365341187,
+            -0.12552905062865435,
+            -0.0
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/c649c9f1814bd72b8ccd": {
+        "question_id": "strategy_qa/c649c9f1814bd72b8ccd",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "nan",
+        "lines": [
+            "1. There is no evidence that Louis Armstrong collaborated with Jay-Z.",
+            "2. There is no evidence that Jay-Z collaborated with Louis Armstrong.",
+            "3. There is no evidence that Jay-Z collaborated with Louis Armstrong.",
+            "4. There is no evidence that Jay-Z collaborated with Louis Armstrong.",
+            "5. No"
+        ],
+        "line_importance": [
+            -0.6573332661047447,
+            -0.1804820342081648,
+            -0.8746286630630493,
+            -0.9040807012932465,
+            -3.5005863947016276
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/c69397b4341b65ed080f": {
+        "question_id": "strategy_qa/c69397b4341b65ed080f",
+        "verdict": "entailment",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "yes",
+        "lines": [
+            "1. The language used in Saint Vincent and the Grenadines is Vincentian Creole.",
+            "2. Vincentian Creole is an English-based creole language.",
+            "3. Most English-based creoles were formed in British colonies.",
+            "4. The main categories of English-based creoles are Atlantic (the Americas and Africa) and Pacific (Asia and Oceania).",
+            "5. Saint Vincent and the Grenadines is located in the Atlantic region."
+        ],
+        "line_importance": [
+            0.09441649310808108,
+            0.08018179045621121,
+            -0.0,
+            -0.15519910129732323,
+            -0.08545212353422602
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/c91eafafed5a8f80bb5a": {
+        "question_id": "strategy_qa/c91eafafed5a8f80bb5a",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is no.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Miami is not located on the American West Coast.",
+            "2. Miami is located in the southeastern United States.",
+            "3. The American West Coast refers to the western part of the United States.",
+            "4. Miami is not part of the western United States.",
+            "5. The American West Coast is not a geographical region."
+        ],
+        "line_importance": [
+            0.4129673454065201,
+            -0.9335511049468541,
+            -0.7254449129104614,
+            -0.1093006000925172,
+            0.5729847180810236
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/e144fef6c590823af46a": {
+        "question_id": "strategy_qa/e144fef6c590823af46a",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. Yes",
+            "2. No",
+            "3. No",
+            "4. No",
+            "5. No"
+        ],
+        "line_importance": [
+            -0.17956782155664572,
+            -0.18941236958441873,
+            -0.6590203046798706,
+            -0.414925319512571,
+            -0.07859834473532223
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/e18f8956e3fd4e8c50b2": {
+        "question_id": "strategy_qa/e18f8956e3fd4e8c50b2",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "No",
+        "lines": [
+            "1. An explosion at a gunpowder storage facility would not produce a supersonic shock wave because the shock wave would be produced by the rapid expansion of gases released from the explosion, not by the rapid movement of the explosion itself.",
+            "2. The rapid movement of the explosion would not produce a supersonic shock wave because the shock wave would be produced by the rapid expansion of gases released from the explosion, not by the rapid movement of the explosion itself.",
+            "3. The rapid movement of the explosion would not produce a supersonic shock wave because the shock wave would be produced by the rapid expansion of gases released from the explosion, not by the rapid movement of the explosion itself.",
+            "4. The rapid movement of the explosion would not produce a supersonic shock wave because the shock wave would be produced by the rapid expansion of gases released from the explosion, not by the rapid movement of the explosion itself.",
+            "5. The rapid movement of the explosion would not produce a supersonic shock wave because the shock wave would be produced by the rapid expansion of gases released from the explosion, not by the rapid movement of the explosion itself."
+        ],
+        "line_importance": [
+            0.001294632373388565,
+            0.0,
+            0.12234805524349213,
+            0.16635311125360278,
+            0.23725644450416394
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/e1be1275b3c816b0b7bf": {
+        "question_id": "strategy_qa/e1be1275b3c816b0b7bf",
+        "verdict": "entailment",
+        "actual_response": "So the answer is no.",
+        "gen_response": "no",
+        "exception": "'NoneType' object has no attribute 'start'"
+    },
+    "strategy_qa/e537c420c9cb2e24409c": {
+        "question_id": "strategy_qa/e537c420c9cb2e24409c",
+        "verdict": "contradiction",
+        "actual_response": "So the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. The author of Little Women was Louisa May Alcott.",
+            "2. The author of Little Women lived from 1832 to 1888.",
+            "3. The Thirteenth Amendment to the United States Constitution was ratified in 1865.",
+            "4. The Thirteenth Amendment was ratified by the legislatures of three-fourths of the states.",
+            "5. The three-fourths of the states that ratified the Thirteenth Amendment were the original 11 states that had seceded from the Union, plus the three states that had been in rebellion during the Civil War."
+        ],
+        "line_importance": [
+            0.48064398153152077,
+            0.24825997308919187,
+            0.026605911552906036,
+            -0.1645692794828548,
+            -0.2944080737620544
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/e5ffcc7b22a58df8952d": {
+        "question_id": "strategy_qa/e5ffcc7b22a58df8952d",
+        "verdict": "contradiction",
+        "actual_response": ", the answer is yes.",
+        "gen_response": "nan",
+        "lines": [
+            "1. No",
+            "2. Yes",
+            "3. No",
+            "4. No",
+            "5. No"
+        ],
+        "line_importance": [
+            -0.5806028521262206,
+            0.877879530405945,
+            -0.8085832595825195,
+            -0.9931321329074259,
+            -0.26675353644550903
+        ],
+        "exception": "n/a"
+    },
+    "strategy_qa/ee89128e112aca3b7efd": {
+        "question_id": "strategy_qa/ee89128e112aca3b7efd",
+        "verdict": "entailment",
+        "actual_response": "So the answer is no.",
+        "gen_response": "No",
+        "lines": [
+            "1. The presence of cyanosis on the lips or fingers indicates a severe hypoxia or severe circulatory failure.",
+            "2. Cyanosis is a bluish or purplish discoloration of the skin or mucous membranes.",
+            "3. The bluish color of cyanosis is more readily apparent in those with high hemoglobin counts than it is with those with anemia.",
+            "4. The bluer the color, the more difficult it is to detect on deeply pigmented skin.",
+            "5. Blue lips are a sign of severe hypoxia or circulatory failure, which can be life-threatening."
+        ],
+        "line_importance": [
+            -0.39634854676601267,
+            -0.11059189863229121,
+            -0.03848840668797493,
+            -0.07824378137551936,
+            -0.3229163538526037
+        ],
+        "exception": "n/a"
+    }
+}
