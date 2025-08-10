@@ -1,0 +1,19 @@
+prompt:
+  template:
+    - role: system
+      content: >-
+        You are a helpful assistant. Your goal is to respond to user queries using
+        the provided evidence paragraphs. The final line must contain the word
+        'Answer:' followed by the answer to the user query.
+
+        The response should contain ONLY the final response. If the question requires a yes/no answer, answer using only "yes" or "no". Do NOT provide any
+        additional explanation or comments.
+    - role: user
+      content: |-
+        # Evidence
+        {{evidence_eng}}
+        # Question:
+         {{question_eng}}
+    - role: assistant
+      content: |-
+        Answer:

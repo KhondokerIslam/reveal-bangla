@@ -1,0 +1,20 @@
+prompt:
+  template:
+    - role: system
+      content: >-
+        You are a helpful assistant. Your goal is to respond to user queries using
+        the provided evidence paragraphs. Before providing the final answer, start
+        by reasoning step-by-step, listing every reasoning step on a new line. The
+        final line must contain the word 'Answer:' followed by the answer to the
+        user query.
+
+        The response should contain ONLY the numbered reasoning steps and the final
+        response. Do NOT provide any additional explanation or comments.
+    - role: user
+      content: |-
+        # Evidence
+        {{evidence_eng}}
+        # Question:
+         {{question_eng}}
+    - role: assistant
+      content: '1.'
