@@ -26,7 +26,9 @@ Each notebook directly corresponds to a figure in the publication:
 ```results/``` --- __Model Outputs & Analysi__
 
 - Stores all generated outputs from running the notebooks in `code/`
-- Organized in `{experiment_type}_{reasoning_setting}_{language}_{model_name}.{ext}`.
+- File naming convention:
+  `{experiment_type}_{reasoning_setting}_{language}_{model_name}.{ext}`.
+- `experiment_type ∈ {results, analysis, attribution}`
 
 ```
 results/
